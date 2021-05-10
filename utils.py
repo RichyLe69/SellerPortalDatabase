@@ -1,14 +1,12 @@
 from datetime import datetime
 from bs4 import BeautifulSoup
-from selenium import webdriver
 import time
-import re
+# import re
 import prettytable
 import yaml
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium import webdriver
 import os
 
 base_url = 'https://store.tcgplayer.com/admin/product/manage/'
@@ -19,12 +17,12 @@ current_month_text = datetime.now().strftime('%h')  # Feb
 current_day = datetime.now().strftime('%d')  # // 23 //This is also padded
 
 
-def scrape_website(card_data_yaml, list_name):
+def scrape_website(card_data_yaml, list_name, browser):
     delete_console_txt()
     start = time.time()
-    browser = webdriver.Chrome(
-        executable_path=r'C:\Users\Richard Le\IdeaProjects\SellerPortalDatabase\chromedriver.exe')
-    first = True
+    file_path = ''
+
+    # first = True
     timer = 7
     lowest_listed_price_total = 0
     last_sold_price_total = 0
@@ -35,17 +33,13 @@ def scrape_website(card_data_yaml, list_name):
         card_quantity = card_data_yaml[card]['qty']
         browser.get(url)
 
-        if first:
-            # Login time
-            val = input("Enter any key after captcha: ")
-            first = False
-
         try:
-            viewing_present = WebDriverWait(browser, timer).until(
-                EC.presence_of_element_located((By.ID, 'ProductsTable')))
+            WebDriverWait(browser, timer).until(EC.presence_of_element_located((By.ID, 'ProductsTable')))
+            # viewing_present = WebDriverWait(browser, timer).until(
+            #     EC.presence_of_element_located((By.ID, 'ProductsTable')))
             # print('price table found')
             no_table = False
-        except:
+        except IndexError:
             output_to_txt_console('No Results for: {}'.format(card))
             no_table = True
 
@@ -115,14 +109,14 @@ def output_to_txt(card_name, my_table, card_quantity, condition_edition, list_na
     except FileExistsError:
         pass  # directory already exists
 
-    file_path = 'full_listings/{0}/{1}-{2}/{3}/{4}'.format(current_year_full,
-                                                           current_month,
-                                                           current_month_text,
-                                                           current_day, yaml_name)
-    with open(file_path, 'a') as my_file:
+    full_listing_file_path = 'full_listings/{0}/{1}-{2}/{3}/{4}'.format(current_year_full,
+                                                                        current_month,
+                                                                        current_month_text,
+                                                                        current_day, yaml_name)
+    with open(full_listing_file_path, 'a') as my_file:
         my_file.write('{0} [{1}] - {2}\n'.format(card_name, card_quantity, condition_edition))
         my_file.write(str(my_table) + '\n\n')
-        return file_path
+        return full_listing_file_path
 
 
 def create_pretty_table(data_prices):
@@ -201,7 +195,6 @@ def sort_market_prices(yaml_name):
         except yaml.YAMLError as exc:
             print(exc)
     yaml_data = yaml_data
-    card_list = card_list
 
     prices_sorted = {k: v for k, v in sorted(yaml_data.items(), key=lambda x: x[1], reverse=True)}
 
@@ -212,11 +205,8 @@ def sort_market_prices(yaml_name):
 
     sorted_yaml = yaml_name.replace('.yaml', '') + '_sorted.txt'
     with open(sorted_yaml, 'a') as my_file:
-        current_date = str(datetime.date(datetime.now()))
         my_file.write(str(current_date) + '\n')
         my_file.write(str(my_table) + '\n')
-
-    # delete contents of market_prices.yaml
     delete_yaml_contents(yaml_name)
     return 0
 

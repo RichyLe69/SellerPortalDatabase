@@ -1,5 +1,6 @@
 import yaml
 
+
 class CardList:
 
     def __init__(self, path, list_name):
