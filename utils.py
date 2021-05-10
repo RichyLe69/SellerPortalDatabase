@@ -1,7 +1,6 @@
 from datetime import datetime
 from bs4 import BeautifulSoup
 import time
-# import re
 import prettytable
 import yaml
 from selenium.webdriver.common.by import By
@@ -185,7 +184,7 @@ def dollar_string_to_int(dollar_string):
     return int(dollar_string)
 
 
-def sort_market_prices(yaml_name):
+def sort_market_prices(yaml_name, name):
     with open(yaml_name, 'r') as stream:
         try:
             yaml_data = yaml.safe_load(stream)
@@ -205,7 +204,7 @@ def sort_market_prices(yaml_name):
 
     sorted_yaml = yaml_name.replace('.yaml', '') + '_sorted.txt'
     with open(sorted_yaml, 'a') as my_file:
-        my_file.write(str(current_date) + '\n')
+        my_file.write(str(name) + ' - ' + str(current_date) + '\n')
         my_file.write(str(my_table) + '\n')
     delete_yaml_contents(yaml_name)
     return 0
