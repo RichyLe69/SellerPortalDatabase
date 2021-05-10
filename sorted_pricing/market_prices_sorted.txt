@@ -1,0 +1,27 @@
+2021-05-09
++----------------------------------------+-------+
+|                  Card                  | Price |
++----------------------------------------+-------+
+|       Stardust Dragon Ghost 1st        |  1612 |
+|      black rose dragon Ghost 1st       |  949  |
+|     ancient fairy dragon Ghost 1st     |  598  |
+|            honest ghost 1st            |  409  |
+| charge of the light brigade secret 1st |  271  |
+|    Allure utr 1st - Teledad overlap    |  216  |
+|           Plague UTR 1st EN            |  183  |
+|      solar recharge Ultimate 1st       |   94  |
+|             Tragoedia TU4              |   80  |
+|              lyla utr 1st              |   73  |
+|            celestia utr 1st            |   39  |
+|            ehren secret 1st            |   37  |
+|          necro gardna utr 1st          |   27  |
+|   Avenging Knight Parshath tdgs 1st    |   25  |
+|               Garoth TU                |   21  |
+|             Mist Wurm DT1              |   13  |
+|              beckoning TU              |   10  |
+|             Wulf LODT 1st              |   7   |
+|                ryko 1st                |   7   |
+|          Dark End Dragon JUMP          |   3   |
+|            Aurkus LODT 1st             |   0   |
+|                  test                  |   0   |
++----------------------------------------+-------+
