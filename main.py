@@ -26,9 +26,7 @@ if __name__ == '__main__':
     browser.quit()
 
 # TODO
-# individual lists
 # individual consoles (to allow for multi processing)
-
 
 # mysql table
 # data calculations, graph creations

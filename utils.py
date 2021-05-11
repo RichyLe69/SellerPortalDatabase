@@ -6,6 +6,7 @@ import yaml
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import TimeoutException
 import os
 
 base_url = 'https://store.tcgplayer.com/admin/product/manage/'
@@ -34,12 +35,9 @@ def scrape_website(card_data_yaml, list_name, browser):
 
         try:
             WebDriverWait(browser, timer).until(EC.presence_of_element_located((By.ID, 'ProductsTable')))
-            # viewing_present = WebDriverWait(browser, timer).until(
-            #     EC.presence_of_element_located((By.ID, 'ProductsTable')))
-            # print('price table found')
             no_table = False
-        except IndexError:
-            output_to_txt_console('No Results for: {}'.format(card))
+        except:
+            output_to_txt_console('Timeout No Results for: {}'.format(card))
             no_table = True
 
         if no_table:
@@ -65,9 +63,9 @@ def scrape_website(card_data_yaml, list_name, browser):
         my_table = create_pretty_table(data_prices)
         file_path = output_to_txt(card, my_table, card_quantity, condition_edition, list_name)
 
-    output_to_txt_console('Sum of Lowest Listed: ${}'.format(lowest_listed_price_total))
-    output_to_txt_console('Sum of Last Sold Prices: ${}'.format(last_sold_price_total))
-    output_to_txt_console('Sum of Market Prices: ${}'.format(market_price_total))
+    output_to_txt_console('Sum of Lowest Listed: ${:,.2f}'.format(lowest_listed_price_total))
+    output_to_txt_console('Sum of Last Sold Prices: ${:,.2f}'.format(last_sold_price_total))
+    output_to_txt_console('Sum of Market Prices: ${:,.2f}'.format(market_price_total))
     done = time.time()
     print(done - start)
     return file_path
@@ -130,11 +128,11 @@ def extract_data_prices(price_table, card):
     for character_index in range(0, len(price_table)):
         if price_table[character_index] == '-':
             if num_dollar_sign == 1:
-                output_to_txt_console('Missing TCG Lowest for {}'.format(card))
+                output_to_txt_console('Missing [0] TCG Lowest for:    {}'.format(card))
             if num_dollar_sign == 3:
-                output_to_txt_console('Missing TCG Last Sold for {}'.format(card))
+                output_to_txt_console('Missing [1] TCG Last Sold for: {}'.format(card))
             if num_dollar_sign == 5:
-                output_to_txt_console('Missing Market Price for {}'.format(card))
+                output_to_txt_console('Missing [2] Market Price for:  {}'.format(card))
             data_list.append(0)
             num_dollar_sign += 2
         if price_table[character_index] == '$':
@@ -143,7 +141,6 @@ def extract_data_prices(price_table, card):
             num_dollar_sign += 1
         if num_dollar_sign > 5:
             return data_list
-    # print(data_list)  # 0 = Lowest listing, 1 = Last Sold, 2 = Market Price
     return data_list
 
 
@@ -151,8 +148,8 @@ def get_card_lists(yaml_name):
     with open(yaml_name, 'r') as stream:
         try:
             card_lists = yaml.safe_load(stream)
-        except yaml.YAMLError as exc:
-            print(exc)
+        except yaml.YAMLError:
+            pass
         return card_lists
 
 
@@ -170,12 +167,10 @@ def extract_text_only(input_html, edition):
         text_only = text_only.split(start)[1]
     except IndexError:
         print(text_only)
-        print(input_html)
     try:
         text_only = text_only.split(end)[0]
     except IndexError:
         print(text_only)
-        print(input_html)
     return text_only
 
 
@@ -191,8 +186,8 @@ def sort_market_prices(yaml_name, name):
             card_list = list()
             for cards in yaml_data:
                 card_list.append(cards)
-        except yaml.YAMLError as exc:
-            print(exc)
+        except yaml.YAMLError:
+            pass
     yaml_data = yaml_data
 
     prices_sorted = {k: v for k, v in sorted(yaml_data.items(), key=lambda x: x[1], reverse=True)}
