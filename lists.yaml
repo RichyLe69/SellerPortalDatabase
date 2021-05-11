@@ -1,4 +1,4 @@
-# Full Lists. Do on first day of every month
+# Full Lists. Obselete?
 #collection:
 #  path: 'decks/collection.yaml'
 
@@ -20,7 +20,7 @@
 #
 #collection_deck_core:
 #  path: 'decks/split_lists/collection_deck_core.yaml'
-
+#
 #collection_old_school:
 #  path: 'decks/split_lists/collection_old_school.yaml'
 
@@ -43,7 +43,6 @@ buylist_goat:
 
 #buylist_mermail:
 #  path: 'decks/split_lists/buylist_mermail.yaml'
-
 
 ## Modern Ultis
 #buylist_invoked:
