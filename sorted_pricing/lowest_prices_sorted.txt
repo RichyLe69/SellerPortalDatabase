@@ -788,42 +788,7 @@ starlight - 2021-05-11
 |        Storm Dragon's Return (Starlight Rare)       |  127  |
 |                         test                        |   0   |
 +-----------------------------------------------------+-------+
-buylist_lightsworn - 2021-05-11
-+-----------------------+-------+
-|          Card         | Price |
-+-----------------------+-------+
-|    Honest Ghost 1st   |  600  |
-| Celestia Ultimate 1st |  194  |
-|       Garoth TU       |   29  |
-|     Wulf LODT 1st     |   15  |
-|    Aurkus LODT 1st    |   0   |
-|    Ehren Secret 1st   |   0   |
-|   Lyla Ultimate 1st   |   0   |
-|          test         |   0   |
-+-----------------------+-------+
-buylist_teledad - 2021-05-11
-+---------------------------+-------+
-|            Card           | Price |
-+---------------------------+-------+
-| colossal fighter Ultimate |   49  |
-|            test           |   0   |
-+---------------------------+-------+
-buylist_plants - 2021-05-11
-+-----------------------------+-------+
-|             Card            | Price |
-+-----------------------------+-------+
-|       Maxx c ultimate       |  729  |
-|     Tour Guide Ultimate     |  385  |
-|          Brionac DT         |  280  |
-|     Leviathan Ghost 1st     |  142  |
-| Solemn Warning Ultimate 1st |  133  |
-|  Scrap Dragon Ultimate 1st  |   79  |
-|     Leviair Ultimate 1st    |   64  |
-|     Steelswarm Roach 1st    |   39  |
-|         Mind Control        |   19  |
-|          Armory Arm         |   16  |
-|             test            |   0   |
-+-----------------------------+-------+
+
 buylist_extras - 2021-05-11
 +--------------------------------+-------+
 |              Card              | Price |
@@ -977,6 +942,182 @@ buylist_plants - 2021-05-11
 |  Mystical space typhoon MST MRL 1st |   97  |
 |      Scrap Dragon Ultimate 1st      |   79  |
 |         Leviair Ultimate 1st        |   64  |
+|         Steelswarm Roach 1st        |   39  |
+|             Mind Control            |   19  |
+|              Armory Arm             |   16  |
+|         Scapegoat ultra rp01        |   0   |
+|                 test                |   0   |
++-------------------------------------+-------+
+buylist_lightsworn - 2021-05-13
++----------------------------------------+-------+
+|                  Card                  | Price |
++----------------------------------------+-------+
+|       Stardust Dragon Ghost 1st        |  2499 |
+|            Honest Ghost 1st            |  699  |
+| Charge of the Light Brigade Secret 1st |  675  |
+|     Ancient Fairy Dragon Ghost 1st     |  599  |
+|    Allure utr 1st - Teledad overlap    |  293  |
+|             Tragoedia TU4              |  280  |
+|         Celestia Ultimate 1st          |  189  |
+|     Plaguespreader Ultimate 1st EN     |  182  |
+|      Solar Recharge Ultimate 1st       |   99  |
+|   Avenging Knight Parshath TDGS 1st    |   62  |
+|              Beckoning TU              |   44  |
+|                Ryko 1st                |   30  |
+|               Garoth TU                |   29  |
+|             Wulf LODT 1st              |   15  |
+|             Mist Wurm DT1              |   14  |
+|          Dark End Dragon JUMP          |   4   |
+|            Aurkus LODT 1st             |   0   |
+|      Black Rose Dragon Ghost 1st       |   0   |
+|            Ehren Secret 1st            |   0   |
+|           Lyla Ultimate 1st            |   0   |
+|       Necro Gardna Ultimate 1st        |   0   |
+|                  test                  |   0   |
++----------------------------------------+-------+
+buylist_teledad - 2021-05-13
++------------------------------------+-------+
+|                Card                | Price |
++------------------------------------+-------+
+|     Diamond Dude Ultimate 1st      |  850  |
+|     Dark Armed Dragon Ultimate     |  365  |
+|     brain control Ultimate 1st     |  315  |
+|   crush card virus Ultimate 1st    |  274  |
+|         Spirit Reaper cp3          |  259  |
+|        doom lord rare dr04         |  199  |
+|        Solemn Judgment 1st         |  195  |
+| Plaguespreader Zombie Ultimate 1st |  182  |
+|        heavy storm mrd 1st         |  140  |
+|      Dark Grepher Secret 1st       |  112  |
+|       D Hero Malicious DP05        |   49  |
+|     colossal fighter Ultimate      |   48  |
+|          Krebons TU super          |   37  |
+|     ROTA Reinforcement LOD 1st     |   19  |
+|          Destiny Draw 1st          |   15  |
+|         Sangan Super rp01          |   0   |
+|                test                |   0   |
++------------------------------------+-------+
+buylist_plants - 2021-05-13
++-------------------------------------+-------+
+|                 Card                | Price |
++-------------------------------------+-------+
+|        Monster Reborn LOB 1st       |  1999 |
+|              Brionac DT             |  280  |
+| Pot of Avarice Ultimate 1st english |  210  |
+|          Dark Hole LOB 1st          |  199  |
+|             MST ultimate            |  174  |
+|         Leviathan Ghost 1st         |  142  |
+|     Solemn Warning Ultimate 1st     |  134  |
+|  Mystical space typhoon MST MRL 1st |   97  |
+|      Scrap Dragon Ultimate 1st      |   79  |
+|         Leviair Ultimate 1st        |   61  |
+|         Steelswarm Roach 1st        |   39  |
+|              Armory Arm             |   16  |
+|                 test                |   0   |
++-------------------------------------+-------+
+buylist_extras - 2021-05-13
++--------------------------------+-------+
+|              Card              | Price |
++--------------------------------+-------+
+|   Cyber Dragon Ultimate 1st    |  1049 |
+|       Chaos Sorcerer TU        |  899  |
+| Shooting Star Dragon Ghost 1st |  599  |
+|           Lumina cp8           |  369  |
+|     Dark Armed Dragon TU6      |  365  |
+|      Judgment Dragon TU1       |  344  |
+|         Bottomless cp4         |  302  |
+|         Tragoedia TU4          |  280  |
+| Caius Shadow Monarch Ultimate  |  270  |
+|   Thunder King Raioh UTR TU8   |  168  |
+|          Doomcal TU1           |  150  |
+|   Battle Fader Ultimate 1st    |   79  |
+|     Quickdraw Synchron TU6     |   48  |
+|      Utopia Ray Ghost 1st      |   46  |
+|          Lonefire cp7          |   0   |
+|      Mirror Force MRD 1st      |   0   |
+|              test              |   0   |
++--------------------------------+-------+
+buylist_goat - 2021-05-13
++---------------------------------+-------+
+|               Card              | Price |
++---------------------------------+-------+
+|        Metamorphosis cp1        |  2300 |
+|      Magician of Faith cp2      |  1500 |
+|       Night Assailant cp1       |  950  |
+|         Book of moon cp1        |  900  |
+|       DD assailant secret       |  699  |
+|        Breaker TP7 super        |  499  |
+|        Trap Dustshoot cp5       |  449  |
+|        Gravekeeper Spy cp       |  440  |
+|       Exarion Universe DR4      |  324  |
+| Dark Magician of Chaos DMOC 1st |  240  |
+|     Call of the Haunted 1st     |  199  |
+|       Magical Merchant cp2      |  179  |
+|       Smashing Ground cp2       |  129  |
+|         Dekoichi UTR 1st        |  115  |
+|       Snatch Steal MRL 1st      |   84  |
+|         Snipe Hunter cp3        |   84  |
+|        Airknight LOD 1st        |   79  |
+|    Premature Burial Ultra 1st   |   58  |
+|     Tribe infecting MFC 1st     |   49  |
+|          Kycoo lod 1st          |   40  |
+|     Nobleman of Crossout 1st    |   30  |
+|          Mystic Tomato          |   14  |
+|          Jinzo PSV 1st          |   0   |
+|      Morphing Jar ultra TP2     |   0   |
+|         Sakuretsu Super         |   0   |
+|               test              |   0   |
++---------------------------------+-------+
+buylist_teledad - 2021-05-13
++-------------------------------------+-------+
+|                 Card                | Price |
++-------------------------------------+-------+
+|      Stardust Dragon Ghost 1st      |  2499 |
+|      Diamond Dude Ultimate 1st      |  850  |
+|          Breaker TP7 super          |  499  |
+|         dd crow Ultimate 1st        |  499  |
+|      Dark Armed Dragon Ultimate     |  365  |
+|      brain control Ultimate 1st     |  315  |
+|      goyo guardian Ultimate 1st     |  299  |
+|    crush card virus Ultimate 1st    |  274  |
+|          Spirit Reaper cp3          |  259  |
+| phoenix wing windblast Ultimate 1st |  220  |
+|         doom lord rare dr04         |  199  |
+|         Solemn Judgment 1st         |  195  |
+|  Plaguespreader Zombie Ultimate 1st |  182  |
+|         heavy storm mrd 1st         |  140  |
+|         E-Tele Ultimate 1st         |  130  |
+|       Dark Grepher Secret 1st       |  112  |
+|           Snipe Hunter cp3          |   84  |
+|        D Hero Malicious DP05        |   49  |
+|      colossal fighter Ultimate      |   48  |
+| thoughtruler archfiend Ultimate 1st |   48  |
+|           Krebons TU super          |   37  |
+|      ROTA Reinforcement LOD 1st     |   19  |
+|           Destiny Draw 1st          |   15  |
+|            mystic tomato            |   14  |
+|      royal oppression Rare LOD      |   5   |
+|          Sangan Super rp01          |   0   |
+|  red dragon archfiend Ultimate 1st  |   0   |
+|                 test                |   0   |
++-------------------------------------+-------+
+buylist_plants - 2021-05-13
++-------------------------------------+-------+
+|                 Card                | Price |
++-------------------------------------+-------+
+|        Monster Reborn LOB 1st       |  1999 |
+|           Maxx c ultimate           |  729  |
+|         Tour Guide Ultimate         |  379  |
+|              Brionac DT             |  280  |
+|      Effect Veiler Ultimate 1st     |  268  |
+| Pot of Avarice Ultimate 1st english |  210  |
+|          Dark Hole LOB 1st          |  199  |
+|             MST ultimate            |  174  |
+|         Leviathan Ghost 1st         |  142  |
+|     Solemn Warning Ultimate 1st     |  134  |
+|  Mystical space typhoon MST MRL 1st |   97  |
+|      Scrap Dragon Ultimate 1st      |   79  |
+|         Leviair Ultimate 1st        |   61  |
 |         Steelswarm Roach 1st        |   39  |
 |             Mind Control            |   19  |
 |              Armory Arm             |   16  |
