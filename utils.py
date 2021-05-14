@@ -6,7 +6,6 @@ import yaml
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import TimeoutException
 import os
 
 base_url = 'https://store.tcgplayer.com/admin/product/manage/'
@@ -23,7 +22,7 @@ def scrape_website(card_data_yaml, list_name, browser):
     file_path = ''
 
     # first = True
-    timer = 7
+    timer = 10
     lowest_listed_price_total = 0
     last_sold_price_total = 0
     market_price_total = 0
