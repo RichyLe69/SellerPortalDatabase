@@ -1295,3 +1295,135 @@ buylist_goat - 2021-05-15
 |      Morphing Jar ultra TP2     |   0   |
 |               test              |   0   |
 +---------------------------------+-------+
+buylist_lightsworn - 2021-05-17
++----------------------------------------+-------+
+|                  Card                  | Price |
++----------------------------------------+-------+
+|       Stardust Dragon Ghost 1st        |  1789 |
+|      Black Rose Dragon Ghost 1st       |  949  |
+|     Ancient Fairy Dragon Ghost 1st     |  598  |
+|            Honest Ghost 1st            |  424  |
+| Charge of the Light Brigade Secret 1st |  271  |
+|    Allure utr 1st - Teledad overlap    |  216  |
+|     Plaguespreader Ultimate 1st EN     |  183  |
+|      Solar Recharge Ultimate 1st       |   95  |
+|             Tragoedia TU4              |   77  |
+|           Lyla Ultimate 1st            |   75  |
+|            Ehren Secret 1st            |   42  |
+|         Celestia Ultimate 1st          |   39  |
+|   Avenging Knight Parshath TDGS 1st    |   34  |
+|       Necro Gardna Ultimate 1st        |   34  |
+|               Garoth TU                |   21  |
+|             Mist Wurm DT1              |   13  |
+|              Beckoning TU              |   10  |
+|                Ryko 1st                |   7   |
+|             Wulf LODT 1st              |   7   |
+|          Dark End Dragon JUMP          |   3   |
+|            Aurkus LODT 1st             |   0   |
+|                  test                  |   0   |
++----------------------------------------+-------+
+buylist_teledad - 2021-05-17
++-------------------------------------+-------+
+|                 Card                | Price |
++-------------------------------------+-------+
+|      Stardust Dragon Ghost 1st      |  1789 |
+|      Dark Armed Dragon Ultimate     |  414  |
+|          Spirit Reaper cp3          |  259  |
+|  red dragon archfiend Ultimate 1st  |  246  |
+|         dd crow Ultimate 1st        |  232  |
+|          Breaker TP7 super          |  230  |
+|  Plaguespreader Zombie Ultimate 1st |  183  |
+|         Solemn Judgment 1st         |  150  |
+|         E-Tele Ultimate 1st         |  136  |
+|         doom lord rare dr04         |  124  |
+| phoenix wing windblast Ultimate 1st |  120  |
+|       Dark Grepher Secret 1st       |  117  |
+|          Sangan Super rp01          |  117  |
+|      brain control Ultimate 1st     |   81  |
+|           Snipe Hunter cp3          |   75  |
+|      Diamond Dude Ultimate 1st      |   72  |
+|    crush card virus Ultimate 1st    |   72  |
+|         heavy storm mrd 1st         |   58  |
+|      goyo guardian Ultimate 1st     |   53  |
+| thoughtruler archfiend Ultimate 1st |   45  |
+|      colossal fighter Ultimate      |   43  |
+|           Krebons TU super          |   37  |
+|        D Hero Malicious DP05        |   21  |
+|      ROTA Reinforcement LOD 1st     |   20  |
+|            mystic tomato            |   15  |
+|           Destiny Draw 1st          |   11  |
+|      royal oppression Rare LOD      |   3   |
+|                 test                |   0   |
++-------------------------------------+-------+
+buylist_plants - 2021-05-17
++-------------------------------------+-------+
+|                 Card                | Price |
++-------------------------------------+-------+
+|        Monster Reborn LOB 1st       |  499  |
+|           Maxx c ultimate           |  445  |
+|      Effect Veiler Ultimate 1st     |  285  |
+|         Tour Guide Ultimate         |  229  |
+| Pot of Avarice Ultimate 1st english |  210  |
+|     Solemn Warning Ultimate 1st     |  132  |
+|             MST ultimate            |  119  |
+|  Mystical space typhoon MST MRL 1st |   92  |
+|         Leviathan Ghost 1st         |   85  |
+|      Scrap Dragon Ultimate 1st      |   67  |
+|          Dark Hole LOB 1st          |   66  |
+|         Leviair Ultimate 1st        |   64  |
+|              Brionac DT             |   60  |
+|         Steelswarm Roach 1st        |   21  |
+|             Mind Control            |   11  |
+|              Armory Arm             |   10  |
+|         Scapegoat ultra rp01        |   0   |
+|                 test                |   0   |
++-------------------------------------+-------+
+buylist_extras - 2021-05-17
++--------------------------------+-------+
+|              Card              | Price |
++--------------------------------+-------+
+|   Cyber Dragon Ultimate 1st    |  879  |
+|     Dark Armed Dragon TU6      |  414  |
+|      Judgment Dragon TU1       |  316  |
+|      Mirror Force MRD 1st      |  275  |
+|         Bottomless cp4         |  270  |
+| Shooting Star Dragon Ghost 1st |  260  |
+|           Lumina cp8           |  259  |
+|       Chaos Sorcerer TU        |  184  |
+|          Lonefire cp7          |  119  |
+|   Thunder King Raioh UTR TU8   |  116  |
+| Caius Shadow Monarch Ultimate  |   89  |
+|         Tragoedia TU4          |   77  |
+|      Utopia Ray Ghost 1st      |   52  |
+|   Battle Fader Ultimate 1st    |   43  |
+|          Doomcal TU1           |   24  |
+|     Quickdraw Synchron TU6     |   24  |
+|              test              |   0   |
++--------------------------------+-------+
+buylist_goat - 2021-05-17
++---------------------------------+-------+
+|               Card              | Price |
++---------------------------------+-------+
+|        Metamorphosis cp1        |  699  |
+|         Book of moon cp1        |  534  |
+|      Magician of Faith cp2      |  397  |
+|       Night Assailant cp1       |  341  |
+|       Exarion Universe DR4      |  337  |
+|        Trap Dustshoot cp5       |  268  |
+|        Gravekeeper Spy cp       |  253  |
+|        Breaker TP7 super        |  230  |
+|         Sakuretsu Super         |  213  |
+|       Magical Merchant cp2      |  179  |
+| Dark Magician of Chaos DMOC 1st |  166  |
+|       Smashing Ground cp2       |   86  |
+|         Snipe Hunter cp3        |   75  |
+|     Call of the Haunted 1st     |   71  |
+|       Snatch Steal MRL 1st      |   64  |
+|    Premature Burial Ultra 1st   |   57  |
+|     Nobleman of Crossout 1st    |   31  |
+|          Kycoo lod 1st          |   25  |
+|          Mystic Tomato          |   15  |
+|       DD assailant secret       |   0   |
+|      Morphing Jar ultra TP2     |   0   |
+|               test              |   0   |
++---------------------------------+-------+
