@@ -1661,3 +1661,95 @@ buylist_goat - 2021-05-19
 |         Sakuretsu Super         |   0   |
 |               test              |   0   |
 +---------------------------------+-------+
+trash_binder - 2021-05-19
++--------------------------------------+-------+
+|                 Card                 | Price |
++--------------------------------------+-------+
+|             kazejin 1st              |  199  |
+|          Dark Paladin Ultra          |  169  |
+|            tyrant dragon             |   90  |
+|              Metalmorph              |   79  |
+| Black Luster Soldier EOTB Secret MC2 |   75  |
+|           Jinzo Secret PSV           |   64  |
+|             Exodia Head              |   50  |
+|          summoned skull bpt          |   45  |
+|          Dark Magician LOB           |   42  |
+|         Gate Guardian Secret         |   40  |
+|             Red Eyes LOB             |   40  |
+|          dark ruler ha des           |   38  |
+|           Exodia Right Leg           |   35  |
+|            graceful dice             |   35  |
+|           sangan tu ultra            |   34  |
+|        B. Skull Dragon Ultra         |   30  |
+|        mirror force dpyg 1st         |   30  |
+|               Seiyaryu               |   29  |
+|           guardian sphinx            |   28  |
+|          Time Wizard Ultra           |   26  |
+|              Lava Golem              |   24  |
+|            Toon DMG jump             |   22  |
+|           injection fairy            |   22  |
+|          Buster Blade Ultra          |   21  |
+|       Tri Horned Dragon Secret       |   19  |
+|           XY Dragon Cannon           |   19  |
+|           Exodia Right Arm           |   18  |
+|           Exodia Left Arm            |   17  |
+|           mystical knight            |   17  |
+|           Exodia Left Leg            |   16  |
+|          big shield gardna           |   15  |
+|          breaker mc2 secret          |   14  |
+|     Serpent Night Dragon Secret      |   12  |
+|         joan guardian angel          |   12  |
+|            fushioh richie            |   11  |
+|           Change of Heart            |   10  |
+|          XYZ Dragon Cannon           |   10  |
+|              mage power              |   10  |
+|           mask of restrict           |   10  |
+|            yamata dragon             |   9   |
+|       Spellbinding Circle MRL        |   8   |
+|            Acid Trap Hole            |   7   |
+|            destiny board             |   7   |
+|         magician valky jump          |   7   |
+|           skilled dark mag           |   7   |
+|              Helpoemer               |   6   |
+|           dark necro fear            |   6   |
+|           united we stand            |   6   |
+|      Legendary Fisherman Ultra       |   5   |
+|              suijin MRD              |   5   |
+|           curse of dragon            |   4   |
+|           fiend megacyber            |   4   |
+|          harpie lady sister          |   4   |
+|           hino kagu tsuchi           |   4   |
+|        levia dragon daedalus         |   4   |
+|           Flame Swordsman            |   3   |
+|              Mystic Elf              |   3   |
+|               Poly LOB               |   3   |
+|             black tyrano             |   3   |
+|               kuriboh                |   3   |
+|          sanga thunder MRD           |   3   |
+|       sword of revealing light       |   3   |
+|             Celtic Guard             |   2   |
+|             Kazejin MRD              |   2   |
+|        flute of summ kuriboh         |   2   |
+|          gaia swift fierce           |   2   |
+|           magicians circle           |   2   |
+|              man eater               |   2   |
+|           spell canceller            |   2   |
+|              trap hole               |   2   |
+|              Dark Hole               |   1   |
+|              Salamandra              |   1   |
+|             double spell             |   1   |
+|         gemini elf ultra ioc         |   1   |
+|           card of sanctity           |   0   |
+|          dark magic curtain          |   0   |
+|             dark renewal             |   0   |
+|              de fusion               |   0   |
+|             exchange scr             |   0   |
+|            exodia necross            |   0   |
+|        giant soldier of stone        |   0   |
+|            h heated heart            |   0   |
+|              o oversoul              |   0   |
+|           obnoxious celtic           |   0   |
+|             r righteous              |   0   |
+|              skull dice              |   0   |
+|                 test                 |   0   |
++--------------------------------------+-------+
