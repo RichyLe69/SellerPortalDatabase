@@ -26,29 +26,29 @@
 
 ## Split Buylists
 
-#buylist_lightsworn:
-#  path: 'decks/split_lists/buylist_lightsworn.yaml'
-#
-#buylist_teledad:
-#  path: 'decks/split_lists/buylist_teledad.yaml'
-#
-#buylist_plants:
-#  path: 'decks/split_lists/buylist_plants.yaml'
-#
-#buylist_extras:
-#  path: 'decks/split_lists/buylist_extras.yaml'
-#
-#buylist_goat:
-#  path: 'decks/split_lists/buylist_goat.yaml'
+buylist_lightsworn:
+  path: 'decks/split_lists/buylist_lightsworn.yaml'
 
-#buylist_mermail:
-#  path: 'decks/split_lists/buylist_mermail.yaml'
+buylist_teledad:
+  path: 'decks/split_lists/buylist_teledad.yaml'
+
+buylist_plants:
+  path: 'decks/split_lists/buylist_plants.yaml'
+
+buylist_extras:
+  path: 'decks/split_lists/buylist_extras.yaml'
+
+buylist_goat:
+  path: 'decks/split_lists/buylist_goat.yaml'
+
+buylist_mermail:
+  path: 'decks/split_lists/buylist_mermail.yaml'
 
 ## Modern Ultis
 #buylist_invoked:
 #  path: 'decks/split_lists/buylist_invoked.yaml'
 
-trash_binder:
-  path: 'decks/split_lists/trash_binder.yaml'
+#trash_binder:
+#  path: 'decks/split_lists/trash_binder.yaml'
 
 
