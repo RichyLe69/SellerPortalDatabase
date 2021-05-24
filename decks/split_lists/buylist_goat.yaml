@@ -2,6 +2,7 @@
 ############ Goat Format Cards ################
 ###############################################
 
+# Goat Control Needs
 
 Morphing Jar ultra TP2:
   url: 22722
@@ -23,30 +24,17 @@ Metamorphosis cp1:
   edition: 'Near Mint'
   qty: 3
 
-Night Assailant cp1:
-  url: 26060
-  edition: 'Near Mint'
-  qty: 3
-
-Magician of Faith cp2:
-  url: 26461
-  edition: 'Near Mint'
-  qty: 3
 
 Magical Merchant cp2:
   url: 33035
   edition: 'Near Mint'
   qty: 3
 
-Gravekeeper Spy cp:
-  url: 26038
-  edition: 'Near Mint'
-  qty: 3
 
 Kycoo lod 1st:
   url: 22137
   edition: 'Near Mint 1st'
-  qty: 3
+  qty: 2
 
 Smashing Ground cp2:
   url: 26463
@@ -55,16 +43,6 @@ Smashing Ground cp2:
 
 Snipe Hunter cp3:
   url: 26039
-  edition: 'Near Mint'
-  qty: 1
-
-Tribe infecting MFC 1st:
-  url: 22540
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Breaker TP7 super:
-  url: 24912
   edition: 'Near Mint'
   qty: 1
 
@@ -83,40 +61,14 @@ DD assailant secret:
   edition: 'Near Mint'
   qty: 1
 
-Jinzo PSV 1st:
-  url: 22111
-  edition: 'Near Mint 1st'
-  qty: 1
 
-Dekoichi UTR 1st:
-  url: 58797
-  edition: 'Near Mint 1st'
-  qty: 3
-
-Nobleman of Crossout 1st:
-  url: 22267
-  edition: 'Near Mint 1st'
-  qty: 2
-
-Snatch Steal MRL 1st:
-  url: 22416
-  edition: 'Near Mint 1st'
-  qty: 1
 
 Premature Burial Ultra 1st:
   url: 22312
   edition: 'Near Mint 1st'
   qty: 1
 
-Dark Magician of Chaos DMOC 1st:
-  url: 23152
-  edition: 'Near Mint 1st'
-  qty: 1
 
-Mystic Tomato:
-  url: 26548
-  edition: 'Near Mint'
-  qty: 2
 
 Trap Dustshoot cp5:
   url: 33037
@@ -133,4 +85,4 @@ Sakuretsu Super:
   edition: 'Near Mint'
   qty: 2
 
-# threatening roar, royal decree, mimic cards
+# threatening roar, royal decree
