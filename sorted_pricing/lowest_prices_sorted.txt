@@ -2174,3 +2174,144 @@ buylist_extras - 2021-05-23
 |      Judgment Dragon TU1       |   0   |
 |              test              |   0   |
 +--------------------------------+-------+
+buylist_blackwings - 2021-05-24
++-------------------------------+-------+
+|              Card             | Price |
++-------------------------------+-------+
+|      Armor Master UTR 1st     |  189  |
+|          Vayu UTR 1st         |   99  |
+| Dark Strike Fighter Super 1st |   18  |
+|           Gale GOLD           |   3   |
+|              test             |   0   |
++-------------------------------+-------+
+buylist_chaosDragon - 2021-05-24
++---------------------------+-------+
+|            Card           | Price |
++---------------------------+-------+
+|        Doomcal TU1        |  150  |
+|           REDMD           |  110  |
+|  gaia thunder charger utr |   43  |
+|      inzektor exa SCR     |   22  |
+|      Forbidden Lance      |   19  |
+|   5 headed dragon Ultra   |   6   |
+| Ancient Sacred Wyvern UTR |   0   |
+|         Darkflare         |   0   |
+|        Lightpulsar        |   0   |
+|         Soul Taker        |   0   |
+|         giga bril         |   0   |
+|          temtempo         |   0   |
+|            test           |   0   |
++---------------------------+-------+
+buylist_dadreturn - 2021-05-24
++----------------------------------------------+-------+
+|                     Card                     | Price |
++----------------------------------------------+-------+
+|           Dimension Fusion IOC 1st           |  499  |
+|        Mind Crush Champion Pack Super        |  168  |
+|          Elemental Hero Stratos UTR          |  148  |
+| Destiny Hero Fear Monger Champion Pack Super |   78  |
+|         Dark Lord Zerato Secret 1st          |   75  |
+|         Destiny Hero Dasher UTR 1st          |   49  |
+|            Prometheus Secret 1st             |   44  |
+|            Strike Ninja Ultra 1st            |   28  |
+|  Return from Different Dimension DPKB Super  |   15  |
+|          Destiny Hero Plasma Secret          |   14  |
+|              Gold Sarc GLD 2009              |   7   |
+|         Armageddon Knight PTDN Super         |   6   |
+|      Destiny Hero Disk Commander Super       |   4   |
+|       Dark Magician of Chaos DMOC 1st        |   0   |
+|       Escape from Dark Dimension PTDN        |   0   |
+|                Jinzo PSV 1st                 |   0   |
+|                     test                     |   0   |
++----------------------------------------------+-------+
+buylist_xsaber - 2021-05-24
++--------------------------------------+-------+
+|                 Card                 | Price |
++--------------------------------------+-------+
+|          Rescue Cat - super          |  114  |
+|        Emmersblade Secret 1st        |   99  |
+| Karakuri Shogun mdl 00 "Burei" (UTR) |   90  |
+|           Darksoul UTR 1st           |   89  |
+|        XX-Saber Gottoms (UTR)        |   79  |
+|    Giant Trunade - MRL Super 1st     |   63  |
+|        XX-Saber Hyunlei (UTR)        |   53  |
+|        Naturia Barkion - dt3         |   32  |
+|   Karakuri mdl 00X "Bureido" (UTR)   |   31  |
+| Gottoms' Emergency Call - TU04 ultra |   28  |
+|       X-Saber Urbellum - DT01        |   17  |
+|         Pashuul - TU07 super         |   13  |
+|        Boggart Knight - ultra        |   12  |
+|       Airbellum - Secret HA01        |   1   |
+|       Faultroll ANPR Super 1st       |   0   |
+|        Fulhelmknight - Super         |   0   |
+|   Gaia Knight, the Force of Earth    |   0   |
+|                 test                 |   0   |
++--------------------------------------+-------+
+buylist_lightswornrulers - 2021-05-24
++--------------------------+-------+
+|           Card           | Price |
++--------------------------+-------+
+|     Big Eye AP06 UTR     |  125  |
+|      upstart Super       |  119  |
+|    Lavalval Chain DT     |   99  |
+| 101 silent honor ark UTR |   59  |
+|        draccosack        |   42  |
+|  ghostrick alucard UTR   |   23  |
+|       Minerva XYZ        |   14  |
+|    diamond dire wolf     |   9   |
+|         Blaster          |   7   |
+|  80 rhapsody in berserk  |   3   |
+|    kuribandit Scr 1st    |   3   |
+|          Raiden          |   1   |
+|         Tempest          |   1   |
+| michael arch lightsworn  |   1   |
+|       minerva baby       |   1   |
+|       soul charge        |   1   |
+|   Eclipse Wyvern Super   |   0   |
+|  Lightray Diabolos Rare  |   0   |
+|   mechquipped angineer   |   0   |
+|      needlebug nest      |   0   |
+|   starliege paladynamo   |   0   |
+|           test           |   0   |
++--------------------------+-------+
+buylist_mermail - 2021-05-24
++---------------------------------+-------+
+|               Card              | Price |
++---------------------------------+-------+
+|            Swap Frog            |  199  |
+|      Atlantean Dragoons UTR     |  179  |
+|             Big Eye             |  125  |
+|       Deep Sea Diva Super       |   90  |
+|          Abyss Dweller          |   74  |
+|      Atlantean Marksman UTR     |   58  |
+|       Mermail Abyssmegalo       |   53  |
+|           Breakthrough          |   49  |
+|        Mermail Abyssgaios       |   44  |
+|          Bahamut Shark          |   35  |
+|        Mermail Abyssgunde       |   7   |
+| Atlantean Heavy Infrantry Super |   5   |
+|       Mermail Abyss-sphere      |   5   |
+|        Mermail Abyssleed        |   5   |
+|        Mermail Abysspike        |   3   |
+| Mermail Abysslinde Ultimate 1st |   0   |
+|        Mermail Abyssteus        |   0   |
+|               test              |   0   |
++---------------------------------+-------+
+buylist_zombies - 2021-05-24
++-------------------------------------------+-------+
+|                    Card                   | Price |
++-------------------------------------------+-------+
+|              il blud scr 1st              |  649  |
+|               doomkaiser utr              |  200  |
+|               foolish super               |  192  |
+|           Plaguespreader UTR 1st          |  179  |
+|       card of safe return ultra 1st       |   88  |
+|         Zombie Master UTR Taev 1st        |   67  |
+|             Mezuki Secret pp02            |   40  |
+|         Goblin Zombie Secret PTDN         |   35  |
+|              revived king utr             |   32  |
+|            book of life pgd 1st           |   16  |
+| burial from a diff dimension - dp03 ultra |   10  |
+|    pyramid turtle - super champion pack   |   0   |
+|                    test                   |   0   |
++-------------------------------------------+-------+
