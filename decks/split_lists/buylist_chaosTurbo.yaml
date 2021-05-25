@@ -15,15 +15,15 @@ Magician of Faith cp2:
   edition: 'Near Mint'
   qty: 3
 
-Gravekeeper Spy cp:
+Gravekeeper Spy champion pack super:
   url: 26038
   edition: 'Near Mint'
   qty: 3
 
-Tribe infecting MFC 1st:
-  url: 22540
-  edition: 'Near Mint 1st'
-  qty: 1
+#Tribe infecting MFC 1st:
+#  url: 22540
+#  edition: 'Near Mint 1st'
+#  qty: 1
 
 Breaker TP7 super:
   url: 24912
@@ -60,17 +60,17 @@ Thunder Dragon MRD 1st:
   edition: 'Near Mint 1st'
   qty: 3
 
-Thunder Dragon Champion Pack:
-  url: 26473
-  edition: 'Near Mint'
-  qty: 3
+#Thunder Dragon Champion Pack:
+#  url: 26473
+#  edition: 'Near Mint'
+#  qty: 3
 
 Dark Mimic Lv1:
   url: 23354
   edition: 'Near Mint 1st'
   qty: 2
 
-Dark Mimic Lv3:
+Dark Mimic Lv3 Ultimate:
   url: 58817
   edition: 'Near Mint 1st'
   qty: 2
@@ -79,3 +79,9 @@ Card Destruction:
   url: 22648
   edition: 'Near Mint 1st'
   qty: 1
+
+Graceful Charity SDP 1st:
+  url: 23073
+  edition: 'Near Mint 1st'
+  qty: 1
+

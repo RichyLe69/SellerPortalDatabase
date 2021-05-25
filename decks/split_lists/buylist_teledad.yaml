@@ -2,70 +2,70 @@
 ############# TeleDad Deck Max Rarity ################
 ######################################################
 
-Dark Armed Dragon Ultimate:
-  url: 66731
-  edition: 'Near Mint Unlimited'
-  qty: 1
+#Dark Armed Dragon Ultimate:
+#  url: 66731
+#  edition: 'Near Mint Unlimited'
+#  qty: 1
 
-D Hero Malicious DP05:
-  url: 25632
-  edition: 'Near Mint 1st'
-  qty: 3
+#D Hero Malicious DP05:
+#  url: 25632
+#  edition: 'Near Mint 1st'
+#  qty: 3
 
-Dark Grepher Secret 1st:
-  url: 26689
-  edition: 'Near Mint 1st'
-  qty: 1
+#Dark Grepher Secret 1st:
+#  url: 26689
+#  edition: 'Near Mint 1st'
+#  qty: 1
 
-Krebons TU super:
-  url: 33227
-  edition: 'Near Mint Unlimited'
-  qty: 3
+#Krebons TU super:
+#  url: 33227
+#  edition: 'Near Mint Unlimited'
+#  qty: 3
 
-Sangan Super rp01:
-  url: 78106
-  edition: 'Near Mint Unlimited'
-  qty: 1
+#Sangan Super rp01:
+#  url: 78106
+#  edition: 'Near Mint Unlimited'
+#  qty: 1
 
-doom lord rare dr04:
-  url: 80788
-  edition: 'Near Mint Unlimited'
-  qty: 1
+#doom lord rare dr04:
+#  url: 80788
+#  edition: 'Near Mint Unlimited'
+#  qty: 1
 
 Diamond Dude Ultimate 1st :
   url: 58654
   edition: 'Near Mint 1st'
   qty: 2
 
-Plaguespreader Zombie Ultimate 1st:
-  url: 58506
-  edition: 'Near Mint 1st'
-  qty: 1
+#Plaguespreader Zombie Ultimate 1st:
+#  url: 58506
+#  edition: 'Near Mint 1st'
+#  qty: 1
 
-Spirit Reaper cp3:
-  url: 26037
-  edition: 'Near Mint'
-  qty: 1
-
-Snipe Hunter cp3:
-  url: 26039
-  edition: 'Near Mint'
-  qty: 1
+#Spirit Reaper cp3:
+#  url: 26037
+#  edition: 'Near Mint'
+#  qty: 1
+#
+#Snipe Hunter cp3:
+#  url: 26039
+#  edition: 'Near Mint'
+#  qty: 1
 
 Breaker TP7 super:
   url: 24912
   edition: 'Near Mint'
   qty: 1
 
-mystic tomato:
-  url: 26548
-  edition: 'Near Mint'
-  qty: 1
+#mystic tomato:
+#  url: 26548
+#  edition: 'Near Mint'
+#  qty: 1
 
-dd crow Ultimate 1st:
-  url: 58555
-  edition: 'Near Mint 1st'
-  qty: 1
+#dd crow Ultimate 1st:
+#  url: 58555
+#  edition: 'Near Mint 1st'
+#  qty: 1
 
 #  #Lightsworn overlap
 #allure of darkness Ultimate 1st:
@@ -73,20 +73,20 @@ dd crow Ultimate 1st:
 #  edition: 'Near Mint 1st'
 #  qty: 3
 
-E-Tele Ultimate 1st:
-  url: 58522
-  edition: 'Near Mint 1st'
-  qty: 3
+#E-Tele Ultimate 1st:
+#  url: 58522
+#  edition: 'Near Mint 1st'
+#  qty: 3
+#
+#Destiny Draw 1st:
+#  url: 25641
+#  edition: 'Near Mint 1st'
+#  qty: 3
 
-Destiny Draw 1st:
-  url: 25641
-  edition: 'Near Mint 1st'
-  qty: 3
-
-brain control Ultimate 1st:
-  url: 58749
-  edition: 'Near Mint 1st'
-  qty: 2
+#brain control Ultimate 1st:
+#  url: 58749
+#  edition: 'Near Mint 1st'
+#  qty: 2
 
 heavy storm mrd 1st:
   url: 22068
@@ -98,10 +98,10 @@ ROTA Reinforcement LOD 1st:
   edition: 'Near Mint 1st'
   qty: 2
 
-crush card virus Ultimate 1st:
-  url: 35086
-  edition: 'Near Mint 1st'
-  qty: 1
+#crush card virus Ultimate 1st:
+#  url: 35086
+#  edition: 'Near Mint 1st'
+#  qty: 1
 
 Solemn Judgment 1st:
   url: 22418
@@ -116,27 +116,27 @@ royal oppression Rare LOD:
 phoenix wing windblast Ultimate 1st:
   url: 58783
   edition: 'Near Mint 1st'
-  qty: 2
+  qty: 3
 
 red dragon archfiend Ultimate 1st:
   url: 58519
   edition: 'Near Mint 1st'
   qty: 2
 
-colossal fighter Ultimate:
-  url: 66710
-  edition: 'Near Mint'
-  qty: 2
+#colossal fighter Ultimate:
+#  url: 66710
+#  edition: 'Near Mint'
+#  qty: 2
 
 thoughtruler archfiend Ultimate 1st:
   url: 58521
   edition: 'Near Mint 1st'
-  qty: 3
-
-goyo guardian Ultimate 1st:
-  url: 58520
-  edition: 'Near Mint 1st'
   qty: 1
+
+#goyo guardian Ultimate 1st:
+#  url: 58520
+#  edition: 'Near Mint 1st'
+#  qty: 1
 
 Stardust Dragon Ghost 1st:
   url: 57793
