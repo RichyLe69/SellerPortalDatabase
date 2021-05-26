@@ -34,28 +34,25 @@ buylist_chaosTurbo:
   path: 'decks/split_lists/buylist_chaosTurbo.yaml'
 
 
-# Later buylists
+# # Later buylists
 
 #buylist_blackwings:
 #  path: 'decks/split_lists/buylist_blackwings.yaml'
-#
-#buylist_chaosDragon:
-#  path: 'decks/split_lists/buylist_chaosDragon.yaml'
-#
+
 #buylist_dadreturn:
 #  path: 'decks/split_lists/buylist_dadreturn.yaml'
-#
+
 #buylist_xsaber:
 #  path: 'decks/split_lists/buylist_xsaber.yaml'
 
-# Later Later Buylists
+ # Later Later Buylists
 
 #buylist_lightswornrulers:
 #  path: 'decks/split_lists/buylist_lightswornrulers.yaml'
-#
+
 #buylist_mermail:
 #  path: 'decks/split_lists/buylist_mermail.yaml'
-#
+
 #buylist_zombies:
 #  path: 'decks/split_lists/buylist_zombies.yaml'
 
@@ -68,7 +65,9 @@ buylist_chaosTurbo:
 #  path: 'decks/split_lists/buylist_extras.yaml'
 
 
-
+#buylist_chaosDragon:
+#  path: 'decks/split_lists/buylist_chaosDragon.yaml'
+#
 
 
 ## Modern Ultis
@@ -94,24 +93,21 @@ buylist_chaosTurbo:
 
 
 #  Buy Order Priority
-#  TDGS 1ST ed
-#  Twilight	11.5
-#  TeleDad	9
-#  Plants	5.2
-#  Chaos Turbo	6.1
+#  TDGS 1ST ed	30.8
+#  Twilight	11.8
+#  TeleDad	6.4
+#  Plants	2.5
+#  Chaos Turbo	5.6
 #
-#  Return Dad	1.2
-#  Xsaber	1
-#  Chaos Dragon	0.4
-#  Lightsworn Rulers	0.5
+#  Xsaber 2010	1
+#  Lightsworn Rulers 2014	0.5
 #  Mermails 2013	1.8
+#  Return Dad	1.2
 #
-#
+#  2006 Machine Cards
+#  Chaos Dragon	0.4
 #  Zombies	0.8
 #  Goat Staples
 #  5D's Staples
 #  Black wings	0.7
 #  Gladiator Beasts
-#  2006 Machine Cards
-#
-#  Swag Singles

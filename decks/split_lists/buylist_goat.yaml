@@ -17,7 +17,7 @@ Morphing Jar ultra TP2:
 Book of moon cp1:
   url: 26057
   edition: 'Near Mint'
-  qty: 2
+  qty: 1
 
 Metamorphosis cp1:
   url: 26058
@@ -41,10 +41,7 @@ Smashing Ground cp2:
   edition: 'Near Mint'
   qty: 1
 
-Snipe Hunter cp3:
-  url: 26039
-  edition: 'Near Mint'
-  qty: 1
+
 
 Exarion Universe DR4:
   url: 80860
@@ -60,14 +57,6 @@ DD assailant secret:
   url: 80864
   edition: 'Near Mint'
   qty: 1
-
-
-
-Premature Burial Ultra 1st:
-  url: 22312
-  edition: 'Near Mint 1st'
-  qty: 1
-
 
 
 Trap Dustshoot cp5:
@@ -86,3 +75,5 @@ Sakuretsu Super:
   qty: 2
 
 # threatening roar, royal decree
+# dd warrior lady
+# tree born, zaborg

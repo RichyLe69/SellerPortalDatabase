@@ -1,3 +1,4 @@
+# jerry wang 2008
 
 #jinzo
 #dmoc
@@ -5,17 +6,17 @@
 #dhero dasher
 #dhero plasma
 #dhero disk commander
+#stratos utr
+#dimension fusion
+#gold sarc
+#return from diff dimension
+#mind crush
+
 #dhero fear monger
 #prometheus king of shadow
 #armageddon knight
 #strike ninja
-#stratos utr
-#dimension fusion
-#gold sarc
 #escape from dark dimension
-#return from diff dimension
-#mind crush
-
 
 Dark Magician of Chaos DMOC 1st:
   url: 23152
@@ -50,30 +51,6 @@ Destiny Hero Disk Commander Super:
   qty: 1
 
 
-Destiny Hero Fear Monger Champion Pack Super:
-  url: 33054
-  edition: 'Near Mint'
-  qty: 2
-
-
-Prometheus Secret 1st:
-  url: 25789
-  edition: 'Near Mint 1st'
-  qty: 1
-
-
-Armageddon Knight PTDN Super:
-  url: 26622
-  edition: 'Near Mint 1st'
-  qty: 2
-
-
-Strike Ninja Ultra 1st:
-  url: 23094
-  edition: 'Near Mint 1st'
-  qty: 1
-
-
 Elemental Hero Stratos UTR:
   url: 181758
   edition: 'Near Mint'
@@ -91,27 +68,45 @@ Gold Sarc GLD 2009:
   edition: 'Near Mint'
   qty: 1
 
-
-Escape from Dark Dimension PTDN:
-  url: 26673
+Premature Burial Ultra 1st:
+  url: 22312
   edition: 'Near Mint 1st'
   qty: 1
-
 
 Return from Different Dimension DPKB Super:
   url: 35085
   edition: 'Near Mint 1st'
-  qty: 2
+  qty: 3
 
 
 Mind Crush Champion Pack Super:
   url: 33095
   edition: 'Near Mint'
+  qty: 1
+
+Cyber Valley PTDN Super:
+  url: 1111
+  edition: 'Near Mint 1st'
+  qty: 3
+
+# for 2007 Machine Beatdown
+
+Snipe Hunter cp3:
+  url: 26039
+  edition: 'Near Mint'
   qty: 2
 
+Painful Choice MRL 1st:
+  url: 22286
+  edition: 'Near Mint 1st'
+  qty: 1
+Confiscation MRL 1st:
+  url: 21841
+  edition: 'Near Mint 1st'
+  qty: 1
 
-
-
-
-
+Card Trooper duelist pack 1st:
+  url: 25600
+  edition: 'Near Mint 1st'
+  qty: 1
 
