@@ -2,6 +2,8 @@
 ####### Lightsworn Max Rarity Cards ###########
 ###############################################
 
+# Fully Listed
+
 Honest Ghost 1st:
   url: 27458
   edition: 'Near Mint 1st'
@@ -62,6 +64,11 @@ Solar Recharge Ultimate 1st:
   edition: 'Near Mint 1st'
   qty: 3
 
+Heavy storm mrd 1st:
+  url: 22068
+  edition: 'Near Mint 1st'
+  qty: 1
+
 Allure utr 1st - Teledad overlap:
   url: 27471
   edition: 'Near Mint 1st'
@@ -107,10 +114,10 @@ Dark End Dragon JUMP:
   edition: 'Near Mint Limited'
   qty: 1
 
-#Tempest Magician:
-#  url: 11111
-#  edition: 'Near Mint 1st'
-#  qty: 1
+Tempest Magician Scr 1st:
+  url: 28481
+  edition: 'Near Mint 1st'
+  qty: 1
 
 Doomkaiser utr 1st:
   url: 58509

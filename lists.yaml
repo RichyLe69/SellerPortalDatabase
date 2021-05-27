@@ -33,25 +33,24 @@ buylist_plants:
 buylist_chaosTurbo:
   path: 'decks/split_lists/buylist_chaosTurbo.yaml'
 
+buylist_dadreturn:
+  path: 'decks/split_lists/buylist_dadreturn.yaml'
 
 # # Later buylists
-
-#buylist_blackwings:
-#  path: 'decks/split_lists/buylist_blackwings.yaml'
-
-#buylist_dadreturn:
-#  path: 'decks/split_lists/buylist_dadreturn.yaml'
 
 #buylist_xsaber:
 #  path: 'decks/split_lists/buylist_xsaber.yaml'
 
- # Later Later Buylists
+#buylist_mermail:
+#  path: 'decks/split_lists/buylist_mermail.yaml'
+
+# Later Later Buylists
+
+#buylist_blackwings:
+#  path: 'decks/split_lists/buylist_blackwings.yaml'
 
 #buylist_lightswornrulers:
 #  path: 'decks/split_lists/buylist_lightswornrulers.yaml'
-
-#buylist_mermail:
-#  path: 'decks/split_lists/buylist_mermail.yaml'
 
 #buylist_zombies:
 #  path: 'decks/split_lists/buylist_zombies.yaml'
@@ -64,11 +63,12 @@ buylist_chaosTurbo:
 #buylist_extras:
 #  path: 'decks/split_lists/buylist_extras.yaml'
 
-
 #buylist_chaosDragon:
 #  path: 'decks/split_lists/buylist_chaosDragon.yaml'
-#
 
+
+
+## Once per Month Tracks
 
 ## Modern Ultis
 #buylist_invoked:
@@ -77,14 +77,8 @@ buylist_chaosTurbo:
 #trash_binder:
 #  path: 'decks/split_lists/trash_binder.yaml'
 
-## only use this like once a month just to track starlights
 #starlight:
 #  path: 'decks/old_lists/9-starlight.yaml'
-
-
-
-
-
 
 
 

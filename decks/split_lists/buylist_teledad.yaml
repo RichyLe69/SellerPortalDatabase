@@ -2,6 +2,9 @@
 ############# TeleDad Deck Max Rarity ################
 ######################################################
 
+# Pretty much done excluding english / foreign converts
+# Will revisit those at a later date.
+
 #Dark Armed Dragon Ultimate:
 #  url: 66731
 #  edition: 'Near Mint Unlimited'
@@ -52,10 +55,11 @@ Diamond Dude Ultimate 1st :
 #  edition: 'Near Mint'
 #  qty: 1
 
-Breaker TP7 super:
-  url: 24912
-  edition: 'Near Mint'
-  qty: 1
+# Overlay with Chaos Turbo
+#Breaker TP7 super:
+#  url: 24912
+#  edition: 'Near Mint'
+#  qty: 1
 
 #mystic tomato:
 #  url: 26548
@@ -88,10 +92,7 @@ Breaker TP7 super:
 #  edition: 'Near Mint 1st'
 #  qty: 2
 
-heavy storm mrd 1st:
-  url: 22068
-  edition: 'Near Mint 1st'
-  qty: 1
+
 
 ROTA Reinforcement LOD 1st:
   url: 22343
@@ -113,10 +114,7 @@ royal oppression Rare LOD:
   edition: 'Near Mint 1st'
   qty: 4
 
-phoenix wing windblast Ultimate 1st:
-  url: 58783
-  edition: 'Near Mint 1st'
-  qty: 3
+
 
 red dragon archfiend Ultimate 1st:
   url: 58519
