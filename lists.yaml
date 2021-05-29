@@ -21,20 +21,20 @@
 
 ## Split Buylists
 
-buylist_lightsworn:
-  path: 'decks/split_lists/buylist_lightsworn.yaml'
-
-buylist_teledad:
-  path: 'decks/split_lists/buylist_teledad.yaml'
-
-buylist_plants:
-  path: 'decks/split_lists/buylist_plants.yaml'
-
-buylist_chaosTurbo:
-  path: 'decks/split_lists/buylist_chaosTurbo.yaml'
-
-buylist_dadreturn:
-  path: 'decks/split_lists/buylist_dadreturn.yaml'
+#buylist_lightsworn:
+#  path: 'decks/split_lists/buylist_lightsworn.yaml'
+#
+#buylist_teledad:
+#  path: 'decks/split_lists/buylist_teledad.yaml'
+#
+#buylist_plants:
+#  path: 'decks/split_lists/buylist_plants.yaml'
+#
+#buylist_chaosTurbo:
+#  path: 'decks/split_lists/buylist_chaosTurbo.yaml'
+#
+#buylist_dadreturn:
+#  path: 'decks/split_lists/buylist_dadreturn.yaml'
 
 # # Later buylists
 
@@ -74,8 +74,8 @@ buylist_dadreturn:
 #buylist_invoked:
 #  path: 'decks/split_lists/buylist_invoked.yaml'
 
-#trash_binder:
-#  path: 'decks/split_lists/trash_binder.yaml'
+trash_binder:
+  path: 'decks/split_lists/trash_binder.yaml'
 
 #starlight:
 #  path: 'decks/old_lists/9-starlight.yaml'
@@ -86,22 +86,23 @@ buylist_dadreturn:
 #  path: 'decks/split_lists/test.yaml'
 
 
-#  Buy Order Priority
-#  TDGS 1ST ed	30.8
-#  Twilight	11.8
-#  TeleDad	6.4
-#  Plants	2.5
-#  Chaos Turbo	5.6
+#Buy Order Priority
+#TDGS 1ST ed	29.1
+#Twilight	12.1
+#Chaos Turbo	6.7
+#Plants	2.5
+#TeleDad	5.8
+#Return Dad	2
 #
-#  Xsaber 2010	1
-#  Lightsworn Rulers 2014	0.5
-#  Mermails 2013	1.8
-#  Return Dad	1.2
+#Mermails 2013	1.8
+#Xsaber 2010	1
+#Lightsworn Rulers 2014	0.4
+#Zombies	1.2
+#Edison Caliber Cat
 #
-#  2006 Machine Cards
-#  Chaos Dragon	0.4
-#  Zombies	0.8
-#  Goat Staples
-#  5D's Staples
-#  Black wings	0.7
-#  Gladiator Beasts
+#5D's Staples
+#Goat Staples
+#Chaos Dragon	0.4
+#Black wings	0.7
+#Gladiator Beasts
+#Swag Singles
