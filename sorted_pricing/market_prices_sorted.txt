@@ -4317,3 +4317,101 @@ trash_binder - 2021-06-06
 |              skull dice              |   0   |
 |                 test                 |   0   |
 +--------------------------------------+-------+
+trash_binder - 2021-06-06
++--------------------------------------+-------+
+|                 Card                 | Price |
++--------------------------------------+-------+
+|    Dark Magician Girl Secret UNL     |  319  |
+|        Dark Magician BPT 2002        |  149  |
+|    Red Eyes Black Dragon BPT 2002    |  137  |
+|   Blue Eyes White Dragon BPT 2002    |  101  |
+|       Dark Magician Girl LCYW        |   94  |
+|              Metalmorph              |   71  |
+|            tyrant dragon             |   61  |
+| Black Luster Soldier EOTB Secret MC2 |   60  |
+|             Exodia Head              |   58  |
+|            exodia necross            |   57  |
+|             kazejin 1st              |   52  |
+|          Dark Magician LOB           |   48  |
+|             Red Eyes LOB             |   47  |
+|         Gate Guardian Secret         |   39  |
+|           Jinzo Secret PSV           |   39  |
+|               Seiyaryu               |   36  |
+|           sangan tu ultra            |   36  |
+|           guardian sphinx            |   30  |
+|          summoned skull bpt          |   30  |
+|          Time Wizard Ultra           |   29  |
+|     Dark Magician Girl RDS Ultra     |   28  |
+|          dark ruler ha des           |   28  |
+|           injection fairy            |   28  |
+|          Dark Paladin Ultra          |   27  |
+|          Buster Blade Ultra          |   24  |
+|           Exodia Right Leg           |   23  |
+|            Toon DMG jump             |   22  |
+|       Tri Horned Dragon Secret       |   21  |
+|           Exodia Right Arm           |   19  |
+|        B. Skull Dragon Ultra         |   18  |
+|           Exodia Left Arm            |   18  |
+|           Exodia Left Leg            |   18  |
+|           XY Dragon Cannon           |   16  |
+|           Change of Heart            |   15  |
+|          big shield gardna           |   15  |
+|     Serpent Night Dragon Secret      |   14  |
+|           mystical knight            |   13  |
+|            fushioh richie            |   12  |
+|          XYZ Dragon Cannon           |   9   |
+|              Lava Golem              |   8   |
+|       Spellbinding Circle MRL        |   8   |
+|            destiny board             |   8   |
+|           mask of restrict           |   8   |
+|           skilled dark mag           |   8   |
+|           united we stand            |   8   |
+|            Acid Trap Hole            |   7   |
+|              mage power              |   7   |
+|              Helpoemer               |   6   |
+|           dark necro fear            |   6   |
+|              suijin MRD              |   6   |
+|            yamata dragon             |   6   |
+|           Flame Swordsman            |   5   |
+|      Legendary Fisherman Ultra       |   5   |
+|           curse of dragon            |   5   |
+|          sanga thunder MRD           |   5   |
+|              Mystic Elf              |   4   |
+|               Poly LOB               |   4   |
+|             black tyrano             |   4   |
+|           fiend megacyber            |   4   |
+|          harpie lady sister          |   4   |
+|           hino kagu tsuchi           |   4   |
+|               kuriboh                |   4   |
+|        levia dragon daedalus         |   4   |
+|              man eater               |   4   |
+|       sword of revealing light       |   4   |
+|             Celtic Guard             |   3   |
+|             Kazejin MRD              |   3   |
+|        mirror force dpyg 1st         |   3   |
+|              trap hole               |   3   |
+|              Dark Hole               |   2   |
+|              Salamandra              |   2   |
+|         joan guardian angel          |   2   |
+|           spell canceller            |   2   |
+|          dark magic curtain          |   1   |
+|             double spell             |   1   |
+|        flute of summ kuriboh         |   1   |
+|          breaker mc2 secret          |   0   |
+|           card of sanctity           |   0   |
+|             dark renewal             |   0   |
+|              de fusion               |   0   |
+|             exchange scr             |   0   |
+|          gaia swift fierce           |   0   |
+|         gemini elf ultra ioc         |   0   |
+|        giant soldier of stone        |   0   |
+|            graceful dice             |   0   |
+|            h heated heart            |   0   |
+|         magician valky jump          |   0   |
+|           magicians circle           |   0   |
+|              o oversoul              |   0   |
+|           obnoxious celtic           |   0   |
+|             r righteous              |   0   |
+|              skull dice              |   0   |
+|                 test                 |   0   |
++--------------------------------------+-------+

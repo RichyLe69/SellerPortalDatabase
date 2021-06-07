@@ -4,9 +4,9 @@ Missing [2] Market Price for:  exchange scr
 Missing [0] TCG Lowest for:    skull dice
 Missing [1] TCG Last Sold for: skull dice
 Missing [2] Market Price for:  skull dice
-Sum of Lowest Listed: $6,143.00
-Sum of Last Sold Prices: $3,663.00
-Sum of Market Prices: $3,668.00
+Sum of Lowest Listed: $6,474.00
+Sum of Last Sold Prices: $3,876.00
+Sum of Market Prices: $3,885.00
 
 Dark Magician BPT 2002 [3] - Near Mint Limited
 +------------+---------------+------------------+
@@ -33,7 +33,7 @@ Dark Magician Girl RDS Ultra [1] - Near Mint Limited
 +------------+---------------+------------------+
 | TCG Lowest | TCG Last Sold | TCG Market Price |
 +------------+---------------+------------------+
-|     29     |       24      |        28        |
+|     30     |       24      |        28        |
 +------------+---------------+------------------+
 
 Blue Eyes White Dragon BPT 2002 [3] - Near Mint Limited
@@ -61,7 +61,7 @@ Dark Magician LOB [1] - Near Mint Unlimited
 +------------+---------------+------------------+
 | TCG Lowest | TCG Last Sold | TCG Market Price |
 +------------+---------------+------------------+
-|     43     |       35      |        48        |
+|     42     |       35      |        48        |
 +------------+---------------+------------------+
 
 Red Eyes LOB [1] - Near Mint Unlimited
@@ -96,7 +96,7 @@ Exodia Left Leg [1] - Near Mint Unlimited
 +------------+---------------+------------------+
 | TCG Lowest | TCG Last Sold | TCG Market Price |
 +------------+---------------+------------------+
-|     14     |       15      |        18        |
+|     15     |       15      |        18        |
 +------------+---------------+------------------+
 
 Exodia Right Leg [1] - Near Mint Unlimited
@@ -180,14 +180,14 @@ Gate Guardian Secret [1] - Near Mint Unlimited
 +------------+---------------+------------------+
 | TCG Lowest | TCG Last Sold | TCG Market Price |
 +------------+---------------+------------------+
-|     38     |       45      |        39        |
+|     38     |       36      |        39        |
 +------------+---------------+------------------+
 
-B. Skull Dragon Ultra [1] - Lightly Played Unlimited
+B. Skull Dragon Ultra [1] - Near Mint Unlimited
 +------------+---------------+------------------+
 | TCG Lowest | TCG Last Sold | TCG Market Price |
 +------------+---------------+------------------+
-|     17     |       18      |        18        |
+|     25     |       25      |        31        |
 +------------+---------------+------------------+
 
 Change of Heart [1] - Near Mint Unlimited
@@ -260,11 +260,11 @@ Black Luster Soldier EOTB Secret MC2 [1] - Near Mint Limited
 |     80     |       85      |        60        |
 +------------+---------------+------------------+
 
-Jinzo Secret PSV [1] - Lightly Played Unlimited
+Jinzo Secret PSV [1] - Near Mint Unlimited
 +------------+---------------+------------------+
 | TCG Lowest | TCG Last Sold | TCG Market Price |
 +------------+---------------+------------------+
-|     49     |       50      |        39        |
+|     50     |       25      |        58        |
 +------------+---------------+------------------+
 
 Buster Blade Ultra [1] - Near Mint Unlimited
@@ -288,11 +288,11 @@ Spellbinding Circle MRL [1] - Near Mint Unlimited
 |     7      |       8       |        8         |
 +------------+---------------+------------------+
 
-Dark Paladin Ultra [2] - Lightly Played Unlimited
+Dark Paladin Ultra [2] - Near Mint Unlimited
 +------------+---------------+------------------+
 | TCG Lowest | TCG Last Sold | TCG Market Price |
 +------------+---------------+------------------+
-|     45     |       41      |        27        |
+|     84     |       84      |        65        |
 +------------+---------------+------------------+
 
 skilled dark mag [1] - Near Mint Unlimited
@@ -327,7 +327,7 @@ XYZ Dragon Cannon [1] - Near Mint Unlimited
 +------------+---------------+------------------+
 | TCG Lowest | TCG Last Sold | TCG Market Price |
 +------------+---------------+------------------+
-|     11     |       10      |        9         |
+|     10     |       10      |        9         |
 +------------+---------------+------------------+
 
 XY Dragon Cannon [1] - Near Mint Unlimited
@@ -365,14 +365,14 @@ graceful dice [1] - Near Mint Unlimited
 |     35     |       35      |        0         |
 +------------+---------------+------------------+
 
-skull dice [1] - Moderately Played Unlimited
+skull dice [1] - Near Mint Unlimited
 +------------+---------------+------------------+
 | TCG Lowest | TCG Last Sold | TCG Market Price |
 +------------+---------------+------------------+
 |     0      |       0       |        0         |
 +------------+---------------+------------------+
 
-gaia swift fierce [1] - Lightly Played Unlimited
+gaia swift fierce [1] - Near Mint limited
 +------------+---------------+------------------+
 | TCG Lowest | TCG Last Sold | TCG Market Price |
 +------------+---------------+------------------+
@@ -432,7 +432,7 @@ black tyrano [1] - Near Mint Unlimited
 +------------+---------------+------------------+
 | TCG Lowest | TCG Last Sold | TCG Market Price |
 +------------+---------------+------------------+
-|     2      |       2       |        4         |
+|     1      |       2       |        4         |
 +------------+---------------+------------------+
 
 guardian sphinx [1] - Near Mint 1st
@@ -470,11 +470,11 @@ mystical knight [1] - Near Mint 1st
 |     17     |       12      |        13        |
 +------------+---------------+------------------+
 
-exodia necross [1] - Lightly Played 1st
+exodia necross [1] - Near Mint 1st
 +------------+---------------+------------------+
 | TCG Lowest | TCG Last Sold | TCG Market Price |
 +------------+---------------+------------------+
-|     59     |       59      |        57        |
+|    295     |      200      |       155        |
 +------------+---------------+------------------+
 
 kazejin 1st [1] - Near Mint 1st
@@ -498,11 +498,11 @@ spell canceller [1] - Near Mint Unlimited
 |     2      |       2       |        2         |
 +------------+---------------+------------------+
 
-Lava Golem [1] - Lightly Played Unlimited
+Lava Golem [1] - Near Mint Unlimited
 +------------+---------------+------------------+
 | TCG Lowest | TCG Last Sold | TCG Market Price |
 +------------+---------------+------------------+
-|     10     |       10      |        8         |
+|     19     |       23      |        19        |
 +------------+---------------+------------------+
 
 Helpoemer [1] - Near Mint Unlimited
@@ -551,7 +551,7 @@ united we stand [1] - Near Mint Unlimited
 +------------+---------------+------------------+
 | TCG Lowest | TCG Last Sold | TCG Market Price |
 +------------+---------------+------------------+
-|     11     |       9       |        8         |
+|     10     |       9       |        8         |
 +------------+---------------+------------------+
 
 mask of restrict [1] - Near Mint Unlimited
@@ -607,7 +607,7 @@ Toon DMG jump [1] - Near Mint
 +------------+---------------+------------------+
 | TCG Lowest | TCG Last Sold | TCG Market Price |
 +------------+---------------+------------------+
-|     19     |       23      |        22        |
+|     20     |       23      |        22        |
 +------------+---------------+------------------+
 
 summoned skull bpt [1] - Lightly Played
