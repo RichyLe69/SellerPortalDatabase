@@ -69,8 +69,8 @@ buylist_dadreturn:
 
 ## Once per Month Tracks
 
-trash_binder:
-  path: 'decks/split_lists/trash_binder.yaml'
+#trash_binder:
+#  path: 'decks/split_lists/trash_binder.yaml'
 
 #starlight:
 #  path: 'decks/old_lists/9-starlight.yaml'

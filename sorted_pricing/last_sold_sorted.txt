@@ -12593,3 +12593,105 @@ trash_binder - 2021-07-15
 |              skull dice              |   0   |
 |                 test                 |   0   |
 +--------------------------------------+-------+
+buylist_lightsworn - 2021-07-16
++----------------------------------------+-------+
+|                  Card                  | Price |
++----------------------------------------+-------+
+|       Stardust Dragon Ghost 1st        |  2500 |
+|            Honest Ghost 1st            |  600  |
+|     Ancient Fairy Dragon Ghost 1st     |  580  |
+| Charge of the Light Brigade Secret 1st |  550  |
+|    Allure utr 1st - Teledad overlap    |  289  |
+|     Plaguespreader Ultimate 1st EN     |  179  |
+|             Tragoedia TU4              |  147  |
+|          Heavy storm mrd 1st           |  140  |
+|           Lyla Ultimate 1st            |  139  |
+|         Celestia Ultimate 1st          |  119  |
+|      Solar Recharge Ultimate 1st       |  114  |
+|   Avenging Knight Parshath TDGS 1st    |   99  |
+|           Doomkaiser utr 1st           |   49  |
+|       Necro Gardna Ultimate 1st        |   49  |
+|        Tempest Magician Scr 1st        |   45  |
+|              Beckoning TU              |   44  |
+|            Ehren Secret 1st            |   43  |
+|               Garoth TU                |   29  |
+|                Ryko 1st                |   28  |
+|             Wulf LODT 1st              |   19  |
+|             Mist Wurm DT1              |   14  |
+|          Dark End Dragon JUMP          |   2   |
+|            Aurkus LODT 1st             |   0   |
+|      Black Rose Dragon Ghost 1st       |   0   |
+|                  test                  |   0   |
++----------------------------------------+-------+
+buylist_teledad - 2021-07-16
++-------------------------------------+-------+
+|                 Card                | Price |
++-------------------------------------+-------+
+|      Stardust Dragon Ghost 1st      |  2500 |
+|  red dragon archfiend Ultimate 1st  |  244  |
+|         Solemn Judgment 1st         |   74  |
+| thoughtruler archfiend Ultimate 1st |   49  |
+|      ROTA Reinforcement LOD 1st     |   20  |
+|      royal oppression Rare LOD      |   4   |
+|      Diamond Dude Ultimate 1st      |   0   |
+|                 test                |   0   |
++-------------------------------------+-------+
+buylist_plants - 2021-07-16
++------------------------------------+-------+
+|                Card                | Price |
++------------------------------------+-------+
+|         Dark Hole LOB 1st          |   99  |
+| Mystical space typhoon MST MRL 1st |   96  |
+|        Leviathan Ghost 1st         |   80  |
+|       Monster Reborn LOB 1st       |   69  |
+|        Steelswarm Roach 1st        |   24  |
+|             Armory Arm             |   9   |
+|                test                |   0   |
++------------------------------------+-------+
+buylist_chaosTurbo - 2021-07-16
++-------------------------------------+-------+
+|                 Card                | Price |
++-------------------------------------+-------+
+|           Book of moon cp1          |  899  |
+| Gravekeeper Spy champion pack super |  399  |
+|          Chaos Sorcerer TU          |  215  |
+|         Mirror Force MRD 1st        |  200  |
+| phoenix wing windblast Ultimate 1st |  199  |
+|       Dark Mimic Lv3 Ultimate       |   99  |
+|           Dekoichi UTR 1st          |   97  |
+|         Snatch Steal MRL 1st        |   84  |
+|        Thunder Dragon MRD 1st       |   49  |
+|       Tribe infecting MFC 1st       |   39  |
+|       Nobleman of Crossout 1st      |   25  |
+|            Mystic Tomato            |   13  |
+|           Card Destruction          |   12  |
+|       Graceful Charity SDP 1st      |   7   |
+|          Breaker TP7 super          |   0   |
+|            Dark Mimic Lv1           |   0   |
+|        Magician of Faith cp2        |   0   |
+|         Night Assailant cp1         |   0   |
+|                 test                |   0   |
++-------------------------------------+-------+
+buylist_dadreturn - 2021-07-16
++--------------------------------------------+-------+
+|                    Card                    | Price |
++--------------------------------------------+-------+
+|      Dark Magician of Chaos DMOC 1st       |  240  |
+|         Elemental Hero Stratos UTR         |  180  |
+|       Mind Crush Champion Pack Super       |  169  |
+|              Snipe Hunter cp3              |  159  |
+|          Dimension Fusion IOC 1st          |   78  |
+|       Card Trooper duelist pack 1st        |   59  |
+|         Premature Burial Ultra 1st         |   59  |
+|        Dark Lord Zerato Secret 1st         |   50  |
+|        Destiny Hero Dasher UTR 1st         |   49  |
+|             Gold Sarc GLD 2009             |   39  |
+|           Painful Choice MRL 1st           |   29  |
+| Return from Different Dimension DPKB Super |   15  |
+|            Confiscation MRL 1st            |   12  |
+|         Destiny Hero Plasma Secret         |   5   |
+|          Cyber Valley PTDN Super           |   4   |
+|     Destiny Hero Disk Commander Super      |   3   |
+|               Jinzo PSV 1st                |   0   |
+|                    test                    |   0   |
++--------------------------------------------+-------+
