@@ -144,7 +144,7 @@ Change of Heart:
 Time Wizard Ultra:
   url: 22523
   edition: 'Near Mint Unlimited'
-  qty: 3
+  qty: 2
 
 Kazejin MRD:
   url: 22122
@@ -254,10 +254,10 @@ XYZ Dragon Cannon:
   edition: 'Near Mint Unlimited'
   qty: 1
 
-XY Dragon Cannon:
-  url: 22594
-  edition: 'Near Mint Unlimited'
-  qty: 1
+#XY Dragon Cannon:
+#  url: 22594
+#  edition: 'Near Mint Unlimited'
+#  qty: 1
 
 double spell:
   url: 21920

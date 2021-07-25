@@ -67,7 +67,7 @@ def scrape_website(card_data_yaml, list_name, browser):
     output_to_txt_console('Sum of Market Prices: ${:,.2f}'.format(market_price_total))
     done = time.time()
     print(done - start)
-    return file_path
+    return file_path, [lowest_listed_price_total, last_sold_price_total, market_price_total]
 
 
 def price_yaml_generator(card_name, price, yaml_name):
@@ -219,3 +219,20 @@ def append_console_to_txt(path):
     with open(path, 'w') as modified:
         modified.write(console_data + "\n" + data)
     delete_console_txt()
+
+
+def sum_total_prices(current_sums, list_of_sums):
+    # print(current_sums)
+    # print(list_of_sums)
+    current_sums[0] = current_sums[0] + list_of_sums[0]  # Lowest
+    current_sums[1] = current_sums[1] + list_of_sums[1]  # Last
+    current_sums[2] = current_sums[2] + list_of_sums[2]  # Market
+    # print(current_sums)
+    return current_sums
+
+
+def print_sums(sums):
+    print('Sum of Lowest: {}'.format(sums[0]))
+    print('Sum of Last: {}'.format(sums[1]))
+    print('Sum of Market: {}'.format(sums[2]))
+    print(sums)
