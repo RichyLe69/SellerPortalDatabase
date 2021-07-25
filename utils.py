@@ -235,4 +235,13 @@ def print_sums(sums):
     print('Sum of Lowest: {}'.format(sums[0]))
     print('Sum of Last: {}'.format(sums[1]))
     print('Sum of Market: {}'.format(sums[2]))
-    print(sums)
+    print('[{}, {}, {}]'.format(human_format(sums[0]), human_format(sums[1]), human_format(sums[2])))
+
+
+def human_format(num):
+    num = float('{:.3g}'.format(num))
+    magnitude = 0
+    while abs(num) >= 1000:
+        magnitude += 1
+        num /= 1000.0
+    return '{}{}'.format('{:.1f}'.format(num).rstrip('0').rstrip('.'), ['', 'K', 'M', 'B', 'T'][magnitude])
