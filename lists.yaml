@@ -7,17 +7,17 @@
 
 ## Split Collections
 
-#collection_deck_builder:
-#  path: 'decks/split_lists/collection_deck_builder.yaml'
-#
-#collection_extra_deck:
-#  path: 'decks/split_lists/collection_extra_deck.yaml'
-#
-#collection_deck_core:
-#  path: 'decks/split_lists/collection_deck_core.yaml'
-#
-#collection_old_school:
-#  path: 'decks/split_lists/collection_old_school.yaml'
+collection_deck_builder:
+  path: 'decks/split_lists/collection_deck_builder.yaml'
+
+collection_extra_deck:
+  path: 'decks/split_lists/collection_extra_deck.yaml'
+
+collection_deck_core:
+  path: 'decks/split_lists/collection_deck_core.yaml'
+
+collection_old_school:
+  path: 'decks/split_lists/collection_old_school.yaml'
 
 ## Split Buylists
 
@@ -38,11 +38,11 @@
 #
 ## # Later buylists
 #
-buylist_xsaber:
-  path: 'decks/split_lists/buylist_xsaber.yaml'
-
-buylist_mermail:
-  path: 'decks/split_lists/buylist_mermail.yaml'
+#buylist_xsaber:
+#  path: 'decks/split_lists/buylist_xsaber.yaml'
+#
+#buylist_mermail:
+#  path: 'decks/split_lists/buylist_mermail.yaml'
 
 # Later Later Buylists
 
