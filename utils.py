@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import time
 import prettytable
 import yaml
+# from prettytable import PLAIN_COLUMNS
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -60,6 +61,7 @@ def scrape_website(card_data_yaml, list_name, browser):
         price_yaml_generator(card, data_prices[2], 'sorted_pricing/market_prices.yaml')
 
         my_table = create_pretty_table(data_prices)
+        # my_table.set_style(PLAIN_COLUMNS)
         file_path = output_to_txt(card, my_table, card_quantity, condition_edition, list_name)
 
     output_to_txt_console('Sum of Lowest Listed: ${:,.2f}'.format(lowest_listed_price_total))

@@ -7,34 +7,34 @@
 
 ## Split Collections
 
-collection_deck_builder:
-  path: 'decks/split_lists/collection_deck_builder.yaml'
-
-collection_extra_deck:
-  path: 'decks/split_lists/collection_extra_deck.yaml'
-
-collection_deck_core:
-  path: 'decks/split_lists/collection_deck_core.yaml'
-
-collection_old_school:
-  path: 'decks/split_lists/collection_old_school.yaml'
+#collection_deck_builder:
+#  path: 'decks/split_lists/collection_deck_builder.yaml'
+#
+#collection_extra_deck:
+#  path: 'decks/split_lists/collection_extra_deck.yaml'
+#
+#collection_deck_core:
+#  path: 'decks/split_lists/collection_deck_core.yaml'
+#
+#collection_old_school:
+#  path: 'decks/split_lists/collection_old_school.yaml'
 
 ## Split Buylists
 
-#buylist_lightsworn:
-#  path: 'decks/split_lists/buylist_lightsworn.yaml'
-#
-#buylist_teledad:
-#  path: 'decks/split_lists/buylist_teledad.yaml'
-#
-#buylist_plants:
-#  path: 'decks/split_lists/buylist_plants.yaml'
-#
-#buylist_chaosTurbo:
-#  path: 'decks/split_lists/buylist_chaosTurbo.yaml'
-#
-#buylist_dadreturn:
-#  path: 'decks/split_lists/buylist_dadreturn.yaml'
+buylist_lightsworn:
+  path: 'decks/split_lists/buylist_lightsworn.yaml'
+
+buylist_teledad:
+  path: 'decks/split_lists/buylist_teledad.yaml'
+
+buylist_plants:
+  path: 'decks/split_lists/buylist_plants.yaml'
+
+buylist_chaosTurbo:
+  path: 'decks/split_lists/buylist_chaosTurbo.yaml'
+
+buylist_dadreturn:
+  path: 'decks/split_lists/buylist_dadreturn.yaml'
 #
 ## # Later buylists
 #
