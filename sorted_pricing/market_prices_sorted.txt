@@ -14667,3 +14667,90 @@ buylist_mermail - 2021-08-01
 |        Mermail Abysspike        |   3   |
 |               test              |   0   |
 +---------------------------------+-------+
+buylist_zombies - 2021-08-01
++-------------------------------------------+-------+
+|                    Card                   | Price |
++-------------------------------------------+-------+
+|               foolish super               |  190  |
+|           Plaguespreader UTR 1st          |  182  |
+|    pyramid turtle - super champion pack   |   85  |
+|         Zombie Master UTR Taev 1st        |   62  |
+|              il blud scr 1st              |   55  |
+|              revived king utr             |   41  |
+|         Goblin Zombie Secret PTDN         |   38  |
+|             Mezuki Secret pp02            |   28  |
+|       card of safe return ultra 1st       |   24  |
+| burial from a diff dimension - dp03 ultra |   11  |
+|            book of life pgd 1st           |   8   |
+|                    test                   |   0   |
++-------------------------------------------+-------+
+buylist_goat - 2021-08-01
++-------------------------+-------+
+|           Card          | Price |
++-------------------------+-------+
+|    Metamorphosis cp1    |  699  |
+|     Book of moon cp1    |  600  |
+|   Exarion Universe DR4  |  324  |
+|    Trap Dustshoot cp5   |  309  |
+|     Sakuretsu Super     |  236  |
+|   Magical Merchant cp2  |  179  |
+|   Smashing Ground cp2   |  122  |
+| Call of the Haunted 1st |   96  |
+|    Airknight LOD 1st    |   66  |
+|      Kycoo lod 1st      |   35  |
+|   DD assailant secret   |   0   |
+|  Morphing Jar ultra TP2 |   0   |
+|           test          |   0   |
++-------------------------+-------+
+buylist_extras - 2021-08-01
++--------------------------------+-------+
+|              Card              | Price |
++--------------------------------+-------+
+|   Cyber Dragon Ultimate 1st    |  1049 |
+|     Dark Armed Dragon TU6      |  421  |
+|      Judgment Dragon TU1       |  335  |
+| Shooting Star Dragon Ghost 1st |  284  |
+|         Bottomless cp4         |  275  |
+|           Lumina cp8           |  259  |
+|   Thunder King Raioh UTR TU8   |  136  |
+|          Lonefire cp7          |  127  |
+| Caius Shadow Monarch Ultimate  |  124  |
+|         Tragoedia TU4          |   81  |
+|      Utopia Ray Ghost 1st      |   58  |
+|   Battle Fader Ultimate 1st    |   47  |
+|     Quickdraw Synchron TU6     |   37  |
+|              test              |   0   |
++--------------------------------+-------+
+starlight - 2021-08-01
++-----------------------------------------------------+-------+
+|                         Card                        | Price |
++-----------------------------------------------------+-------+
+|                      10k Dragon                     |  1517 |
+|    Apollousa, Bow of the Goddess (Starlight Rare)   |  993  |
+|           I:P Masquerena (Starlight Rare)           |  778  |
+|  Dogmatika Ecclesia, the Virtuous (Starlight Rare)  |  564  |
+|           Lightning Storm (Starlight Rare)          |  488  |
+|        Triple Tactics Talent (Starlight Rare)       |  467  |
+|            Effect Veiler (Starlight Rare)           |  459  |
+|                    Utopia Astral                    |  455  |
+|   Eria the Water Charmer, Gentle (Starlight Rare)   |  438  |
+|                  Pot of Prosperity                  |  423  |
+|         Chamber Dragonmaid (Starlight Rare)         |  408  |
+|       Sky Striker Ace - Roze (Starlight Rare)       |  378  |
+|              D.D. Crow (Starlight Rare)             |  346  |
+| Aussa the Earth Charmer, Immovable (Starlight Rare) |  316  |
+|                       Trishula                      |  296  |
+|                       Ferrijit                      |  263  |
+|    Ghost Mourner & Moonlit Chill (Starlight Rare)   |  253  |
+|         Traptrix Allomerus (Starlight Rare)         |  250  |
+|       Wynn the Wind Channeler (Starlight Rare)      |  238  |
+|   Wynn the Wind Charmer, Verdant (Starlight Rare)   |  238  |
+|       Unchained Twins - Aruha (Starlight Rare)      |  199  |
+| Gaia the Magical Knight of Dragons (Starlight Rare) |  184  |
+|         Time Thief Perpetua (Starlight Rare)        |  180  |
+|         Marincess Sea Horse (Starlight Rare)        |  157  |
+|  Gorgon, Empress of the Evil Eyed (Starlight Rare)  |  136  |
+|      Salamangreat Pyro Phoenix (Starlight Rare)     |  129  |
+|        Storm Dragon's Return (Starlight Rare)       |  121  |
+|                         test                        |   0   |
++-----------------------------------------------------+-------+
