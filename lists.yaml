@@ -7,17 +7,17 @@
 
 ## Split Collections
 
-#collection_deck_builder:
-#  path: 'decks/split_lists/collection_deck_builder.yaml'
-#
-#collection_extra_deck:
-#  path: 'decks/split_lists/collection_extra_deck.yaml'
-#
-#collection_deck_core:
-#  path: 'decks/split_lists/collection_deck_core.yaml'
-#
-#collection_old_school:
-#  path: 'decks/split_lists/collection_old_school.yaml'
+collection_deck_builder:
+  path: 'decks/split_lists/collection_deck_builder.yaml'
+
+collection_extra_deck:
+  path: 'decks/split_lists/collection_extra_deck.yaml'
+
+collection_deck_core:
+  path: 'decks/split_lists/collection_deck_core.yaml'
+
+collection_old_school:
+  path: 'decks/split_lists/collection_old_school.yaml'
 
 ## Split Buylists
 
@@ -52,16 +52,16 @@
 #buylist_lightswornrulers:
 #  path: 'decks/split_lists/buylist_lightswornrulers.yaml'
 #
-buylist_zombies:
-  path: 'decks/split_lists/buylist_zombies.yaml'
+#buylist_zombies:
+#  path: 'decks/split_lists/buylist_zombies.yaml'
 
 # Very Later Later Late Buylists
 
-buylist_goat:
-  path: 'decks/split_lists/buylist_goat.yaml'
+#buylist_goat:
+#  path: 'decks/split_lists/buylist_goat.yaml'
 #
-buylist_extras:
-  path: 'decks/split_lists/buylist_extras.yaml'
+#buylist_extras:
+#  path: 'decks/split_lists/buylist_extras.yaml'
 #
 #buylist_chaosDragon:
 #  path: 'decks/split_lists/buylist_chaosDragon.yaml'
@@ -72,8 +72,8 @@ buylist_extras:
 #trash_binder:
 #  path: 'decks/split_lists/trash_binder.yaml'
 
-starlight:
-  path: 'decks/old_lists/9-starlight.yaml'
+#starlight:
+#  path: 'decks/old_lists/9-starlight.yaml'
 
 
 
