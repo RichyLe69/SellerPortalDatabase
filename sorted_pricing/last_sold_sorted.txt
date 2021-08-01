@@ -14622,3 +14622,49 @@ buylist_dadreturn - 2021-08-01
 |       Mind Crush Champion Pack Super       |   0   |
 |                    test                    |   0   |
 +--------------------------------------------+-------+
+buylist_xsaber - 2021-08-01
++--------------------------------------+-------+
+|                 Card                 | Price |
++--------------------------------------+-------+
+|          Rescue Cat - super          |   91  |
+|        XX-Saber Gottoms (UTR)        |   72  |
+|           Darksoul UTR 1st           |   50  |
+|        Emmersblade Secret 1st        |   48  |
+|        Naturia Barkion - dt3         |   44  |
+| Karakuri Shogun mdl 00 "Burei" (UTR) |   40  |
+|        XX-Saber Hyunlei (UTR)        |   39  |
+| Gottoms' Emergency Call - TU04 ultra |   34  |
+|    Giant Trunade - MRL Super 1st     |   27  |
+|   Karakuri mdl 00X "Bureido" (UTR)   |   25  |
+|         Pashuul - TU07 super         |   10  |
+|        Boggart Knight - ultra        |   9   |
+|       Faultroll ANPR Super 1st       |   9   |
+|       X-Saber Urbellum - DT01        |   9   |
+|       Airbellum - Secret HA01        |   2   |
+|        Fulhelmknight - Super         |   2   |
+|   Gaia Knight, the Force of Earth    |   0   |
+|                 test                 |   0   |
++--------------------------------------+-------+
+buylist_mermail - 2021-08-01
++---------------------------------+-------+
+|               Card              | Price |
++---------------------------------+-------+
+|            Swap Frog            |  196  |
+|      Atlantean Dragoons UTR     |  169  |
+|             Big Eye             |  104  |
+|          Abyss Dweller          |   84  |
+|       Deep Sea Diva Super       |   70  |
+|        Mermail Abyssteus        |   70  |
+|      Atlantean Marksman UTR     |   56  |
+| Mermail Abysslinde Ultimate 1st |   49  |
+|       Mermail Abyssmegalo       |   43  |
+|           Breakthrough          |   37  |
+|          Bahamut Shark          |   36  |
+|        Mermail Abyssgaios       |   28  |
+|       Mermail Abyss-sphere      |   24  |
+| Atlantean Heavy Infrantry Super |   6   |
+|        Mermail Abyssgunde       |   4   |
+|        Mermail Abyssleed        |   4   |
+|        Mermail Abysspike        |   3   |
+|               test              |   0   |
++---------------------------------+-------+
