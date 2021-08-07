@@ -7,17 +7,17 @@
 
 ## Split Collections
 
-collection_deck_builder:
-  path: 'decks/split_lists/collection_deck_builder.yaml'
-
-collection_extra_deck:
-  path: 'decks/split_lists/collection_extra_deck.yaml'
-
-collection_deck_core:
-  path: 'decks/split_lists/collection_deck_core.yaml'
-
-collection_old_school:
-  path: 'decks/split_lists/collection_old_school.yaml'
+#collection_deck_builder:
+#  path: 'decks/split_lists/collection_deck_builder.yaml'
+#
+#collection_extra_deck:
+#  path: 'decks/split_lists/collection_extra_deck.yaml'
+#
+#collection_deck_core:
+#  path: 'decks/split_lists/collection_deck_core.yaml'
+#
+#collection_old_school:
+#  path: 'decks/split_lists/collection_old_school.yaml'
 
 ## Split Buylists
 
@@ -75,8 +75,8 @@ collection_old_school:
 
 ## Once per Month Tracks
 
-#trash_binder:
-#  path: 'decks/split_lists/trash_binder.yaml'
+trash_binder:
+  path: 'decks/split_lists/trash_binder.yaml'
 
 #starlight:
 #  path: 'decks/old_lists/9-starlight.yaml'

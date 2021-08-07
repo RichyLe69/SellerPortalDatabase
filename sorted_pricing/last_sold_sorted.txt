@@ -15849,3 +15849,127 @@ collection_old_school - 2021-08-07
 |     miracle fusion Ultimate 1st ger      |   0   |
 |                   test                   |   0   |
 +------------------------------------------+-------+
+trash_binder - 2021-08-07
++----------------------------------------------+-------+
+|                     Card                     | Price |
++----------------------------------------------+-------+
+|     Black Luster Soldier EOTB Ultra 1st      |  399  |
+|           Judgment Dragon Ultimate           |  399  |
+|          Dark Armed Dragon Ultimate          |  350  |
+|       Caius Shadow Monarch Ultimate TU       |  244  |
+|           Chaos Sorcerer Ultra TU            |  215  |
+|      Cyber Twin Dragon Ultimate 1st GER      |  215  |
+|           Tragoedia Ultimate 1 ita           |  147  |
+|           Tragoedia Ultimate 3 ENG           |  147  |
+|        Solem Warning Ultimate 1st ita        |  130  |
+|              Trishula Ultimate               |  118  |
+|           Stardust Dragon Ultimate           |  113  |
+|            Honest Ghost Unlimited            |  104  |
+|           Dark Magician Girl LCYW            |  100  |
+|      Red Dragon Archfiend Ultimate Unl       |   99  |
+|          cybedark keel Ultimate 1st          |   99  |
+|         cyberdark horn Ultimate 1st          |   99  |
+|       Allure of Darkness Ultimate Unl        |   95  |
+|                exodia necross                |   95  |
+|          Glowup Bulb Ultimate 1ita           |   93  |
+|      Shooting Star Dragon Ultimate 1st       |   91  |
+|          black rose dragon ultimate          |   90  |
+|        Dark Magician Girl Secret UNL         |   85  |
+|        Red Eyes Black Dragon BPT 2002        |   79  |
+|             Leviair Ultimate Unl             |   74  |
+|             magician valky jump              |   69  |
+|       Blue Eyes White Dragon BPT 2002        |   64  |
+|       phoenix wing windblast Ultimate        |   59  |
+| Charge Of The Light Brigade Secret Unlimited |   54  |
+|          Blue-Eyes White Dragon LOB          |   50  |
+|              Dark Paladin Ultra              |   49  |
+|              breaker mc2 secret              |   39  |
+|     Black Luster Soldier EOTB Secret MC2     |   38  |
+|               Celestia UTR Unl               |   38  |
+|               sangan tu ultra                |   37  |
+|               sangan ultra tu                |   37  |
+|      Solar Recharge Ultimate Unlimited       |   35  |
+|                graceful dice                 |   35  |
+|               injection fairy                |   33  |
+|  Black Luster Soldier EOTB Ultra Unlimited   |   32  |
+|           Book of Moon TU07 Ultra            |   31  |
+|             Gate Guardian Secret             |   30  |
+|              summoned skull bpt              |   30  |
+|             Necro Gardna UTR Unl             |   29  |
+|               guardian sphinx                |   28  |
+|         Dark Magician Girl RDS Ultra         |   27  |
+|                 Red Eyes LOB                 |   26  |
+|        ancient fairy dragon Ultimate         |   26  |
+|               magicians circle               |   25  |
+|                   Seiyaryu                   |   24  |
+| Plaguespreader Zombie Ultimate Unlimited EN  |   22  |
+|              Time Wizard Ultra               |   22  |
+|                Toon DMG jump                 |   21  |
+|            B. Skull Dragon Ultra             |   19  |
+|              Dark Hole Ultra TU              |   19  |
+|               Ehren Secret Unl               |   19  |
+|              big shield gardna               |   19  |
+|               mystical knight                |   19  |
+|         Leviathan Dragon unl foreign         |   18  |
+|               mask of restrict               |   16  |
+|              Buster Blade Ultra              |   15  |
+|           Spellbinding Circle MRL            |   14  |
+|         Torrential Tribute Unlimited         |   14  |
+|           Tri Horned Dragon Secret           |   14  |
+|               hino kagu tsuchi               |   14  |
+|                  Salamandra                  |   13  |
+|               Change of Heart                |   12  |
+|                destiny board                 |   12  |
+|               united we stand                |   12  |
+|         Serpent Night Dragon Secret          |   11  |
+|              XYZ Dragon Cannon               |   11  |
+|                  Lava Golem                  |   10  |
+|              gaia swift fierce               |   10  |
+|             gemini elf ultra ioc             |   10  |
+|               Mirror Force MRD               |   9   |
+|                  mage power                  |   9   |
+|                 Kazejin MRD                  |   8   |
+|               skilled dark mag               |   8   |
+|            Dark Magician BPT 2002            |   7   |
+|               Flame Swordsman                |   7   |
+|               curse of dragon                |   7   |
+|          Legendary Fisherman Ultra           |   6   |
+|               dark necro fear                |   6   |
+|              sanga thunder MRD               |   5   |
+|                yamata dragon                 |   5   |
+|                 Celtic Guard                 |   4   |
+|            mirror force dpyg 1st             |   4   |
+|                Acid Trap Hole                |   3   |
+|                  Dark Hole                   |   3   |
+|                  Helpoemer                   |   3   |
+|                   Poly LOB                   |   3   |
+|                 black tyrano                 |   3   |
+|               fiend megacyber                |   3   |
+|             joan guardian angel              |   3   |
+|            levia dragon daedalus             |   3   |
+|                  man eater                   |   3   |
+|                  suijin MRD                  |   3   |
+|                  Mystic Elf                  |   2   |
+|                 dark renewal                 |   2   |
+|            flute of summ kuriboh             |   2   |
+|              harpie lady sister              |   2   |
+|                   kuriboh                    |   2   |
+|               spell canceller                |   2   |
+|           sword of revealing light           |   2   |
+|                  de fusion                   |   1   |
+|                 double spell                 |   1   |
+|                 Lyla UTR Unl                 |   0   |
+|          brain control Ultimate UNL          |   0   |
+|               card of sanctity               |   0   |
+|        cyberdark edge Ultimate german        |   0   |
+|              dark magic curtain              |   0   |
+|                 exchange scr                 |   0   |
+|            giant soldier of stone            |   0   |
+|                h heated heart                |   0   |
+|                  o oversoul                  |   0   |
+|               obnoxious celtic               |   0   |
+|                 r righteous                  |   0   |
+|                  skull dice                  |   0   |
+|                     test                     |   0   |
+|                  trap hole                   |   0   |
++----------------------------------------------+-------+
