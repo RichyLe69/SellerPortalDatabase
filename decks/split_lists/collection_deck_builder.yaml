@@ -13,15 +13,10 @@ Dark Armed Dragon Ultimate:
   edition: 'Near Mint Unlimited'
   qty: 3
 
-Tragoedia Ultimate 2 ENG 1 ITA:
+Tragoedia Ultimate 3 ENG:
   url: 38641
   edition: 'Near Mint Unlimited'
   qty: 3
-
-#Cyber Dragon Ultimate Japanese:
-#  url: 'N/A'
-#  edition: 'Near Mint 1st'
-#  qty: 3 # Cost around $40 each
 
 Black Luster Soldier EOTB Ultra 1st:
   url: 23112
@@ -83,10 +78,10 @@ Dandylion Ultimate:
   edition: 'Near Mint Unlimited'
   qty: 2
 
-Glowup Bulb Ultimate 2 eng 1 italian:
+Glowup Bulb Ultimate 2 eng:
   url: 58425
   edition: 'Near Mint 1st'
-  qty: 2.75
+  qty: 2
 
 Lonefire Blossom Super CP:
   url: 33077
@@ -138,11 +133,6 @@ Plaguespreader Zombie Ultimate 1st ITA:
   edition: 'Near Mint 1st'
   qty: 0.5
 
-Plaguespreader Zombie Ultimate Unlimited EN:
-  url: 58506
-  edition: 'Near Mint Unlimited'
-  qty: 1
-
 Sangan Super RP01:
   url: 78106
   edition: 'Near Mint Unlimited'
@@ -188,11 +178,6 @@ Battle Fader UTR 1st:
   edition: 'Near Mint 1st'
   qty: 2
 
-Necro Gardna UTR Unl:
-  url: 58524
-  edition: 'Near Mint Unlimited'
-  qty: 3
-
 Cyber Phoenix Ultimate 1st:
   url: 58657
   edition: 'Near Mint 1st'
@@ -231,11 +216,6 @@ Allure of Darkness Ultimate 1st ita:
   edition: 'Near Mint 1st'
   qty: 1.5
 
-Allure of Darkness Ultimate Unl:
-  url: 27471
-  edition: 'Near Mint Unlimited'
-  qty: 1
-
 Emegency Teleport Ultimate 1st ger:
   url: 58522
   edition: 'Near Mint 1st'
@@ -255,16 +235,6 @@ Pot of Greed Ultimate 1st - 2 EN 2 Foreign:
   url: 35076
   edition: 'Near Mint 1st Edition'
   qty: 3.3
-
-Charge Of The Light Brigade Secret Unlimited:
-  url: 27587
-  edition: 'Near Mint Unlimited'
-  qty: 3
-
-Solar Recharge Ultimate Unlimited:
-  url: 27466
-  edition: 'Near Mint Unlimited'
-  qty: 3
 
 Mystical Space Typhoon Ultimate:
   url: 107519
@@ -291,11 +261,6 @@ Smashing Ground Super CP:
   edition: 'Near Mint Unlimited'
   qty: 2
 
-
-Dark Hole Ultra TU:
-  url: 66711
-  edition: 'Near Mint Unlimited'
-  qty: 1
 
 Future Fusion UTR Unlimited:
   url: 58648
@@ -330,7 +295,7 @@ Solemn Judgment MRD 1st:
 Solem Warning Ultimate 1st:
   url: 58442
   edition: 'Near Mint 1st'
-  qty: 4
+  qty: 3
 
 Trap Dustshoot Super CP 2 english 1 german:
   url: 33037

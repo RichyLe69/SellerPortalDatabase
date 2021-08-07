@@ -2,36 +2,15 @@
 ############# Deck Builder Core Binder ############################ Deck Builder Core Binder ############################ Deck Builder Core Binder ###############
 ##################################################################################################################################################################
 
-Celestia UTR Unl:
-  url: 27460
-  edition: 'Near Mint Unlimited'
-  qty: 3
-
-Lyla UTR Unl:
-  url: 27463
-  edition: 'Near Mint Unlimited'
-  qty: 2
-
-Ehren Secret Unl:
-  url: 26776
-  edition: 'Near Mint Unlimited'
-  qty: 1
-
 D Hero Malicious 1st IT:
   url: 25632
   edition: 'Near Mint 1st'
   qty: 1.5
 
-Flame wingman ultra 1st:
-  url: 'https://shop.tcgplayer.com/yugioh/the-lost-millennium/elemental-hero-flame-wingman'
-  edition: 'Near Mint 1st'
-  qty: 1
-
 Reborn Tengu Ultra 3 IT 3 EN:
   url: 81003
   edition: 'Near Mint Limited'
   qty: 4.5
-
 
 Zektkaliber UTR 1st:
   url: 58382
@@ -73,11 +52,6 @@ Destiny Draw 1st IT:
   edition: 'Near Mint 1st'
   qty: 1.5
 
-Book of Moon TU07 Ultra:
-  url: 66753
-  edition: 'Near Mint'
-  qty: 4
-
 Enemy Controller AST unl:
   url: 23276
   edition: 'Near Mint Unlimited'
@@ -93,10 +67,6 @@ One For One:
   edition: 'Near Mint Limited'
   qty: 2
 
-Dark Hole Ultra TU:
-  url: 66711
-  edition: 'Near Mint Unlimited'
-  qty: 2
 
 Heavy Storm MRD Super:
   url: 22068
@@ -116,7 +86,7 @@ Raigeki LOB Super Unl:
 Torrential Tribute Unlimited:
   url: 22532
   edition: 'Near Mint Unlimited'
-  qty: 3
+  qty: 2
 
 Call of the Haunted Ultra:
   url: 21813
@@ -133,10 +103,6 @@ Return from DD 1st:
   edition: 'Near Mint 1st'
   qty: 1
 
-phoenix wing windblast Ultimate:
-  url: 58783
-  edition: 'Near Mint Unlimited'
-  qty: 2
 
 Starlight Road Scr:
   url: 34943

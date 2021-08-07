@@ -96,7 +96,7 @@ Chaos Emperor Dragon Secret 1st:
 Blue-Eyes White Dragon LOB:
   url: 21792
   edition: 'Near Mint Unlimited'
-  qty: 2
+  qty: 1
 
 Dark Magician LOB:
   url: 21876
@@ -301,39 +301,27 @@ Dark Mirror Force 1st:
   edition: 'Near Mint 1st'
   qty: 1
 
-
 # BPT Promos
 
 Dark Magician BPT 2002:
   url: 22794
   edition: 'Near Mint Limited'
-  qty: 11
-
+  qty: 3
 
 Dark Magician Girl Secret UNL:
   url: 21877
   edition: 'Near Mint Unlimited'
-  qty: 10
-
-Dark Magician Girl LCYW:
-  url: 66822
-  edition: 'Near Mint Unlimited'
-  qty: 2
-
-Dark Magician Girl RDS Ultra:
-  url: 23473
-  edition: 'Near Mint Limited'
-  qty: 1
+  qty: 3
 
 Blue Eyes White Dragon BPT 2002:
   url: 22796
   edition: 'Near Mint Limited'
-  qty: 10
+  qty: 3
 
 Red Eyes Black Dragon BPT 2002:
   url: 22798
   edition: 'Near Mint Limited'
-  qty: 17
+  qty: 3
 
 # Old School Singles
 
@@ -424,11 +412,6 @@ Buster Blade Ultra unl:
   edition: 'Near Mint Unlimited'
   qty: 1
 
-Black Luster Soldier EOTB Secret MC2:
-  url: 24619
-  edition: 'Near Mint Limited'
-  qty: 2
-
 Jack's Knight UTR:
   url: 58705
   edition: 'Near Mint Unlimited'
@@ -455,12 +438,6 @@ Dark Paladin Ultra Unlimited Reprint Art:
   qty: 2
 
 
-
-brain control Ultimate UNL:
-  url: 58749
-  edition: 'Near Mint Unlimited'
-  qty: 1
-
 Ring of Destruction Secret UNL:
   url: 22976
   edition: 'Near Mint Unlimited'
@@ -471,10 +448,7 @@ Cyber Jar Ultimate 1st:
   edition: 'Near Mint 1st'
   qty: 1
 
-sangan ultra tu:
-  url: 66732
-  edition: 'Near Mint'
-  qty: 2
+
 
 # Yugioh GX Stuff
 
@@ -598,17 +572,4 @@ hero barrier Ultimate 1st ger:
   edition: 'Near Mint 1st'
   qty: 0.3
 
-cyberdark horn Ultimate 1st:
-  url: 58571
-  edition: 'Near Mint 1st'
-  qty: 1
 
-cyberdark edge Ultimate german:
-  url: 58572
-  edition: 'Near Mint Unlimited'
-  qty: 0.3
-
-cybedark keel Ultimate 1st:
-  url: 58573
-  edition: 'Near Mint 1st'
-  qty: 1
