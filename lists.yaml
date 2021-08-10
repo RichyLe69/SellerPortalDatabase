@@ -37,31 +37,28 @@ buylist_dadreturn:
   path: 'decks/split_lists/buylist_dadreturn.yaml'
 
 ## # Later buylists
-#
+
 #buylist_mermail:
 #  path: 'decks/split_lists/buylist_mermail.yaml'
-
-#buylist_zombies:
-#  path: 'decks/split_lists/buylist_zombies.yaml'
 
 #buylist_demiseotk:
 #  path: 'decks/split_lists/buylist_demiseotk.yaml'
 
-#buylist_xsaber:
-#  path: 'decks/split_lists/buylist_xsaber.yaml'
-#
-
-
-# # # Later Later Buylists
+#buylist_zombies:
+#  path: 'decks/split_lists/buylist_zombies.yaml'
 
 #buylist_goat:
 #  path: 'decks/split_lists/buylist_goat.yaml'
-#
+
+# # # Later Later Buylists
+
+#buylist_xsaber:
+#  path: 'decks/split_lists/buylist_xsaber.yaml'
+
 #buylist_extras:
 #  path: 'decks/split_lists/buylist_extras.yaml'
 
-
-# Very Later Later Late Buylists
+# Probably don't need. Cool but not the best invests
 
 #buylist_chaosDragon:
 #  path: 'decks/split_lists/buylist_chaosDragon.yaml'
