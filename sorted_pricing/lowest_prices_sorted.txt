@@ -16472,3 +16472,119 @@ buylist_dadreturn - 2021-08-12
 |     Destiny Hero Disk Commander Super      |   4   |
 |                    test                    |   0   |
 +--------------------------------------------+-------+
+trash_binder - 2021-08-12
++----------------------------------------------+-------+
+|                     Card                     | Price |
++----------------------------------------------+-------+
+|      Cyber Twin Dragon Ultimate 1st GER      |  800  |
+|        Dark Magician Girl Secret UNL         |  325  |
+|              Trishula Ultimate               |  169  |
+|           Tragoedia Ultimate 1 ita           |  164  |
+|           Stardust Dragon Ultimate           |  147  |
+|        Solem Warning Ultimate 1st ita        |  143  |
+|            Dark Magician BPT 2002            |  119  |
+|           Dark Magician Girl LCYW            |  119  |
+|        Red Eyes Black Dragon BPT 2002        |  107  |
+|       Allure of Darkness Ultimate Unl        |  103  |
+|       Blue Eyes White Dragon BPT 2002        |  100  |
+|      Red Dragon Archfiend Ultimate Unl       |   96  |
+|          black rose dragon ultimate          |   95  |
+|                exodia necross                |   95  |
+|          Glowup Bulb Ultimate 1ita           |   87  |
+|         cyberdark horn Ultimate 1st          |   85  |
+|      Shooting Star Dragon Ultimate 1st       |   80  |
+|          Blue-Eyes White Dragon LOB          |   75  |
+|             Leviair Ultimate Unl             |   74  |
+|          cybedark keel Ultimate 1st          |   68  |
+|     Black Luster Soldier EOTB Secret MC2     |   63  |
+|       phoenix wing windblast Ultimate        |   60  |
+|      Solar Recharge Ultimate Unlimited       |   46  |
+|                 Lyla UTR Unl                 |   44  |
+| Charge Of The Light Brigade Secret Unlimited |   42  |
+|                 Red Eyes LOB                 |   39  |
+|               Celestia UTR Unl               |   37  |
+|        ancient fairy dragon Ultimate         |   36  |
+|               sangan tu ultra                |   35  |
+|               sangan ultra tu                |   35  |
+|              Dark Paladin Ultra              |   34  |
+|               injection fairy                |   33  |
+|            mirror force dpyg 1st             |   29  |
+|               guardian sphinx                |   28  |
+|              summoned skull bpt              |   28  |
+|           Book of Moon TU07 Ultra            |   27  |
+|             Gate Guardian Secret             |   25  |
+|         Leviathan Dragon unl foreign         |   24  |
+| Plaguespreader Zombie Ultimate Unlimited EN  |   24  |
+|         Dark Magician Girl RDS Ultra         |   20  |
+|              big shield gardna               |   20  |
+|                graceful dice                 |   20  |
+|              Dark Hole Ultra TU              |   19  |
+|                Toon DMG jump                 |   19  |
+|                  skull dice                  |   19  |
+|            B. Skull Dragon Ultra             |   18  |
+|              Time Wizard Ultra               |   18  |
+|                   Seiyaryu                   |   17  |
+|               mystical knight                |   17  |
+|              Buster Blade Ultra              |   16  |
+|               Mirror Force MRD               |   16  |
+|               Ehren Secret Unl               |   15  |
+|         Torrential Tribute Unlimited         |   14  |
+|              breaker mc2 secret              |   14  |
+|           Tri Horned Dragon Secret           |   13  |
+|               Change of Heart                |   12  |
+|                destiny board                 |   10  |
+|               mask of restrict               |   10  |
+|               united we stand                |   10  |
+|              XYZ Dragon Cannon               |   9   |
+|                yamata dragon                 |   9   |
+|         Serpent Night Dragon Secret          |   8   |
+|           Spellbinding Circle MRL            |   8   |
+|               hino kagu tsuchi               |   8   |
+|                  mage power                  |   8   |
+|               skilled dark mag               |   8   |
+|                  Lava Golem                  |   7   |
+|               Flame Swordsman                |   6   |
+|                  Helpoemer                   |   6   |
+|             magician valky jump              |   6   |
+|          Legendary Fisherman Ultra           |   5   |
+|               curse of dragon                |   5   |
+|              sanga thunder MRD               |   5   |
+|                 double spell                 |   4   |
+|            levia dragon daedalus             |   4   |
+|               spell canceller                |   4   |
+|                Acid Trap Hole                |   3   |
+|                 Celtic Guard                 |   3   |
+|                   Poly LOB                   |   3   |
+|                 black tyrano                 |   3   |
+|               dark necro fear                |   3   |
+|               fiend megacyber                |   3   |
+|             joan guardian angel              |   3   |
+|                   kuriboh                    |   3   |
+|                 Kazejin MRD                  |   2   |
+|                  Mystic Elf                  |   2   |
+|              gaia swift fierce               |   2   |
+|              harpie lady sister              |   2   |
+|                  suijin MRD                  |   2   |
+|           sword of revealing light           |   2   |
+|                  Dark Hole                   |   1   |
+|                  Salamandra                  |   1   |
+|            flute of summ kuriboh             |   1   |
+|               magicians circle               |   1   |
+|                  man eater                   |   1   |
+|                  trap hole                   |   1   |
+|             Necro Gardna UTR Unl             |   0   |
+|          brain control Ultimate UNL          |   0   |
+|               card of sanctity               |   0   |
+|        cyberdark edge Ultimate german        |   0   |
+|              dark magic curtain              |   0   |
+|                 dark renewal                 |   0   |
+|                  de fusion                   |   0   |
+|                 exchange scr                 |   0   |
+|             gemini elf ultra ioc             |   0   |
+|            giant soldier of stone            |   0   |
+|                h heated heart                |   0   |
+|                  o oversoul                  |   0   |
+|               obnoxious celtic               |   0   |
+|                 r righteous                  |   0   |
+|                     test                     |   0   |
++----------------------------------------------+-------+
