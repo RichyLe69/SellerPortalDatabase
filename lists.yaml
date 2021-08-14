@@ -21,20 +21,20 @@
 
 ## Split Buylists
 
-#buylist_lightsworn:
-#  path: 'decks/split_lists/buylist_lightsworn.yaml'
-#
-#buylist_teledad:
-#  path: 'decks/split_lists/buylist_teledad.yaml'
-#
-#buylist_plants:
-#  path: 'decks/split_lists/buylist_plants.yaml'
-#
-#buylist_chaosTurbo:
-#  path: 'decks/split_lists/buylist_chaosTurbo.yaml'
-#
-#buylist_dadreturn:
-#  path: 'decks/split_lists/buylist_dadreturn.yaml'
+buylist_lightsworn:
+  path: 'decks/split_lists/buylist_lightsworn.yaml'
+
+buylist_teledad:
+  path: 'decks/split_lists/buylist_teledad.yaml'
+
+buylist_plants:
+  path: 'decks/split_lists/buylist_plants.yaml'
+
+buylist_chaosTurbo:
+  path: 'decks/split_lists/buylist_chaosTurbo.yaml'
+
+buylist_dadreturn:
+  path: 'decks/split_lists/buylist_dadreturn.yaml'
 
 ## # Later buylists
 
@@ -72,8 +72,8 @@
 
 ## Once per Month Tracks
 
-trash_binder:
-  path: 'decks/split_lists/trash_binder.yaml'
+#trash_binder:
+#  path: 'decks/split_lists/trash_binder.yaml'
 
 #starlight:
 #  path: 'decks/old_lists/9-starlight.yaml'
