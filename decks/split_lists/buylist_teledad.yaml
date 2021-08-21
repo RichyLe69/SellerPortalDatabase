@@ -40,6 +40,11 @@ Diamond Dude Ultimate 1st :
   edition: 'Near Mint 1st'
   qty: 2
 
+mystic tomato:
+  url: 26548
+  edition: 'Near Mint'
+  qty: 1
+
 #Plaguespreader Zombie Ultimate 1st:
 #  url: 58506
 #  edition: 'Near Mint 1st'
@@ -61,21 +66,12 @@ Diamond Dude Ultimate 1st :
 #  edition: 'Near Mint'
 #  qty: 1
 
-#mystic tomato:
-#  url: 26548
-#  edition: 'Near Mint'
-#  qty: 1
 
 #dd crow Ultimate 1st:
 #  url: 58555
 #  edition: 'Near Mint 1st'
 #  qty: 1
 
-#  #Lightsworn overlap
-#allure of darkness Ultimate 1st:
-#  url: 'https://shop.tcgplayer.com/yugioh/phantom-darkness/allure-of-darkness-utr'
-#  edition: 'Near Mint 1st'
-#  qty: 3
 
 #E-Tele Ultimate 1st:
 #  url: 58522
@@ -92,10 +88,18 @@ Diamond Dude Ultimate 1st :
 #  edition: 'Near Mint 1st'
 #  qty: 1
 
-
+Monster Reborn LOB 1st:
+  url: 22233
+  edition: 'Near Mint 1st'
+  qty: 1
 
 ROTA Reinforcement LOD 1st:
   url: 22343
+  edition: 'Near Mint 1st'
+  qty: 2
+
+Mystical space typhoon MST MRL 1st:
+  url: 22255
   edition: 'Near Mint 1st'
   qty: 2
 
@@ -121,20 +125,20 @@ red dragon archfiend Ultimate 1st:
   edition: 'Near Mint 1st'
   qty: 2
 
-#colossal fighter Ultimate:
-#  url: 66710
-#  edition: 'Near Mint'
-#  qty: 2
+colossal fighter Ultimate:
+  url: 66710
+  edition: 'Near Mint'
+  qty: 1
 
 thoughtruler archfiend Ultimate 1st:
   url: 58521
   edition: 'Near Mint 1st'
   qty: 1
 
-#goyo guardian Ultimate 1st:
-#  url: 58520
-#  edition: 'Near Mint 1st'
-#  qty: 1
+goyo guardian Ultimate 1st:
+  url: 58520
+  edition: 'Near Mint 1st'
+  qty: 1
 
 Stardust Dragon Ghost 1st:
   url: 57793

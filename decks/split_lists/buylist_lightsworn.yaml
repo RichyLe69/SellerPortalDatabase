@@ -3,13 +3,6 @@
 ###############################################
 
 # Fully Listed
-
-
-Honest Ghost 1st:
-  url: 27458
-  edition: 'Near Mint 1st'
-  qty: 3
-
 Celestia Ultimate 1st:
   url: 27460
   edition: 'Near Mint 1st'
@@ -24,17 +17,10 @@ Wulf LODT 1st:
   url: 26717
   edition: 'Near Mint 1st'
   qty: 3
-
 Aurkus LODT 1st:
   url: 26775
   edition: 'Near Mint 1st'
   qty: 1
-
-Garoth TU:
-  url: 33226
-  edition: 'Near Mint Unlimited'
-  qty: 2
-
 Ehren Secret 1st:
   url: 26776
   edition: 'Near Mint 1st'
@@ -44,16 +30,65 @@ Ryko 1st:
   url: 26716
   edition: 'Near Mint 1st'
   qty: 3
+Plaguespreader Ultimate 1st EN:
+  url: 58506
+  edition: 'Near Mint 1st'
+  qty: 1
+Allure utr 1st - Teledad overlap:
+  url: 27471
+  edition: 'Near Mint 1st'
+  qty: 3
+Black Rose Dragon Ghost 1st:
+  url: 28432
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Ancient Fairy Dragon Ghost 1st:
+  url: 33223
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Mist Wurm DT1:
+  url: 80927
+  edition: 'Near Mint Limited'
+  qty: 1
+Dark End Dragon JUMP:
+  url: 38505
+  edition: 'Near Mint Limited'
+  qty: 1
+
+Tempest Magician Scr 1st:
+  url: 28481
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Doomkaiser utr 1st:
+  url: 58509
+  edition: 'Near Mint 1st'
+  qty: 1
+
+
+#
+
+
+Honest Ghost 1st:
+  url: 27458
+  edition: 'Near Mint 1st'
+  qty: 3
+
+
+Garoth TU:
+  url: 33226
+  edition: 'Near Mint Unlimited'
+  qty: 2
+
 
 Necro Gardna Ultimate 1st:
   url: 58524
   edition: 'Near Mint 1st'
   qty: 3
 
-Plaguespreader Ultimate 1st EN:
-  url: 58506
-  edition: 'Near Mint 1st'
-  qty: 1
+
 
 Charge of the Light Brigade Secret 1st:
   url: 27587
@@ -70,10 +105,7 @@ Heavy storm mrd 1st:
   edition: 'Near Mint 1st'
   qty: 1
 
-Allure utr 1st - Teledad overlap:
-  url: 27471
-  edition: 'Near Mint 1st'
-  qty: 3
+
 
 Beckoning TU:
   url: 66694
@@ -90,40 +122,13 @@ Stardust Dragon Ghost 1st:
   edition: 'Near Mint 1st'
   qty: 1
 
-Black Rose Dragon Ghost 1st:
-  url: 28432
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Ancient Fairy Dragon Ghost 1st:
-  url: 33223
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Mist Wurm DT1:
-  url: 80927
-  edition: 'Near Mint Limited'
-  qty: 1
 
 Avenging Knight Parshath TDGS 1st:
   url: 27498
   edition: 'Near Mint 1st'
   qty: 1
 
-Dark End Dragon JUMP:
-  url: 38505
-  edition: 'Near Mint Limited'
-  qty: 1
 
-Tempest Magician Scr 1st:
-  url: 28481
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Doomkaiser utr 1st:
-  url: 58509
-  edition: 'Near Mint 1st'
-  qty: 1
 
 #All in NA English
 #3 Honest Ghost 1st NM
