@@ -24,25 +24,25 @@
 buylist_lightsworn:
   path: 'decks/split_lists/buylist_lightsworn.yaml'
 
+buylist_chaosTurbo:
+  path: 'decks/split_lists/buylist_chaosTurbo.yaml'
+
 buylist_teledad:
   path: 'decks/split_lists/buylist_teledad.yaml'
 
 buylist_plants:
   path: 'decks/split_lists/buylist_plants.yaml'
 
-buylist_chaosTurbo:
-  path: 'decks/split_lists/buylist_chaosTurbo.yaml'
-
 buylist_dadreturn:
   path: 'decks/split_lists/buylist_dadreturn.yaml'
 
 ## # Later buylists
 
-#buylist_mermail:
-#  path: 'decks/split_lists/buylist_mermail.yaml'
-
 #buylist_demiseotk:
 #  path: 'decks/split_lists/buylist_demiseotk.yaml'
+
+#buylist_mermail:
+#  path: 'decks/split_lists/buylist_mermail.yaml'
 
 #buylist_zombies:
 #  path: 'decks/split_lists/buylist_zombies.yaml'

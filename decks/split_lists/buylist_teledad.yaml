@@ -2,28 +2,109 @@
 ############# TeleDad Deck Max Rarity ################
 ######################################################
 
-# Pretty much done excluding english / foreign converts
-# Will revisit those at a later date.
+# English conversions, priority after chaos turbo.
+
+D Hero Malicious DP05:
+  url: 25632
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Diamond Dude Ultimate 1st :
+  url: 58654
+  edition: 'Near Mint 1st'
+  qty: 2
+
+Krebons TU super:
+  url: 33227
+  edition: 'Near Mint Unlimited'
+  qty: 3
+
+mystic tomato:
+  url: 26548
+  edition: 'Near Mint'
+  qty: 1
+
+brain control Ultimate 1st:
+  url: 58749
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Destiny Draw 1st:
+  url: 25641
+  edition: 'Near Mint 1st'
+  qty: 3
+
+E-Tele Ultimate 1st:
+  url: 58522
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Mystical space typhoon MST MRL 1st:
+  url: 22255
+  edition: 'Near Mint 1st'
+  qty: 2
+
+Monster Reborn LOB 1st:
+  url: 22233
+  edition: 'Near Mint 1st'
+  qty: 1
+
+ROTA Reinforcement LOD 1st:
+  url: 22343
+  edition: 'Near Mint 1st'
+  qty: 2
+
+Solemn Judgment 1st:
+  url: 22418
+  edition: 'Near Mint 1st Edition'
+  qty: 2
+
+royal oppression Rare LOD:
+  url: 22370
+  edition: 'Near Mint 1st'
+  qty: 2
+
+red dragon archfiend Ultimate 1st:
+  url: 58519
+  edition: 'Near Mint 1st'
+  qty: 3
+
+colossal fighter Ultimate:
+  url: 66710
+  edition: 'Near Mint'
+  qty: 1
+
+thoughtruler archfiend Ultimate 1st:
+  url: 58521
+  edition: 'Near Mint 1st'
+  qty: 1
+
+goyo guardian Ultimate 1st:
+  url: 58520
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Stardust Dragon Ghost 1st:
+  url: 57793
+  edition: 'Near Mint 1st'
+  qty: 2
+
+
+
+
+#####
+
+
 
 #Dark Armed Dragon Ultimate:
 #  url: 66731
 #  edition: 'Near Mint Unlimited'
 #  qty: 1
 
-#D Hero Malicious DP05:
-#  url: 25632
-#  edition: 'Near Mint 1st'
-#  qty: 3
-
 #Dark Grepher Secret 1st:
 #  url: 26689
 #  edition: 'Near Mint 1st'
 #  qty: 1
-
-#Krebons TU super:
-#  url: 33227
-#  edition: 'Near Mint Unlimited'
-#  qty: 3
 
 #Sangan Super rp01:
 #  url: 78106
@@ -34,16 +115,6 @@
 #  url: 80788
 #  edition: 'Near Mint Unlimited'
 #  qty: 1
-
-Diamond Dude Ultimate 1st :
-  url: 58654
-  edition: 'Near Mint 1st'
-  qty: 2
-
-mystic tomato:
-  url: 26548
-  edition: 'Near Mint'
-  qty: 1
 
 #Plaguespreader Zombie Ultimate 1st:
 #  url: 58506
@@ -66,81 +137,12 @@ mystic tomato:
 #  edition: 'Near Mint'
 #  qty: 1
 
-
 #dd crow Ultimate 1st:
 #  url: 58555
 #  edition: 'Near Mint 1st'
 #  qty: 1
 
-
-#E-Tele Ultimate 1st:
-#  url: 58522
-#  edition: 'Near Mint 1st'
-#  qty: 3
-#
-#Destiny Draw 1st:
-#  url: 25641
-#  edition: 'Near Mint 1st'
-#  qty: 3
-
-#brain control Ultimate 1st:
-#  url: 58749
-#  edition: 'Near Mint 1st'
-#  qty: 1
-
-Monster Reborn LOB 1st:
-  url: 22233
-  edition: 'Near Mint 1st'
-  qty: 1
-
-ROTA Reinforcement LOD 1st:
-  url: 22343
-  edition: 'Near Mint 1st'
-  qty: 2
-
-Mystical space typhoon MST MRL 1st:
-  url: 22255
-  edition: 'Near Mint 1st'
-  qty: 2
-
 #crush card virus Ultimate 1st:
 #  url: 35086
 #  edition: 'Near Mint 1st'
 #  qty: 1
-
-Solemn Judgment 1st:
-  url: 22418
-  edition: 'Near Mint 1st Edition'
-  qty: 2
-
-royal oppression Rare LOD:
-  url: 22370
-  edition: 'Near Mint 1st'
-  qty: 2
-
-
-
-red dragon archfiend Ultimate 1st:
-  url: 58519
-  edition: 'Near Mint 1st'
-  qty: 2
-
-colossal fighter Ultimate:
-  url: 66710
-  edition: 'Near Mint'
-  qty: 1
-
-thoughtruler archfiend Ultimate 1st:
-  url: 58521
-  edition: 'Near Mint 1st'
-  qty: 1
-
-goyo guardian Ultimate 1st:
-  url: 58520
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Stardust Dragon Ghost 1st:
-  url: 57793
-  edition: 'Near Mint 1st'
-  qty: 2
