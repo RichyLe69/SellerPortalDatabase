@@ -13,8 +13,18 @@ Dark Armed Dragon Ultimate:
   edition: 'Near Mint Unlimited'
   qty: 3
 
-Tragoedia Ultimate 3 ENG:
+Tragoedia Ultimate 3:
   url: 38641
+  edition: 'Near Mint Unlimited'
+  qty: 3
+
+Cyber Dragon Ultimate 1st:
+  url: 58717
+  edition: 'Moderately Played 1st'
+  qty: 3
+
+Caius Shadow Monarch Ultimate TU:
+  url: 66668
   edition: 'Near Mint Unlimited'
   qty: 3
 
@@ -33,10 +43,15 @@ Chaos Sorcerer Ultra TU:
   edition: 'Near Mint'
   qty: 2
 
-Caius Shadow Monarch Ultimate TU:
-  url: 66668
-  edition: 'Near Mint Unlimited'
-  qty: 3
+Dekoichi UTR 1st NM:
+  url: 58797
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Dekoichi UTR 1st LP:
+  url: 58797
+  edition: 'Lightly Played 1st'
+  qty: 2
 
 Honest Ghost Unlimited:
   url: 27458
@@ -46,6 +61,11 @@ Honest Ghost Unlimited:
 Lumina, Lightsworn Summoner Super CP:
   url: 33097
   edition: 'Near Mint Unlimited'
+  qty: 3
+
+Honest Ghost 1st:
+  url: 27458
+  edition: 'Near Mint 1st'
   qty: 3
 
 Tour Guide Ultimate Italian:
@@ -78,10 +98,10 @@ Dandylion Ultimate:
   edition: 'Near Mint Unlimited'
   qty: 2
 
-Glowup Bulb Ultimate 2 eng:
+Glowup Bulb Ultimate 2 eng 1 IT:
   url: 58425
   edition: 'Near Mint 1st'
-  qty: 2
+  qty: 2.5
 
 Lonefire Blossom Super CP:
   url: 33077
@@ -123,7 +143,7 @@ Archlord Kristya Unlimited:
   edition: 'Near Mint Unlimited'
   qty: 2
 
-Krebos Super TU German:
+Krebos Super TU German (3):
   url: 33227
   edition: 'Near Mint Unlimited'
   qty: 1.5
@@ -142,6 +162,11 @@ Spirit Reaper Super CP:
   url: 26037
   edition: 'Near Mint Unlimited'
   qty: 2
+
+Magician of Faith cp2:
+  url: 26461
+  edition: 'Near Mint'
+  qty: 1
 
 Thunder King Rai-oh Secret:
   url: 28493
@@ -168,15 +193,20 @@ DD Crow Ultimate 1st:
   edition: 'Near Mint 1st'
   qty: 1
 
-Night Assailant Super CP ita:
+Night Assailant Super CP 2 EN 1 IT:
   url: 26060
   edition: 'Near Mint Unlimited'
-  qty: 0.5
+  qty: 2.5
 
 Battle Fader UTR 1st:
   url: 58454
   edition: 'Near Mint 1st'
   qty: 2
+
+Necro Gardna Ultimate 1st:
+  url: 58524
+  edition: 'Near Mint 1st'
+  qty: 3
 
 Cyber Phoenix Ultimate 1st:
   url: 58657
@@ -189,7 +219,6 @@ Book of Moon Super CP:
   url: 26057
   edition: 'Near Mint Unlimited'
   qty: 1
-
 
 Scapegoat Ultra RP01 ita:
   url: 78160
@@ -211,15 +240,35 @@ Foolish Burial Super CP:
   edition: 'Near Mint Unlimited'
   qty: 2
 
-Allure of Darkness Ultimate 1st ita:
+Smashing Ground Super CP:
+  url: 26463
+  edition: 'Near Mint Unlimited'
+  qty: 2
+
+Heavy storm mrd 1st:
+  url: 22068
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Allure of Darkness Ultimate 1st 2 EN 3 Foreign:
   url: 27471
   edition: 'Near Mint 1st'
-  qty: 1.5
+  qty: 3.5
 
 Emegency Teleport Ultimate 1st ger:
   url: 58522
   edition: 'Near Mint 1st'
   qty: 1.5
+
+Charge of the Light Brigade Secret 1st:
+  url: 27587
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Solar Recharge Ultimate 1st:
+  url: 27466
+  edition: 'Near Mint 1st'
+  qty: 3
 
 Pot of Avarice Ultimate 1st 2 german 1 english:
   url: 58619
@@ -236,6 +285,11 @@ Pot of Greed Ultimate 1st - 2 EN 2 Foreign:
   edition: 'Near Mint 1st Edition'
   qty: 3.3
 
+Nobleman of Crossout 1st:
+  url: 22267
+  edition: 'Near Mint 1st'
+  qty: 2
+
 Mystical Space Typhoon Ultimate:
   url: 107519
   edition: 'Near Mint'
@@ -244,7 +298,7 @@ Mystical Space Typhoon Ultimate:
 MST MRL Unlimited:
   url: 22255
   edition: 'Near Mint Unlimited'
-  qty: 3
+  qty: 4
 
 Brain Control Ultimate 1st ger:
   url: 58749
@@ -256,12 +310,6 @@ Lightning Vortex Ultimate 1st french:
   edition: 'Near Mint 1st'
   qty: 0.5
 
-Smashing Ground Super CP:
-  url: 26463
-  edition: 'Near Mint Unlimited'
-  qty: 2
-
-
 Future Fusion UTR Unlimited:
   url: 58648
   edition: 'Near Mint'
@@ -271,16 +319,6 @@ Machine Dupe Ultimate 1st:
   url: 58803
   edition: 'Near Mint 1st'
   qty: 2
-
-Power Bond Ultimate Unlimited german:
-  url: 58725
-  edition: 'Near Mint Unlimited'
-  qty: 1.5
-
-Overload Fusion Ultimate Unlimited german:
-  url: 58646
-  edition: 'Near Mint Unlimited'
-  qty: 0.9
 
 Solemn Judgment MRD Unlimited:
   url: 22418
@@ -295,7 +333,7 @@ Solemn Judgment MRD 1st:
 Solem Warning Ultimate 1st:
   url: 58442
   edition: 'Near Mint 1st'
-  qty: 3
+  qty: 3.5
 
 Trap Dustshoot Super CP 2 english 1 german:
   url: 33037
@@ -310,4 +348,9 @@ Torrential Tribute LON 1st:
 Crush Card Virus Ultimate 1st:
   url: 35086
   edition: 'Near Mint 1st'
+  qty: 1
+
+Ring of Destruction Secret 1st:
+  url: 22976
+  edition: 'Near Mint 1st Edition'
   qty: 1

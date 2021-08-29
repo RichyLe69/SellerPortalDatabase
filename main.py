@@ -37,8 +37,8 @@ class Scraper:
     def close_browser(self):
         self.browser.quit()
 
-    def scrape_current_list(self, split_lists, card_lists):
-        self.current_list = CardList(card_lists[split_lists]['path'], split_lists)
+    def scrape_current_list(self, current_deck_list, full_card_lists):
+        self.current_list = CardList(full_card_lists[current_deck_list]['path'], current_deck_list)
         self.current_list_data = self.current_list.get_yaml_data()
         self.current_list_name = self.current_list.get_list_name()
         self.file_path = scrape_website(self.current_list_data, self.current_list_name, scraper.get_browser())
@@ -75,9 +75,6 @@ if __name__ == '__main__':
 
 # TODO
 # individual consoles (to allow for multi processing)
-# refactor main.py structure
-# - datascraper object
-# - sequential functions in main. better descriptive function titles
 
 # mysql table
 # data calculations, graph creations
