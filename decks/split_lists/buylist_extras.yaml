@@ -4,69 +4,8 @@
 
 
 
-Caius Shadow Monarch Ultimate:
-  url: 66668
-  edition: 'Near Mint Unlimited'
-  qty: 3
-
-Cyber Dragon Ultimate 1st:
-  url: 58717
-  edition: 'Near Mint 1st'
-  qty: 3
-
-Battle Fader Ultimate 1st:
-  url: 58454
-  edition: 'Near Mint 1st'
-  qty: 1
-
-
-
-Bottomless cp4:
-  url: 26481
-  edition: 'Near Mint'
-  qty: 2
-
-Utopia Ray Ghost 1st:
-  url: 57790
-  edition: 'Near Mint 1st'
-  qty: 1
-
-#Pot of Duality Scr 1st:
-#  url: 'https://shop.tcgplayer.com/yugioh/duelist-revolution/pot-of-duality'
-#  edition: 'Near Mint 1st'
-#  qty: 1
-
 Lonefire cp7:
   url: 33077
-  edition: 'Near Mint'
-  qty: 1
-
-Lumina cp8:
-  url: 33097
-  edition: 'Near Mint'
-  qty: 3
-
-# Turbo Pack Ultimates & Ultras
-
-Judgment Dragon TU1:
-  url: 33224
-  edition: 'Near Mint'
-  qty: 6
-
-
-
-Tragoedia TU4:
-  url: 38641
-  edition: 'Near Mint'
-  qty: 6
-
-Dark Armed Dragon TU6:
-  url: 66731
-  edition: 'Near Mint'
-  qty: 6
-
-Quickdraw Synchron TU6:
-  url: 66736
   edition: 'Near Mint'
   qty: 1
 
@@ -75,7 +14,102 @@ Thunder King Raioh UTR TU8:
   edition: 'Near Mint'
   qty: 1
 
+Tsukuyomi Ultimate:
+  url: 77987
+  edition: 'Near Mint'
+  qty: 1
+
+Debris Dragon Ultimate:
+  url: 77988
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+Dandylion Ultimate:
+  url: 79456
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+Glowup Bulb Ultimate:
+  url: 58425
+  edition: 'Near Mint 1st'
+  qty: 1
+
+#Lonefire Blossom Super CP:
+#  url: 33077
+#  edition: 'Near Mint Unlimited'
+#  qty: 1
+
+Spirit Reaper Super CP:
+  url: 26037
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+Black Luster Soldier EOTB Ultra 1st:
+  url: 23112
+  edition: 'Near Mint 1st'
+  qty: 1
+
+
 Shooting Star Dragon Ghost 1st:
   url: 38634
   edition: 'Near Mint 1st'
   qty: 1
+
+
+# Turbo Pack Ultimates & Ultras
+
+#Judgment Dragon TU1:
+#  url: 33224
+#  edition: 'Near Mint'
+#  qty: 6
+#
+#Tragoedia TU4:
+#  url: 38641
+#  edition: 'Near Mint'
+#  qty: 6
+#
+#Dark Armed Dragon TU6:
+#  url: 66731
+#  edition: 'Near Mint'
+#  qty: 6
+
+#Lumina cp8:
+#  url: 33097
+#  edition: 'Near Mint'
+#  qty: 3
+
+#Quickdraw Synchron TU6:
+#  url: 66736
+#  edition: 'Near Mint'
+#  qty: 1
+
+
+#Caius Shadow Monarch Ultimate:
+#  url: 66668
+#  edition: 'Near Mint Unlimited'
+#  qty: 3
+#
+#Cyber Dragon Ultimate 1st:
+#  url: 58717
+#  edition: 'Near Mint 1st'
+#  qty: 3
+#
+#Battle Fader Ultimate 1st:
+#  url: 58454
+#  edition: 'Near Mint 1st'
+#  qty: 1
+
+#Bottomless cp4:
+#  url: 26481
+#  edition: 'Near Mint'
+#  qty: 2
+#
+#Utopia Ray Ghost 1st:
+#  url: 57790
+#  edition: 'Near Mint 1st'
+#  qty: 1
+
+#Pot of Duality Scr 1st:
+#  url: 'https://shop.tcgplayer.com/yugioh/duelist-revolution/pot-of-duality'
+#  edition: 'Near Mint 1st'
+#  qty: 1

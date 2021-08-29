@@ -55,8 +55,8 @@ buylist_dadreturn:
 #buylist_xsaber:
 #  path: 'decks/split_lists/buylist_xsaber.yaml'
 
-#buylist_extras:
-#  path: 'decks/split_lists/buylist_extras.yaml'
+buylist_extras:
+  path: 'decks/split_lists/buylist_extras.yaml'
 
 # Probably don't need. Cool but not the best invests
 
