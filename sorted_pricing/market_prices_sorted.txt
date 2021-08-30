@@ -18664,3 +18664,111 @@ buylist_dadreturn - 2021-08-29
 |               Jinzo PSV 1st                |   0   |
 |                    test                    |   0   |
 +--------------------------------------------+-------+
+trash_binder - 2021-08-29
++----------------------------------------------+-------+
+|                     Card                     | Price |
++----------------------------------------------+-------+
+|       Dark Magician Girl Secret UNL LP       |  339  |
+|      Cyber Twin Dragon Ultimate 1st GER      |  256  |
+|     Power Bond Ultimate Unlimited german     |  187  |
+|              Trishula Ultimate               |  155  |
+|           Stardust Dragon Ultimate           |  118  |
+|           Dark Magician Girl LCYW            |  102  |
+|      Shooting Star Dragon Ultimate 1st       |   92  |
+|           Tragoedia Ultimate 1 ita           |   91  |
+|          black rose dragon ultimate          |   90  |
+|      Red Dragon Archfiend Ultimate Unl       |   88  |
+|          brain control Ultimate UNL          |   85  |
+|         cyberdark horn Ultimate 1st          |   80  |
+|          Dark Magician BPT 2002 LP           |   76  |
+|  Overload Fusion Ultimate Unlimited german   |   71  |
+|                exodia necross                |   68  |
+|          cybedark keel Ultimate 1st          |   64  |
+|     Black Luster Soldier EOTB Secret MC2     |   63  |
+|               Celestia UTR Unl               |   61  |
+|             Leviair Ultimate Unl             |   52  |
+|      Red Eyes Black Dragon BPT 2002 LP       |   50  |
+|      Blue Eyes White Dragon BPT 2002 LP      |   48  |
+| Charge Of The Light Brigade Secret Unlimited |   46  |
+|               sangan ultra tu                |   36  |
+|       phoenix wing windblast Ultimate        |   32  |
+|               injection fairy                |   31  |
+|              Dark Paladin Ultra              |   30  |
+|               guardian sphinx                |   30  |
+|                   Seiyaryu                   |   29  |
+|         Dark Magician Girl RDS Ultra         |   28  |
+|           Book of Moon TU07 Ultra            |   27  |
+|                 Lyla UTR Unl                 |   27  |
+|              Time Wizard Ultra               |   24  |
+|              Dark Hole Ultra TU              |   19  |
+|              big shield gardna               |   16  |
+|               Ehren Secret Unl               |   15  |
+|         Leviathan Dragon unl foreign         |   14  |
+|           Tri Horned Dragon Secret           |   13  |
+|               mystical knight                |   13  |
+|             Vorse Raider Secret              |   12  |
+|         Serpent Night Dragon Secret          |   11  |
+|               mask of restrict               |   10  |
+|           Spellbinding Circle MRL            |   9   |
+|               skilled dark mag               |   9   |
+|               united we stand                |   9   |
+|                destiny board                 |   8   |
+|                yamata dragon                 |   8   |
+|               Flame Swordsman                |   7   |
+|                  Helpoemer                   |   7   |
+|                  mage power                  |   7   |
+|               dark necro fear                |   6   |
+|                Acid Trap Hole                |   5   |
+|               curse of dragon                |   5   |
+|               hino kagu tsuchi               |   5   |
+|            mirror force dpyg 1st             |   5   |
+|              sanga thunder MRD               |   5   |
+|                  suijin MRD                  |   5   |
+|          Legendary Fisherman Ultra           |   4   |
+|                   Poly LOB                   |   4   |
+|               fiend megacyber                |   4   |
+|             joan guardian angel              |   4   |
+|            levia dragon daedalus             |   4   |
+|                 Celtic Guard                 |   3   |
+|                 Kazejin MRD                  |   3   |
+|                 black tyrano                 |   3   |
+|              harpie lady sister              |   3   |
+|                   kuriboh                    |   3   |
+|                  man eater                   |   3   |
+|               spell canceller                |   3   |
+|                  Dark Hole                   |   2   |
+|                  Mystic Elf                  |   2   |
+|                  Salamandra                  |   2   |
+|            flute of summ kuriboh             |   2   |
+|           sword of revealing light           |   2   |
+|                  de fusion                   |   1   |
+|                 double spell                 |   1   |
+|                  trap hole                   |   1   |
+|              breaker mc2 secret              |   0   |
+|               card of sanctity               |   0   |
+|        cyberdark edge Ultimate german        |   0   |
+|              dark magic curtain              |   0   |
+|                 dark renewal                 |   0   |
+|                 exchange scr                 |   0   |
+|             gemini elf ultra ioc             |   0   |
+|            giant soldier of stone            |   0   |
+|                graceful dice                 |   0   |
+|                h heated heart                |   0   |
+|             magician valky jump              |   0   |
+|               magicians circle               |   0   |
+|                  o oversoul                  |   0   |
+|               obnoxious celtic               |   0   |
+|                 r righteous                  |   0   |
+|                  skull dice                  |   0   |
+|                     test                     |   0   |
++----------------------------------------------+-------+
+trash_binder - 2021-08-29
++---------------------------------+-------+
+|               Card              | Price |
++---------------------------------+-------+
+|  Dark Magician Girl Secret UNL  |  331  |
+|  Red Eyes Black Dragon BPT 2002 |  146  |
+|      Dark Magician BPT 2002     |  140  |
+| Blue Eyes White Dragon BPT 2002 |   91  |
+|               test              |   0   |
++---------------------------------+-------+

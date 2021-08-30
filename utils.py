@@ -224,12 +224,9 @@ def append_console_to_txt(path):
 
 
 def sum_total_prices(current_sums, list_of_sums):
-    # print(current_sums)
-    # print(list_of_sums)
     current_sums[0] = current_sums[0] + list_of_sums[0]  # Lowest
     current_sums[1] = current_sums[1] + list_of_sums[1]  # Last
     current_sums[2] = current_sums[2] + list_of_sums[2]  # Market
-    # print(current_sums)
     return current_sums
 
 

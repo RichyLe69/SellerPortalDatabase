@@ -11,10 +11,10 @@ Tri Horned Dragon Secret:
   edition: 'Near Mint Unlimited'
   qty: 2
 
-Gate Guardian Secret 1st:
+Gate Guardian Secret UNL:
   url: 22007
-  edition: 'Near Mint 1st'
-  qty: 2
+  edition: 'Near Mint Unlimited'
+  qty: 1
 
 Blue Eyes Toon Dragon MRL:
   url: 21791
@@ -36,9 +36,9 @@ Thousand Dragon MRD secret:
   edition: 'Near Mint Unlimited'
   qty: 2
 
-Serpent Night Dragon Secret 1st:
+Serpent Night Dragon Secret:
   url: 22981
-  edition: 'Near Mint 1st'
+  edition: 'Near Mint Unlimited'
   qty: 2
 
 Imperial Order PSV Secret:
@@ -56,14 +56,14 @@ Yata-Garasu Secret:
   edition: 'Near Mint Unlimited'
   qty: 1
 
-Ring of Destruction Secret UNL:
-  url: 22976
+Lava Golem Secret UNL:
+  url: 22148
   edition: 'Near Mint Unlimited'
   qty: 1
 
-Dark Magician Girl Secret 1st:
-  url: 21877
-  edition: 'Near Mint 1st Edition'
+Ring of Destruction Secret UNL:
+  url: 22976
+  edition: 'Near Mint Unlimited'
   qty: 1
 
 Magic Cylinder Secret:
@@ -76,20 +76,16 @@ Injection Fairy Lily Secret:
   edition: 'Near Mint Unlimited'
   qty: 2
 
-Lava Golem Secret 1st:
-  url: 22148
-  edition: 'Near Mint 1st Edition'
-  qty: 1
-
 Vampire Lord Secret:
   url: 22924
   edition: 'Near Mint Unlimited'
   qty: 1
 
-Chaos Emperor Dragon Secret 1st:
+Chaos Emperor Dragon EOTE Secret unl:
   url: 23087
-  edition: 'Near Mint 1st'
+  edition: 'Near Mint Unlimited'
   qty: 1
+
 
 # LOB-AST Secrets & Ultras
 
@@ -101,37 +97,37 @@ Blue-Eyes White Dragon LOB:
 Dark Magician LOB:
   url: 21876
   edition: 'Near Mint Unlimited'
-  qty: 2
+  qty: 1
 
 Red Eyes LOB:
   url: 22341
   edition: 'Near Mint Unlimited'
-  qty: 2
+  qty: 1
 
 Exodia Head:
   url: 21954
   edition: 'Near Mint Unlimited'
-  qty: 2
+  qty: 1
 
 Exodia Left Arm:
   url: 22149
   edition: 'Near Mint Unlimited'
-  qty: 2
+  qty: 1
 
 Exodia Right Arm:
   url: 22351
   edition: 'Near Mint Unlimited'
-  qty: 2
+  qty: 1
 
 Exodia Left Leg:
   url: 22150
   edition: 'Near Mint Unlimited'
-  qty: 2
+  qty: 1
 
 Exodia Right Leg:
   url: 22352
   edition: 'Near Mint Unlimited'
-  qty: 2
+  qty: 1
 
 Gaia LOB Vanilla:
   url: 22003
@@ -153,7 +149,7 @@ Summoned Skull Ultra:
 B. Skull Dragon Ultra:
   url: 21762
   edition: 'Near Mint Unlimited'
-  qty: 2
+  qty: 1
 
 Change of Heart:
   url: 21827
@@ -163,7 +159,7 @@ Change of Heart:
 Time Wizard Ultra:
   url: 22523
   edition: 'Near Mint Unlimited'
-  qty: 2
+  qty: 1
 
 Barrel Dragon MRD Ultra:
   url: 21770
@@ -197,15 +193,15 @@ Spellbinding Circle MRL:
   edition: 'Near Mint Unlimited'
   qty: 1
 
-Snatch Steal MRL:
-  url: 22416
-  edition: 'Near Mint Unlimited'
-  qty: 1
+#Snatch Steal MRL:
+#  url: 22416
+#  edition: 'Near Mint Unlimited'
+#  qty: 1
 
-Delinquent Duo MRL Unlimited:
-  url: 21897
-  edition: 'Near Mint Unlimited'
-  qty: 1
+#Delinquent Duo MRL Unlimited:
+#  url: 21897
+#  edition: 'Near Mint Unlimited'
+#  qty: 1
 
 Forceful Sentry MRL Unlimited:
   url: 22492
@@ -215,7 +211,7 @@ Forceful Sentry MRL Unlimited:
 MST MRL Unl:
   url: 22255
   edition: 'Near Mint Unlimited'
-  qty: 5
+  qty: 4
 
 Megamorph MRL Unl:
   url: 22210
@@ -249,58 +245,6 @@ Premature Burial Ultra UNL:
   edition: 'Near Mint Unlimited'
   qty: 2
 
-# LON-IOC Randoms
-
-Dark Ruler Ha Des 1st:
-  url: 21880
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Marauding Captain 1st:
-  url: 22193
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Tyrant Dragon 1st:
-  url: 22558
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Guardian Sphinx 1st:
-  url: 22057
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Don Zaloog 1st:
-  url: 21918
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Fushioh Richie 1st:
-  url: 21996
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Mystical Knight of Jackal 1st:
-  url: 22252
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Reflect Bounder 1st:
-  url: 22830
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Exodia Necross 1st:
-  url: 22838
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Dark Mirror Force 1st:
-  url: 23141
-  edition: 'Near Mint 1st'
-  qty: 1
-
 # BPT Promos
 
 Dark Magician BPT 2002:
@@ -311,7 +255,7 @@ Dark Magician BPT 2002:
 Dark Magician Girl Secret UNL:
   url: 21877
   edition: 'Near Mint Unlimited'
-  qty: 3
+  qty: 5
 
 Blue Eyes White Dragon BPT 2002:
   url: 22796
@@ -324,63 +268,6 @@ Red Eyes Black Dragon BPT 2002:
   qty: 3
 
 # Old School Singles
-
-Blue-Eyes White Dragon DDS:
-  url: 22940
-  edition: ' Lightly Played Limited' # a bit of edge wear on back, tiny bit on front, not noticeable unless at certain angles
-  qty: 1
-
-Dark Magician DDS:
-  url: 22941
-  edition: 'Moderately Played Limited' # mines actually played
-  qty: 1
-
-Kazejin MRD 1st:
-  url: 22122
-  edition: 'Near Mint 1st'
-  qty: 1
-
-#Thousand Eyes Restrict Secret MC1:
-#  url: 'https://shop.tcgplayer.com/yugioh/master-collection-volume-1/thousand-eyes-restrict?xid=pib26144ee-26fe-4cb9-9e26-184373efaf75&'
-#  edition: 'Near Mint Limited'
-#  qty: 1
-
-Blue Eyes Ultimate JMP Secret:
-  url: 79693
-  edition: 'Near Mint Limited'
-  qty: 1
-
-Vorse Raider Secret:
-  url: 24513
-  edition: 'Near Mint Limited'
-  qty: 1
-
-Red Eyes Black Metal Dragon:
-  url: 22954
-  edition: 'Lightly Played Limited' # mines LP
-  qty: 1
-
-Harpies Pet Dragon:
-  url: 22955
-  edition: 'Lightly Played Limited' # mines LP
-  qty: 1
-
-
-
-Delinquent Duo MRL 1st:
-  url: 21897
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Chaos Emperor Dragon EOTE Secret unl:
-  url: 23087
-  edition: 'Near Mint Unlimited'
-  qty: 1
-
-Dark Magician of Chaos:
-  url: 23152
-  edition: 'Near Mint Unlimited'
-  qty: 1
 
 Obelisk JUMP PrScr:
   url: 26580
@@ -397,19 +284,19 @@ The Winged Dragon of Ra:
   edition: 'Near Mint Limited'
   qty: 1
 
-Chaos Emperor Dragon Ultimate 1st:
-  url: 35063
-  edition: 'Near Mint 1st'
+Blue-Eyes White Dragon DDS:
+  url: 22940
+  edition: ' Lightly Played Limited' # a bit of edge wear on back, tiny bit on front, not noticeable unless at certain angles
   qty: 1
 
-Dark Paladin 1st Ultra:
-  url: 21879
-  edition: 'Near Mint 1st'
+Dark Magician DDS:
+  url: 22941
+  edition: 'Moderately Played Limited' # mines actually played
   qty: 1
 
-Buster Blade Ultra unl:
-  url: 21810
-  edition: 'Near Mint Unlimited'
+Summoned Skull BPT Reverse:
+  url: 22795
+  edition: 'Near Mint'
   qty: 1
 
 Jack's Knight UTR:
@@ -427,24 +314,71 @@ King's Knight UTR:
   edition: 'Near Mint Unlimited'
   qty: 1
 
-Breaker the magical warrior secret:
-  url: 24617
-  edition: 'Near Mint Limited'
-  qty: 2
+#
 
-Dark Paladin Ultra Unlimited Reprint Art:
-  url: 155991
-  edition: 'Near Mint Unlimited'
-  qty: 2
+Red Eyes Black Metal Dragon:
+  url: 22954
+  edition: 'Lightly Played Limited' # mines LP
+  qty: 1
 
+Harpies Pet Dragon:
+  url: 22955
+  edition: 'Lightly Played Limited' # mines LP
+  qty: 1
 
-
-
-Cyber Jar Ultimate 1st:
-  url: 35057
+Chaos Emperor Dragon Ultimate 1st:
+  url: 35063
   edition: 'Near Mint 1st'
   qty: 1
 
+Dark Magician of Chaos:
+  url: 23152
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+Dark Paladin 1st Ultra:
+  url: 21879
+  edition: 'Near Mint 1st'
+  qty: 1
+
+#
+
+Thousand Eyes Restrict Secret MC1:
+  url: 25377
+  edition: 'Near Mint Limited'
+  qty: 1
+
+Blue Eyes Ultimate JMP Secret:
+  url: 79693
+  edition: 'Near Mint Limited'
+  qty: 1
+
+# Randoms
+
+Marauding Captain 1st:
+  url: 22193
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Don Zaloog 1st:
+  url: 21918
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Reflect Bounder 1st:
+  url: 22830
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Dark Mirror Force 1st:
+  url: 23141
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Buster Blade Ultra unl:
+  url: 21810
+  edition: 'Near Mint Unlimited'
+  qty: 1
 
 
 # Yugioh GX Stuff
@@ -569,4 +503,27 @@ hero barrier Ultimate 1st ger:
   edition: 'Near Mint 1st'
   qty: 0.3
 
+Gate Guardian Secret 1st:
+  url: 22007
+  edition: 'Near Mint 1st'
+  qty: 2
 
+Serpent Night Dragon Secret 1st:
+  url: 22981
+  edition: 'Near Mint 1st'
+  qty: 2
+
+Dark Magician Girl Secret 1st:
+  url: 21877
+  edition: 'Near Mint 1st Edition'
+  qty: 1
+
+Chaos Emperor Dragon Secret 1st:
+  url: 23087
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Lava Golem Secret 1st:
+  url: 22148
+  edition: 'Near Mint 1st Edition'
+  qty: 1
