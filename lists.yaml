@@ -46,17 +46,17 @@
 
 ## # Later buylists
 
-buylist_demiseotk:
-  path: 'decks/split_lists/buylist_demiseotk.yaml'
-
-buylist_machines:
-  path: 'decks/split_lists/buylist_machines.yaml'
-
-buylist_extras:
-  path: 'decks/split_lists/buylist_extras.yaml'
-
-buylist_goat:
-  path: 'decks/split_lists/buylist_goat.yaml'
+#buylist_demiseotk:
+#  path: 'decks/split_lists/buylist_demiseotk.yaml'
+#
+#buylist_machines:
+#  path: 'decks/split_lists/buylist_machines.yaml'
+#
+#buylist_extras:
+#  path: 'decks/split_lists/buylist_extras.yaml'
+#
+#buylist_goat:
+#  path: 'decks/split_lists/buylist_goat.yaml'
 
 
 
@@ -91,8 +91,8 @@ buylist_goat:
 
 ## Once per Month Tracks
 
-#trash_binder:
-#  path: 'decks/split_lists/trash_binder.yaml'
+trash_binder:
+  path: 'decks/split_lists/trash_binder.yaml'
 
 #starlight:
 #  path: 'decks/old_lists/9-starlight.yaml'

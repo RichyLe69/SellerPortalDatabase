@@ -19185,3 +19185,100 @@ buylist_goat - 2021-09-01
 |    Metamorphosis cp1    |   0   |
 |           test          |   0   |
 +-------------------------+-------+
+trash_binder - 2021-09-01
++----------------------------------------------+-------+
+|                     Card                     | Price |
++----------------------------------------------+-------+
+|       Dark Magician Girl Secret UNL LP       |  274  |
+|      Cyber Twin Dragon Ultimate 1st GER      |  215  |
+|           Tragoedia Ultimate 1 ita           |  172  |
+|              Trishula Ultimate               |  155  |
+|           Stardust Dragon Ultimate           |  125  |
+|          black rose dragon ultimate          |   99  |
+|          cybedark keel Ultimate 1st          |   99  |
+|                exodia necross                |   95  |
+|                graceful dice                 |   89  |
+|  Overload Fusion Ultimate Unlimited german   |   85  |
+|         cyberdark horn Ultimate 1st          |   79  |
+|      Red Dragon Archfiend Ultimate Unl       |   75  |
+|      Shooting Star Dragon Ultimate 1st       |   74  |
+|      Blue Eyes White Dragon BPT 2002 LP      |   70  |
+|             magician valky jump              |   69  |
+|          Dark Magician BPT 2002 LP           |   56  |
+|     Black Luster Soldier EOTB Secret MC2     |   54  |
+|       phoenix wing windblast Ultimate        |   54  |
+|             Leviair Ultimate Unl             |   53  |
+|              breaker mc2 secret              |   49  |
+|      Red Eyes Black Dragon BPT 2002 LP       |   44  |
+| Charge Of The Light Brigade Secret Unlimited |   42  |
+|               Celestia UTR Unl               |   38  |
+|              Dark Paladin Ultra              |   34  |
+|                 Lyla UTR Unl                 |   33  |
+|               sangan ultra tu                |   30  |
+|               guardian sphinx                |   28  |
+|           Book of Moon TU07 Ultra            |   26  |
+|         Dark Magician Girl RDS Ultra         |   25  |
+|               magicians circle               |   25  |
+|              Time Wizard Ultra               |   24  |
+|              Dark Hole Ultra TU              |   22  |
+|               Ehren Secret Unl               |   19  |
+|                   Seiyaryu                   |   18  |
+|               fiend megacyber                |   15  |
+|           Tri Horned Dragon Secret           |   13  |
+|         Serpent Night Dragon Secret          |   12  |
+|              XYZ Dragon Cannon               |   12  |
+|               mystical knight                |   11  |
+|              big shield gardna               |   10  |
+|               hino kagu tsuchi               |   10  |
+|               mask of restrict               |   10  |
+|               united we stand                |   10  |
+|                Acid Trap Hole                |   9   |
+|                  Helpoemer                   |   9   |
+|             gemini elf ultra ioc             |   9   |
+|                  mage power                  |   9   |
+|                yamata dragon                 |   9   |
+|           Dark Magician Girl LCYW            |   8   |
+|               Flame Swordsman                |   8   |
+|                 Kazejin MRD                  |   8   |
+|           Spellbinding Circle MRL            |   8   |
+|             Vorse Raider Secret              |   8   |
+|                destiny board                 |   8   |
+|               skilled dark mag               |   8   |
+|                  Mystic Elf                  |   6   |
+|               curse of dragon                |   6   |
+|               dark necro fear                |   6   |
+|              sanga thunder MRD               |   6   |
+|                  suijin MRD                  |   6   |
+|          Legendary Fisherman Ultra           |   5   |
+|             joan guardian angel              |   5   |
+|            mirror force dpyg 1st             |   5   |
+|               spell canceller                |   5   |
+|                 Celtic Guard                 |   4   |
+|                   Poly LOB                   |   4   |
+|                 black tyrano                 |   3   |
+|            levia dragon daedalus             |   3   |
+|                  Dark Hole                   |   2   |
+|                 dark renewal                 |   2   |
+|              harpie lady sister              |   2   |
+|                   kuriboh                    |   2   |
+|                  man eater                   |   2   |
+|                  trap hole                   |   2   |
+|                  Salamandra                  |   1   |
+|              dark magic curtain              |   1   |
+|                 double spell                 |   1   |
+|            flute of summ kuriboh             |   1   |
+|                  o oversoul                  |   1   |
+|           sword of revealing light           |   1   |
+|     Power Bond Ultimate Unlimited german     |   0   |
+|          brain control Ultimate UNL          |   0   |
+|               card of sanctity               |   0   |
+|        cyberdark edge Ultimate german        |   0   |
+|                  de fusion                   |   0   |
+|                 exchange scr                 |   0   |
+|            giant soldier of stone            |   0   |
+|                h heated heart                |   0   |
+|               obnoxious celtic               |   0   |
+|                 r righteous                  |   0   |
+|                  skull dice                  |   0   |
+|                     test                     |   0   |
++----------------------------------------------+-------+
