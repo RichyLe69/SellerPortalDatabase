@@ -12,44 +12,42 @@
 #  edition: 'Near Mint Unlimited'
 #  qty: 3
 
-#Effect Veiler Ultimate 1st:
-#  url: 58434
-#  edition: 'Near Mint 1st Edition'
-#  qty: 3
-
 #Scapegoat ultra rp01:
 #  url: 78160
 #  edition: 'Near Mint Unlimited'
 #  qty: 1
 #
-#Mind Control:
-#  url: 24200
-#  edition: 'Near Mint Limited'
-#  qty: 1
 
 Dark Hole LOB 1st:
   url: 21873
   edition: 'Near Mint 1st'
   qty: 1
 
+Leviathan Ghost 1st:
+  url: 48119
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Armory Arm:
+  url: 32896
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Steelswarm Roach 1st:
+  url: 48118
+  edition: 'Near Mint 1st'
+  qty: 1
 
 
-#Pot of Avarice Ultimate 1st english:
-#  url: 58619
+
+#Effect Veiler Ultimate 1st:
+#  url: 58434
 #  edition: 'Near Mint 1st Edition'
-#  qty: 2
-
-#MST ultimate:
-#  url: 107519
-#  edition: 'Near Mint'
-#  qty: 2
-
-
-
-#Solemn Warning Ultimate 1st:
-#  url: 58442
-#  edition: 'Near Mint 1st'
 #  qty: 3
+#Mind Control:
+#  url: 24200
+#  edition: 'Near Mint Limited'
+#  qty: 1
 
 
 #Scrap Dragon Ultimate 1st:
@@ -67,17 +65,19 @@ Dark Hole LOB 1st:
 #  edition: 'Near Mint 1st'
 #  qty: 1
 
-Leviathan Ghost 1st:
-  url: 48119
-  edition: 'Near Mint 1st'
-  qty: 1
 
-Armory Arm:
-  url: 32896
-  edition: 'Near Mint 1st'
-  qty: 1
 
-Steelswarm Roach 1st:
-  url: 48118
-  edition: 'Near Mint 1st'
-  qty: 1
+#Pot of Avarice Ultimate 1st english:
+#  url: 58619
+#  edition: 'Near Mint 1st Edition'
+#  qty: 2
+
+#MST ultimate:
+#  url: 107519
+#  edition: 'Near Mint'
+#  qty: 2
+
+#Solemn Warning Ultimate 1st:
+#  url: 58442
+#  edition: 'Near Mint 1st'
+#  qty: 3

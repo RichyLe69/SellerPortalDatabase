@@ -2,7 +2,7 @@
 ############## Extra Deck Cores #############
 #############################################
 
-
+# Finish playsets / additional cards for collection
 
 Lonefire cp7:
   url: 33077
@@ -34,11 +34,6 @@ Glowup Bulb Ultimate:
   edition: 'Near Mint 1st'
   qty: 1
 
-#Lonefire Blossom Super CP:
-#  url: 33077
-#  edition: 'Near Mint Unlimited'
-#  qty: 1
-
 Spirit Reaper Super CP:
   url: 26037
   edition: 'Near Mint Unlimited'
@@ -48,7 +43,6 @@ Black Luster Soldier EOTB Ultra 1st:
   url: 23112
   edition: 'Near Mint 1st'
   qty: 1
-
 
 Shooting Star Dragon Ghost 1st:
   url: 38634

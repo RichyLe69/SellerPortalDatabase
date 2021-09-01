@@ -71,7 +71,7 @@ Ehren Secret Unl:
 Black Luster Soldier EOTB Secret MC2:
   url: 24619
   edition: 'Near Mint Limited'
-  qty: 2
+  qty: 1
 
 breaker mc2 secret:
   url: 24617
@@ -142,15 +142,15 @@ Leviair Ultimate Unl:
   edition: 'Near Mint Unlimited'
   qty: 1
 
-Leviathan Dragon unl foreign:
-  url: 58395
-  edition: 'Near Mint Unlimited'
-  qty: 1
+#Leviathan Dragon unl foreign:
+#  url: 58395
+#  edition: 'Near Mint Unlimited'
+#  qty: 1
 
 Cyber Twin Dragon Ultimate 1st GER:
   url: 58723
   edition: 'Near Mint 1st'
-  qty: 0.3
+  qty: 1
 
 brain control Ultimate UNL:
   url: 58749
@@ -365,6 +365,11 @@ double spell:
 #  edition: 'Near Mint Unlimited'
 #  qty: 1
 
+XYZ Dragon Cannon:
+  url: 22595
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
 mirror force dpyg 1st:
   url: 32993
   edition: 'Near Mint 1st'
@@ -435,10 +440,10 @@ exodia necross:
 
 #  qty: 1
 
-injection fairy:
-  url: 22975
-  edition: 'Near Mint Unlimited'
-  qty: 1
+#injection fairy:
+#  url: 22975
+#  edition: 'Near Mint Unlimited'
+#  qty: 1
 
 
 spell canceller:
@@ -685,10 +690,7 @@ Vorse Raider Secret:
 #  qty: 1
 
 
-#XYZ Dragon Cannon:
-#  url: 22595
-#  edition: 'Near Mint Unlimited'
-#  qty: 1
+
 
 #XY Dragon Cannon:
 #  url: 22594

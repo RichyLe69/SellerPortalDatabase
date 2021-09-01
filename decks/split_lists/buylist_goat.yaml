@@ -19,10 +19,10 @@ Tribe infecting MFC 1st:
   edition: 'Near Mint 1st'
   qty: 1
 
-Mystic Tomato:
-  url: 26548
-  edition: 'Near Mint'
-  qty: 2
+#Mystic Tomato:
+#  url: 22250
+#  edition: 'Near Mint 1st'
+#  qty: 2
 
 Dark Mimic Lv1:
   url: 23354
@@ -39,50 +39,42 @@ Kycoo lod 1st:
   edition: 'Near Mint 1st'
   qty: 2
 
+
+
+
+
 # Goat Control Needs
 
-Morphing Jar ultra TP2:
-  url: 22722
-  edition: 'Near Mint'
-  qty: 1
+#Morphing Jar Super TP4:
+#  url: 22773
+#  edition: 'Near Mint'
+#  qty: 1
+#
+#Magical Merchant cp2:
+#  url: 33035
+#  edition: 'Near Mint'
+#  qty: 3
+#
+#Exarion Universe DR4:
+#  url: 80860
+#  edition: 'Near Mint'
+#  qty: 2
+#
+#Airknight LOD 1st:
+#  url: 21726
+#  edition: 'Near Mint 1st'
+#  qty: 2
+#
+#DD assailant secret:
+#  url: 80864
+#  edition: 'Near Mint'
+#  qty: 1
+#
+#Trap Dustshoot cp5:
+#  url: 33037
+#  edition: 'Near Mint'
+#  qty: 1
+#
 
-Morphing Jar Super TP4:
-  url: 22773
-  edition: 'Near Mint'
-  qty: 1
-
-Magical Merchant cp2:
-  url: 33035
-  edition: 'Near Mint'
-  qty: 3
-
-Exarion Universe DR4:
-  url: 80860
-  edition: 'Near Mint'
-  qty: 2
-
-Airknight LOD 1st:
-  url: 21726
-  edition: 'Near Mint 1st'
-  qty: 2
-
-DD assailant secret:
-  url: 80864
-  edition: 'Near Mint'
-  qty: 1
-
-Trap Dustshoot cp5:
-  url: 33037
-  edition: 'Near Mint'
-  qty: 1
-
-Call of the Haunted 1st:
-  url: 21813
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Sakuretsu Super:
-  url: 26059
-  edition: 'Near Mint'
-  qty: 2
+#
 

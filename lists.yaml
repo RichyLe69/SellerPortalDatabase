@@ -5,6 +5,8 @@
 #buylist:
 #  path: 'decks/buylist.yaml'
 
+
+
 ## Split Collections
 
 #collection_deck_builder:
@@ -18,6 +20,10 @@
 #
 #collection_old_school:
 #  path: 'decks/split_lists/collection_old_school.yaml'
+
+
+
+
 
 ## Split Buylists
 
@@ -36,27 +42,38 @@ buylist_plants:
 buylist_dadreturn:
   path: 'decks/split_lists/buylist_dadreturn.yaml'
 
+
+
 ## # Later buylists
 
 #buylist_demiseotk:
 #  path: 'decks/split_lists/buylist_demiseotk.yaml'
 
-#buylist_mermail:
-#  path: 'decks/split_lists/buylist_mermail.yaml'
+#buylist_machines:
+#  path: 'decks/split_lists/buylist_machines.yaml'
 
-#buylist_zombies:
-#  path: 'decks/split_lists/buylist_zombies.yaml'
+#buylist_extras:
+#  path: 'decks/split_lists/buylist_extras.yaml'
 
 #buylist_goat:
 #  path: 'decks/split_lists/buylist_goat.yaml'
 
+
+
+
 # # # Later Later Buylists
 
-#buylist_xsaber:
-#  path: 'decks/split_lists/buylist_xsaber.yaml'
+#buylist_mermail:
+#  path: 'decks/old_lists/buylist_mermail.yaml'
 
-#buylist_extras:
-#  path: 'decks/split_lists/buylist_extras.yaml'
+#buylist_zombies:
+#  path: 'decks/old_lists/buylist_zombies.yaml'
+
+#buylist_xsaber:
+#  path: 'decks/old_lists/buylist_xsaber.yaml'
+
+
+
 
 # Probably don't need. Cool but not the best invests
 
@@ -69,6 +86,8 @@ buylist_dadreturn:
 #buylist_lightswornrulers:
 #  path: 'decks/split_lists/buylist_lightswornrulers.yaml'
 #
+
+
 
 ## Once per Month Tracks
 
