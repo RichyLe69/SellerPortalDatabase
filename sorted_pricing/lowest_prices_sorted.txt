@@ -19091,3 +19091,62 @@ collection_old_school - 2021-09-01
 |     miracle fusion Ultimate 1st ger      |   0   |
 |                   test                   |   0   |
 +------------------------------------------+-------+
+buylist_demiseotk - 2021-09-01
++-------------------------+-------+
+|           Card          | Price |
++-------------------------+-------+
+|      Demise UTR 1st     |  249  |
+|    Doom Dozer UTR 1st   |  148  |
+|    Jar of Greed Super   |   7   |
+|       Manju C 1st       |   5   |
+| Adv Ritual Art Rare 1st |   3   |
+|    Gravity Bind R 1st   |   3   |
+|   Insect Knight C 1st   |   2   |
+|     Megamorph Ultra     |   2   |
+|      Senju Rare 1st     |   2   |
+|      Demise UTR Unl     |   0   |
+|    Doom Dozer UTR Unl   |   0   |
+| Metal Armored Bug C 1st |   0   |
+|      Neo Bug C 1st      |   0   |
+|     Sonic Bird C 1st    |   0   |
+|           test          |   0   |
++-------------------------+-------+
+buylist_machines - 2021-09-01
++-------------------------+-------+
+|           Card          | Price |
++-------------------------+-------+
+|  Morphing Jar ultra TP2 |  2000 |
+|     Sakuretsu Super     |  445  |
+|     Snipe Hunter cp3    |  199  |
+| Call of the Haunted 1st |  145  |
+|  Giant Trunade MRL 1st  |   27  |
+|   Confiscation MRL 1st  |   12  |
+|           test          |   0   |
++-------------------------+-------+
+buylist_extras - 2021-09-01
++-------------------------------------+-------+
+|                 Card                | Price |
++-------------------------------------+-------+
+| Black Luster Soldier EOTB Ultra 1st |  350  |
+|    Shooting Star Dragon Ghost 1st   |  349  |
+|        Spirit Reaper Super CP       |  299  |
+|             Lonefire cp7            |  285  |
+|      Thunder King Raioh UTR TU8     |  187  |
+|          Tsukuyomi Ultimate         |  117  |
+|          Dandylion Ultimate         |  105  |
+|         Glowup Bulb Ultimate        |   88  |
+|        Debris Dragon Ultimate       |   60  |
+|                 test                |   0   |
++-------------------------------------+-------+
+buylist_goat - 2021-09-01
++-------------------------+-------+
+|           Card          | Price |
++-------------------------+-------+
+|    Metamorphosis cp1    |  1700 |
+|     Book of moon cp1    |  900  |
+| Dark Mimic Lv3 Ultimate |  125  |
+|      Kycoo lod 1st      |   32  |
+| Tribe infecting MFC 1st |   28  |
+|      Dark Mimic Lv1     |   1   |
+|           test          |   0   |
++-------------------------+-------+

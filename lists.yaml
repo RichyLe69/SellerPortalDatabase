@@ -9,17 +9,17 @@
 
 ## Split Collections
 
-collection_deck_builder:
-  path: 'decks/split_lists/collection_deck_builder.yaml'
-
-collection_extra_deck:
-  path: 'decks/split_lists/collection_extra_deck.yaml'
-
-collection_deck_core:
-  path: 'decks/split_lists/collection_deck_core.yaml'
-
-collection_old_school:
-  path: 'decks/split_lists/collection_old_school.yaml'
+#collection_deck_builder:
+#  path: 'decks/split_lists/collection_deck_builder.yaml'
+#
+#collection_extra_deck:
+#  path: 'decks/split_lists/collection_extra_deck.yaml'
+#
+#collection_deck_core:
+#  path: 'decks/split_lists/collection_deck_core.yaml'
+#
+#collection_old_school:
+#  path: 'decks/split_lists/collection_old_school.yaml'
 
 
 
@@ -46,19 +46,17 @@ collection_old_school:
 
 ## # Later buylists
 
-#buylist_demiseotk:
-#  path: 'decks/split_lists/buylist_demiseotk.yaml'
+buylist_demiseotk:
+  path: 'decks/split_lists/buylist_demiseotk.yaml'
 
-#buylist_machines:
-#  path: 'decks/split_lists/buylist_machines.yaml'
+buylist_machines:
+  path: 'decks/split_lists/buylist_machines.yaml'
 
+buylist_extras:
+  path: 'decks/split_lists/buylist_extras.yaml'
 
-
-#buylist_extras:
-#  path: 'decks/split_lists/buylist_extras.yaml'
-
-#buylist_goat:
-#  path: 'decks/split_lists/buylist_goat.yaml'
+buylist_goat:
+  path: 'decks/split_lists/buylist_goat.yaml'
 
 
 
