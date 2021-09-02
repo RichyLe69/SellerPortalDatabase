@@ -19275,3 +19275,78 @@ trash_binder - 2021-09-01
 |                  skull dice                  |   0   |
 |                     test                     |   0   |
 +----------------------------------------------+-------+
+buylist_lightsworn - 2021-09-01
++----------------------------------+-------+
+|               Card               | Price |
++----------------------------------+-------+
+|  Ancient Fairy Dragon Ghost 1st  |  599  |
+| Allure utr 1st - Teledad overlap |  254  |
+|  Plaguespreader Ultimate 1st EN  |  171  |
+|        Lyla Ultimate 1st         |   83  |
+|        Doomkaiser utr 1st        |   59  |
+|     Tempest Magician Scr 1st     |   48  |
+|             Ryko 1st             |   14  |
+|   Black Rose Dragon Ghost 1st    |   0   |
+|               test               |   0   |
++----------------------------------+-------+
+buylist_chaosTurbo - 2021-09-01
++-------------------------------------+-------+
+|                 Card                | Price |
++-------------------------------------+-------+
+|        Magician of Faith cp2        |  389  |
+| Gravekeeper Spy champion pack super |  385  |
+|          Breaker TP7 super          |  230  |
+| phoenix wing windblast Ultimate 1st |  123  |
+|         Mirror Force MRD 1st        |   0   |
+|                 test                |   0   |
++-------------------------------------+-------+
+buylist_teledad - 2021-09-01
++-------------------------------------+-------+
+|                 Card                | Price |
++-------------------------------------+-------+
+|      Stardust Dragon Ghost 1st      |  1833 |
+|  red dragon archfiend Ultimate 1st  |  246  |
+|         E-Tele Ultimate 1st         |  131  |
+|      brain control Ultimate 1st     |  116  |
+|      Diamond Dude Ultimate 1st      |   92  |
+|      goyo guardian Ultimate 1st     |   58  |
+|      colossal fighter Ultimate      |   56  |
+| thoughtruler archfiend Ultimate 1st |   47  |
+|           Krebons TU super          |   43  |
+|        D Hero Malicious DP05        |   35  |
+|      ROTA Reinforcement LOD 1st     |   19  |
+|           Destiny Draw 1st          |   16  |
+|            mystic tomato            |   3   |
+|      royal oppression Rare LOD      |   3   |
+|        Monster Reborn LOB 1st       |   0   |
+|         Solemn Judgment 1st         |   0   |
+|                 test                |   0   |
++-------------------------------------+-------+
+buylist_plants - 2021-09-01
++----------------------+-------+
+|         Card         | Price |
++----------------------+-------+
+|  Dark Hole LOB 1st   |  120  |
+| Leviathan Ghost 1st  |   92  |
+| Steelswarm Roach 1st |   26  |
+|      Armory Arm      |   14  |
+|         test         |   0   |
++----------------------+-------+
+buylist_dadreturn - 2021-09-01
++--------------------------------------------+-------+
+|                    Card                    | Price |
++--------------------------------------------+-------+
+|      Dark Magician of Chaos DMOC 1st       |  190  |
+|       Mind Crush Champion Pack Super       |  172  |
+|          Dimension Fusion IOC 1st          |  111  |
+|        Destiny Hero Dasher UTR 1st         |  109  |
+|         Premature Burial Ultra 1st         |   59  |
+|        Dark Lord Zerato Secret 1st         |   49  |
+|         Destiny Hero Plasma Secret         |   17  |
+|             Gold Sarc GLD 2009             |   17  |
+| Return from Different Dimension DPKB Super |   11  |
+|          Cyber Valley PTDN Super           |   6   |
+|     Destiny Hero Disk Commander Super      |   4   |
+|               Jinzo PSV 1st                |   0   |
+|                    test                    |   0   |
++--------------------------------------------+-------+
