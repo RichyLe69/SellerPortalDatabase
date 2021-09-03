@@ -19322,3 +19322,78 @@ buylist_dadreturn - 2021-09-01
 |     Destiny Hero Disk Commander Super      |   3   |
 |                    test                    |   0   |
 +--------------------------------------------+-------+
+buylist_lightsworn - 2021-09-02
++----------------------------------+-------+
+|               Card               | Price |
++----------------------------------+-------+
+|  Ancient Fairy Dragon Ghost 1st  |  580  |
+| Allure utr 1st - Teledad overlap |  400  |
+|  Plaguespreader Ultimate 1st EN  |  140  |
+|        Lyla Ultimate 1st         |  124  |
+|        Doomkaiser utr 1st        |   96  |
+|     Tempest Magician Scr 1st     |   79  |
+|             Ryko 1st             |   24  |
+|   Black Rose Dragon Ghost 1st    |   0   |
+|               test               |   0   |
++----------------------------------+-------+
+buylist_chaosTurbo - 2021-09-02
++-------------------------------------+-------+
+|                 Card                | Price |
++-------------------------------------+-------+
+|          Breaker TP7 super          |  999  |
+|        Magician of Faith cp2        |  795  |
+|         Mirror Force MRD 1st        |  449  |
+| Gravekeeper Spy champion pack super |  420  |
+| phoenix wing windblast Ultimate 1st |  250  |
+|                 test                |   0   |
++-------------------------------------+-------+
+buylist_teledad - 2021-09-02
++-------------------------------------+-------+
+|                 Card                | Price |
++-------------------------------------+-------+
+|      Stardust Dragon Ghost 1st      |  3999 |
+|        Monster Reborn LOB 1st       |  1999 |
+|         Solemn Judgment 1st         |  987  |
+|      brain control Ultimate 1st     |  225  |
+|      goyo guardian Ultimate 1st     |  192  |
+|         E-Tele Ultimate 1st         |  135  |
+|      Diamond Dude Ultimate 1st      |  125  |
+|      colossal fighter Ultimate      |  107  |
+|           Destiny Draw 1st          |   99  |
+|           Krebons TU super          |   88  |
+| thoughtruler archfiend Ultimate 1st |   49  |
+|        D Hero Malicious DP05        |   44  |
+|      ROTA Reinforcement LOD 1st     |   18  |
+|            mystic tomato            |   3   |
+|      royal oppression Rare LOD      |   2   |
+|  red dragon archfiend Ultimate 1st  |   0   |
+|                 test                |   0   |
++-------------------------------------+-------+
+buylist_plants - 2021-09-02
++----------------------+-------+
+|         Card         | Price |
++----------------------+-------+
+|  Dark Hole LOB 1st   |  249  |
+| Leviathan Ghost 1st  |  120  |
+| Steelswarm Roach 1st |   19  |
+|      Armory Arm      |   15  |
+|         test         |   0   |
++----------------------+-------+
+buylist_dadreturn - 2021-09-02
++--------------------------------------------+-------+
+|                    Card                    | Price |
++--------------------------------------------+-------+
+|               Jinzo PSV 1st                |  999  |
+|      Dark Magician of Chaos DMOC 1st       |  299  |
+|        Destiny Hero Dasher UTR 1st         |  198  |
+|          Dimension Fusion IOC 1st          |  144  |
+|       Mind Crush Champion Pack Super       |  142  |
+|             Gold Sarc GLD 2009             |   68  |
+|         Premature Burial Ultra 1st         |   59  |
+|        Dark Lord Zerato Secret 1st         |   49  |
+|         Destiny Hero Plasma Secret         |   25  |
+| Return from Different Dimension DPKB Super |   9   |
+|          Cyber Valley PTDN Super           |   7   |
+|     Destiny Hero Disk Commander Super      |   3   |
+|                    test                    |   0   |
++--------------------------------------------+-------+

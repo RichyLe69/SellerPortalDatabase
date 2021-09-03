@@ -49,11 +49,11 @@ buylist_dadreturn:
 #buylist_demiseotk:
 #  path: 'decks/split_lists/buylist_demiseotk.yaml'
 #
-#buylist_machines:
-#  path: 'decks/split_lists/buylist_machines.yaml'
-#
 #buylist_extras:
 #  path: 'decks/split_lists/buylist_extras.yaml'
+#
+#buylist_machines:
+#  path: 'decks/split_lists/buylist_machines.yaml'
 #
 #buylist_goat:
 #  path: 'decks/split_lists/buylist_goat.yaml'
