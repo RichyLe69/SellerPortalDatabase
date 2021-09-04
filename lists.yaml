@@ -39,18 +39,17 @@ buylist_teledad:
 buylist_plants:
   path: 'decks/split_lists/buylist_plants.yaml'
 
-buylist_dadreturn:
-  path: 'decks/split_lists/buylist_dadreturn.yaml'
 
 
 
-## # Later buylists
 
-#buylist_demiseotk:
-#  path: 'decks/split_lists/buylist_demiseotk.yaml'
-#
+## # Later buylists - consider not doing max rarity for these.
+
 #buylist_extras:
 #  path: 'decks/split_lists/buylist_extras.yaml'
+
+#buylist_dadreturn:
+#  path: 'decks/split_lists/buylist_dadreturn.yaml'
 #
 #buylist_machines:
 #  path: 'decks/split_lists/buylist_machines.yaml'
@@ -58,6 +57,9 @@ buylist_dadreturn:
 #buylist_goat:
 #  path: 'decks/split_lists/buylist_goat.yaml'
 
+#buylist_demiseotk:
+#  path: 'decks/split_lists/buylist_demiseotk.yaml'
+#
 
 
 
