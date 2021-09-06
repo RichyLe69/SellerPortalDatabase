@@ -19,12 +19,12 @@ Gate Guardian Secret UNL:
 Blue Eyes Toon Dragon MRL:
   url: 21791
   edition: 'Near Mint Unlimited'
-  qty: 2
+  qty: 1
 
 Jinzo Secret PSV:
   url: 22111
   edition: 'Near Mint Unlimited'
-  qty: 3
+  qty: 2
 
 Gaia Dragon Champ LOB:
   url: 22002
@@ -34,12 +34,12 @@ Gaia Dragon Champ LOB:
 Thousand Dragon MRD secret:
   url: 22977
   edition: 'Near Mint Unlimited'
-  qty: 2
+  qty: 1
 
 Serpent Night Dragon Secret:
   url: 22981
   edition: 'Near Mint Unlimited'
-  qty: 2
+  qty: 1
 
 Imperial Order PSV Secret:
   url: 22982
@@ -137,7 +137,7 @@ Gaia LOB Vanilla:
 Monster Reborn Unlimited LOB:
   url: 22233
   edition: 'Near Mint Unlimited'
-  qty: 3
+  qty: 2
 
 # MRD
 
@@ -166,32 +166,13 @@ Barrel Dragon MRD Ultra:
   edition: 'Near Mint Unlimited'
   qty: 1
 
-Solemn Judgment Unlimited:
-  url: 22418
-  edition: 'Near Mint Unlimited'
-  qty: 1
-
-Seven Tools MRD 1st:
-  url: 22392
-  edition: 'Near Mint 1st'
-  qty: 1
 
 Mirror Force MRD:
   url: 22226
   edition: 'Near Mint Unlimited'
-  qty: 3
+  qty: 2
 
 # MRL
-
-Axe of Despair MRL:
-  url: 21761
-  edition: 'Near Mint Unlimited'
-  qty: 1
-
-Spellbinding Circle MRL:
-  url: 22432
-  edition: 'Near Mint Unlimited'
-  qty: 1
 
 #Snatch Steal MRL:
 #  url: 22416
@@ -213,21 +194,6 @@ MST MRL Unl:
   edition: 'Near Mint Unlimited'
   qty: 4
 
-Megamorph MRL Unl:
-  url: 22210
-  edition: 'Near Mint Unlimited'
-  qty: 1
-
-Toon Mermaid:
-  url: 22528
-  edition: 'Near Mint Unlimited'
-  qty: 1
-
-Toon Summoned Skull:
-  url: 22529
-  edition: 'Near Mint Unlimited'
-  qty: 1
-
 # PSV
 
 Buster Blade Ultra 1st:
@@ -235,15 +201,11 @@ Buster Blade Ultra 1st:
   edition: 'Near Mint 1st'
   qty: 1
 
-Legendary Fisherman Ultra 1st:
-  url: 22500
-  edition: 'Near Mint 1st Edition'
-  qty: 1
 
 Premature Burial Ultra UNL:
   url: 22312
   edition: 'Near Mint Unlimited'
-  qty: 2
+  qty: 1
 
 # BPT Promos
 
@@ -370,10 +332,6 @@ Reflect Bounder 1st:
   edition: 'Near Mint 1st'
   qty: 1
 
-Dark Mirror Force 1st:
-  url: 23141
-  edition: 'Near Mint 1st'
-  qty: 1
 
 Buster Blade Ultra unl:
   url: 21810
@@ -428,11 +386,6 @@ Winged kurbio lvl 10 ultimate 1st german:
   edition: 'Near Mint 1st'
   qty: 0.3
 
-Wroguthweiler ultimate 1st gewrman:
-  url: 58628
-  edition: 'Near Mint 1st'
-  qty: 0.3
-
 neos air bird ultimate 1st:
   url: 58549
   edition: 'Near Mint 1st'
@@ -455,51 +408,6 @@ neos flare scarab ultimate 1st german:
 
 neos dark panther ultimate 1st german:
   url: 58632
-  edition: 'Near Mint 1st'
-  qty: 0.3
-
-5th hope ultimate 1st german:
-  url: 58535
-  edition: 'Near Mint 1st'
-  qty: 0.3
-
-hero flash ultimate 1st:
-  url: 58670
-  edition: 'Near Mint 1st'
-  qty: 1
-
-miracle fusion Ultimate 1st ger:
-  url: 58726
-  edition: 'Near Mint 1st'
-  qty: 0.3
-
-neo space ultimate 1st ger:
-  url: 58649
-  edition: 'Near Mint 1st'
-  qty: 0.3
-
-skyscraper Ultimate 1st ger:
-  url: 58731
-  edition: 'Near Mint 1st'
-  qty: 0.3
-
-skyscraper 2 Ultimate 1st ger:
-  url: 58564
-  edition: 'Near Mint 1st'
-  qty: 0.3
-
-mirror gate Ultimate 1st:
-  url: 58536
-  edition: 'Near Mint 1st'
-  qty: 1
-
-hero signal Ultimate 1st ger:
-  url: 58752
-  edition: 'Near Mint 1st'
-  qty: 0.3
-
-hero barrier Ultimate 1st ger:
-  url: 58623
   edition: 'Near Mint 1st'
   qty: 0.3
 

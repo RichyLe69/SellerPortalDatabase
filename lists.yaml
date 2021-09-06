@@ -18,8 +18,8 @@
 #collection_deck_core:
 #  path: 'decks/split_lists/collection_deck_core.yaml'
 #
-#collection_old_school:
-#  path: 'decks/split_lists/collection_old_school.yaml'
+collection_old_school:
+  path: 'decks/split_lists/collection_old_school.yaml'
 
 
 
@@ -27,17 +27,17 @@
 
 ## Split Buylists
 
-buylist_lightsworn:
-  path: 'decks/split_lists/buylist_lightsworn.yaml'
-
-buylist_chaosTurbo:
-  path: 'decks/split_lists/buylist_chaosTurbo.yaml'
-
-buylist_teledad:
-  path: 'decks/split_lists/buylist_teledad.yaml'
-
-buylist_plants:
-  path: 'decks/split_lists/buylist_plants.yaml'
+#buylist_lightsworn:
+#  path: 'decks/split_lists/buylist_lightsworn.yaml'
+#
+#buylist_chaosTurbo:
+#  path: 'decks/split_lists/buylist_chaosTurbo.yaml'
+#
+#buylist_teledad:
+#  path: 'decks/split_lists/buylist_teledad.yaml'
+#
+#buylist_plants:
+#  path: 'decks/split_lists/buylist_plants.yaml'
 
 
 
@@ -97,8 +97,8 @@ buylist_plants:
 
 ## Once per Month Tracks
 
-#trash_binder:
-#  path: 'decks/split_lists/trash_binder.yaml'
+trash_binder:
+  path: 'decks/split_lists/trash_binder.yaml'
 
 #starlight:
 #  path: 'decks/old_lists/9-starlight.yaml'
