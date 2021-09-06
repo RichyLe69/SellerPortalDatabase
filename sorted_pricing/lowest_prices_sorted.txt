@@ -19584,7 +19584,7 @@ collection_old_school - 2021-09-05
 |            Dark Magician DDS             |   0   |
 |                   test                   |   0   |
 +------------------------------------------+-------+
-trash_binder - 2021-09-05
+trash_binder - 2021-09-05 - richard
 +----------------------------------------------+-------+
 |                     Card                     | Price |
 +----------------------------------------------+-------+
@@ -19706,3 +19706,285 @@ trash_binder - 2021-09-05
 |                 r righteous                  |   0   |
 |                     test                     |   0   |
 +----------------------------------------------+-------+
+trash_binder - 2021-09-06
++----------------------------------------------+-------+
+|                     Card                     | Price |
++----------------------------------------------+-------+
+|       Dark Magician Girl Secret UNL LP       |  250  |
+|         Cyber Laser Dragon (UTR) GER         |  249  |
+|           Dark Magician Girl LCYW            |  176  |
+|           Tragoedia Ultimate 1 ita           |  166  |
+|          Blue Eyes Toon Dragon MRL           |  150  |
+|           Stardust Dragon Ultimate           |  125  |
+|        Legendary Fisherman Ultra 1st         |  100  |
+|        Cyber Barrier Dragon (UTR GER         |   99  |
+|             Seven Tools MRD 1st              |   96  |
+|          black rose dragon ultimate          |   94  |
+|                exodia necross                |   94  |
+|      Red Dragon Archfiend Ultimate Unl       |   91  |
+|      Shooting Star Dragon Ultimate 1st       |   88  |
+|         skyscraper Ultimate 1st ger          |   88  |
+|  Overload Fusion Ultimate Unlimited german   |   85  |
+|         cyberdark horn Ultimate 1st          |   80  |
+|        Perfect Machine King (UTR) GER        |   76  |
+|            Cyberdark Impact! SCR             |   74  |
+|                graceful dice                 |   69  |
+|        Monster reborn super RP01 ITA         |   64  |
+|          cybedark keel Ultimate 1st          |   64  |
+|         transcend wings utr 1st ger          |   63  |
+|          Dark Magician BPT 2002 LP           |   61  |
+|         hero signal Ultimate 1st ger         |   61  |
+|     Black Luster Soldier EOTB Secret MC2     |   58  |
+|             Leviair Ultimate Unl             |   58  |
+|      Blue Eyes White Dragon BPT 2002 LP      |   55  |
+|          neo space ultimate 1st ger          |   50  |
+|           hero flash ultimate 1st            |   49  |
+|            Dark Mirror Force 1st             |   44  |
+|      Red Eyes Black Dragon BPT 2002 LP       |   44  |
+|               Jinzo Secret PSV               |   42  |
+|               Celestia UTR Unl               |   34  |
+| Charge Of The Light Brigade Secret Unlimited |   34  |
+|               sangan ultra tu                |   32  |
+|              Dark Paladin Ultra              |   31  |
+|       phoenix wing windblast Ultimate        |   31  |
+|      Wroguthweiler ultimate 1st gewrman      |   29  |
+|               fusion sage tp6                |   28  |
+|            mirror force dpyg 1st             |   28  |
+|        skyscraper 2 Ultimate 1st ger         |   27  |
+|               guardian sphinx                |   24  |
+|              Time Wizard Ultra               |   23  |
+|        hero barrier Ultimate 1st ger         |   23  |
+|           Book of Moon TU07 Ultra            |   20  |
+|         Dark Magician Girl RDS Ultra         |   20  |
+|           mirror gate Ultimate 1st           |   20  |
+|                  skull dice                  |   20  |
+|         5th hope ultimate 1st german         |   19  |
+|               Ehren Secret Unl               |   19  |
+|              big shield gardna               |   19  |
+|            Emergency call secret             |   18  |
+|                   Seiyaryu                   |   17  |
+|              Dark Hole Ultra TU              |   16  |
+|             Toon Summoned Skull              |   15  |
+|              breaker mc2 secret              |   15  |
+|          Solemn Judgment Unlimited           |   14  |
+|                 Toon Mermaid                 |   14  |
+|           Tri Horned Dragon Secret           |   14  |
+|               mask of restrict               |   14  |
+|         Monster Reborn Unlimited LOB         |   13  |
+|               mystical knight                |   13  |
+|            Proto cyber dragon utr            |   12  |
+|               Mirror Force MRD               |   10  |
+|              Axe of Despair MRL              |   9   |
+|                  Helpoemer                   |   9   |
+|         Serpent Night Dragon Secret          |   9   |
+|              XYZ Dragon Cannon               |   9   |
+|             Vorse Raider Secret              |   8   |
+|               Flame Swordsman                |   7   |
+|           Spellbinding Circle MRL            |   7   |
+|                destiny board                 |   7   |
+|                  mage power                  |   7   |
+|               skilled dark mag               |   7   |
+|               united we stand                |   7   |
+|                yamata dragon                 |   7   |
+|               dark necro fear                |   6   |
+|               hino kagu tsuchi               |   6   |
+|             magician valky jump              |   6   |
+|          Premature Burial Ultra UNL          |   5   |
+|            levia dragon daedalus             |   5   |
+|               ryko super lodt                |   5   |
+|              sanga thunder MRD               |   5   |
+|                 Kazejin MRD                  |   4   |
+|          Legendary Fisherman Ultra           |   4   |
+|              Megamorph MRL Unl               |   4   |
+|                   Poly LOB                   |   4   |
+|               curse of dragon                |   4   |
+|                  suijin MRD                  |   4   |
+|           Rare Metalmorph (UTR) LP           |   3   |
+|                 black tyrano                 |   3   |
+|                 double spell                 |   3   |
+|               fiend megacyber                |   3   |
+|             joan guardian angel              |   3   |
+|               spell canceller                |   3   |
+|                wulf lodt unl                 |   3   |
+|                Acid Trap Hole                |   2   |
+|                 Celtic Guard                 |   2   |
+|                  Dark Hole                   |   2   |
+|                  Mystic Elf                  |   2   |
+|          Thousand Dragon MRD secret          |   2   |
+|                  Wildheart                   |   2   |
+|            flute of summ kuriboh             |   2   |
+|              harpie lady sister              |   2   |
+|                   kuriboh                    |   2   |
+|                  negate atk                  |   2   |
+|               wulf ultra lgcx                |   2   |
+|                  Necroshade                  |   1   |
+|           Rare Metalmorph (UTR) MP           |   1   |
+|                  Salamandra                  |   1   |
+|             gemini elf ultra ioc             |   1   |
+|               magicians circle               |   1   |
+|                  man eater                   |   1   |
+|                  o oversoul                  |   1   |
+|           sword of revealing light           |   1   |
+|                  trap hole                   |   1   |
+|     Power Bond Ultimate Unlimited german     |   0   |
+|          brain control Ultimate UNL          |   0   |
+|               card of sanctity               |   0   |
+|              dark magic curtain              |   0   |
+|                 dark renewal                 |   0   |
+|                  de fusion                   |   0   |
+|                 exchange scr                 |   0   |
+|              garoth ultra lgcx               |   0   |
+|            giant soldier of stone            |   0   |
+|                h heated heart                |   0   |
+|       miracle fusion Ultimate 1st ger        |   0   |
+|               obnoxious celtic               |   0   |
+|                 r righteous                  |   0   |
+|                     test                     |   0   |
++----------------------------------------------+-------+
+trash_binder - 2021-09-06
++-----------------------------+-------+
+|             Card            | Price |
++-----------------------------+-------+
+|    mirror force dpyg 1st    |   28  |
+|       guardian sphinx       |   24  |
+|          skull dice         |   20  |
+|      big shield gardna      |   19  |
+|           Seiyaryu          |   17  |
+|   Tri Horned Dragon Secret  |   14  |
+|       mask of restrict      |   14  |
+|       mystical knight       |   13  |
+|          Helpoemer          |   9   |
+| Serpent Night Dragon Secret |   9   |
+|      XYZ Dragon Cannon      |   9   |
+|       Flame Swordsman       |   7   |
+|   Spellbinding Circle MRL   |   7   |
+|        destiny board        |   7   |
+|          mage power         |   7   |
+|       skilled dark mag      |   7   |
+|       united we stand       |   7   |
+|        yamata dragon        |   7   |
+|       dark necro fear       |   6   |
+|       hino kagu tsuchi      |   6   |
+|     magician valky jump     |   6   |
+|    levia dragon daedalus    |   5   |
+|      sanga thunder MRD      |   5   |
+|         Kazejin MRD         |   4   |
+|  Legendary Fisherman Ultra  |   4   |
+|           Poly LOB          |   4   |
+|       curse of dragon       |   4   |
+|          suijin MRD         |   4   |
+|         black tyrano        |   3   |
+|         double spell        |   3   |
+|       fiend megacyber       |   3   |
+|     joan guardian angel     |   3   |
+|       spell canceller       |   3   |
+|        Acid Trap Hole       |   2   |
+|         Celtic Guard        |   2   |
+|          Dark Hole          |   2   |
+|          Mystic Elf         |   2   |
+|    flute of summ kuriboh    |   2   |
+|      harpie lady sister     |   2   |
+|           kuriboh           |   2   |
+|          Salamandra         |   1   |
+|     gemini elf ultra ioc    |   1   |
+|       magicians circle      |   1   |
+|          man eater          |   1   |
+|          o oversoul         |   1   |
+|   sword of revealing light  |   1   |
+|          trap hole          |   1   |
+|       card of sanctity      |   0   |
+|      dark magic curtain     |   0   |
+|         dark renewal        |   0   |
+|          de fusion          |   0   |
+|         exchange scr        |   0   |
+|    giant soldier of stone   |   0   |
+|        h heated heart       |   0   |
+|       obnoxious celtic      |   0   |
+|         r righteous         |   0   |
+|             test            |   0   |
++-----------------------------+-------+
+trash_batch_A - 2021-09-06
++----------------------------------------------+-------+
+|                     Card                     | Price |
++----------------------------------------------+-------+
+|       Dark Magician Girl Secret UNL LP       |  250  |
+|         Cyber Laser Dragon (UTR) GER         |  249  |
+|           Dark Magician Girl LCYW            |  176  |
+|           Tragoedia Ultimate 1 ita           |  166  |
+|           Stardust Dragon Ultimate           |  125  |
+|        Cyber Barrier Dragon (UTR GER         |   99  |
+|          black rose dragon ultimate          |   94  |
+|      Red Dragon Archfiend Ultimate Unl       |   91  |
+|      Shooting Star Dragon Ultimate 1st       |   88  |
+|  Overload Fusion Ultimate Unlimited german   |   85  |
+|         cyberdark horn Ultimate 1st          |   80  |
+|        Perfect Machine King (UTR) GER        |   76  |
+|            Cyberdark Impact! SCR             |   74  |
+|        Monster reborn super RP01 ITA         |   64  |
+|          cybedark keel Ultimate 1st          |   64  |
+|          Dark Magician BPT 2002 LP           |   61  |
+|     Black Luster Soldier EOTB Secret MC2     |   58  |
+|             Leviair Ultimate Unl             |   58  |
+|      Blue Eyes White Dragon BPT 2002 LP      |   55  |
+|      Red Eyes Black Dragon BPT 2002 LP       |   44  |
+|               Celestia UTR Unl               |   34  |
+| Charge Of The Light Brigade Secret Unlimited |   34  |
+|               sangan ultra tu                |   32  |
+|              Dark Paladin Ultra              |   31  |
+|       phoenix wing windblast Ultimate        |   31  |
+|           Book of Moon TU07 Ultra            |   20  |
+|         Dark Magician Girl RDS Ultra         |   20  |
+|               Ehren Secret Unl               |   19  |
+|            Emergency call secret             |   18  |
+|              Dark Hole Ultra TU              |   16  |
+|              breaker mc2 secret              |   15  |
+|            Proto cyber dragon utr            |   12  |
+|           Rare Metalmorph (UTR) LP           |   3   |
+|                  Wildheart                   |   2   |
+|                  Necroshade                  |   1   |
+|           Rare Metalmorph (UTR) MP           |   1   |
+|     Power Bond Ultimate Unlimited german     |   0   |
+|          brain control Ultimate UNL          |   0   |
+|                     test                     |   0   |
++----------------------------------------------+-------+
+trash_batch_B - 2021-09-06
++------------------------------------+-------+
+|                Card                | Price |
++------------------------------------+-------+
+|     Blue Eyes Toon Dragon MRL      |  150  |
+|   Legendary Fisherman Ultra 1st    |  100  |
+|        Seven Tools MRD 1st         |   96  |
+|           exodia necross           |   94  |
+|    skyscraper Ultimate 1st ger     |   88  |
+|           graceful dice            |   69  |
+|    transcend wings utr 1st ger     |   63  |
+|    hero signal Ultimate 1st ger    |   61  |
+|     neo space ultimate 1st ger     |   50  |
+|      hero flash ultimate 1st       |   49  |
+|       Dark Mirror Force 1st        |   44  |
+|          Jinzo Secret PSV          |   42  |
+| Wroguthweiler ultimate 1st gewrman |   29  |
+|          fusion sage tp6           |   28  |
+|   skyscraper 2 Ultimate 1st ger    |   27  |
+|         Time Wizard Ultra          |   23  |
+|   hero barrier Ultimate 1st ger    |   23  |
+|      mirror gate Ultimate 1st      |   20  |
+|    5th hope ultimate 1st german    |   19  |
+|        Toon Summoned Skull         |   15  |
+|     Solemn Judgment Unlimited      |   14  |
+|            Toon Mermaid            |   14  |
+|    Monster Reborn Unlimited LOB    |   13  |
+|          Mirror Force MRD          |   10  |
+|         Axe of Despair MRL         |   9   |
+|        Vorse Raider Secret         |   8   |
+|     Premature Burial Ultra UNL     |   5   |
+|          ryko super lodt           |   5   |
+|         Megamorph MRL Unl          |   4   |
+|           wulf lodt unl            |   3   |
+|     Thousand Dragon MRD secret     |   2   |
+|             negate atk             |   2   |
+|          wulf ultra lgcx           |   2   |
+|         garoth ultra lgcx          |   0   |
+|  miracle fusion Ultimate 1st ger   |   0   |
+|                test                |   0   |
++------------------------------------+-------+
