@@ -2,10 +2,7 @@
 ############# Deck Builder Core Binder ############################ Deck Builder Core Binder ############################ Deck Builder Core Binder ###############
 ##################################################################################################################################################################
 
-D Hero Malicious 1st IT:
-  url: 25632
-  edition: 'Near Mint 1st'
-  qty: 1.5
+
 
 Reborn Tengu Ultra 3 IT 3 EN:
   url: 81003
@@ -47,10 +44,7 @@ Dandylion Secret:
   edition: 'Near Mint 1st'
   qty: 3
 
-Destiny Draw 1st IT:
-  url: 25641
-  edition: 'Near Mint 1st'
-  qty: 1.5
+
 
 Enemy Controller AST unl:
   url: 23276
@@ -93,10 +87,6 @@ Call of the Haunted Ultra:
   edition: 'Near Mint Unlimited'
   qty: 2
 
-Divine Wrath UTR 1st:
-  url: 58807
-  edition: 'Near Mint 1st'
-  qty: 1
 
 Return from DD 1st:
   url: 35085

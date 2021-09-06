@@ -43,7 +43,7 @@ buylist_plants:
 
 
 
-## # Later buylists - consider not doing max rarity for these.
+## # Later buylists - consider doing not max rarity 1st for 2ndary decks
 
 #buylist_extras:
 #  path: 'decks/split_lists/buylist_extras.yaml'
@@ -57,13 +57,17 @@ buylist_plants:
 #buylist_goat:
 #  path: 'decks/split_lists/buylist_goat.yaml'
 
-#buylist_demiseotk:
-#  path: 'decks/split_lists/buylist_demiseotk.yaml'
-#
+
 
 
 
 # # # Later Later Buylists
+
+#buylist_demiseotk:
+#  path: 'decks/split_lists/buylist_demiseotk.yaml'
+#
+#buylist_cool_singles:
+#  path: 'decks/split_lists/buylist_cool_singles.yaml'
 
 #buylist_mermail:
 #  path: 'decks/old_lists/buylist_mermail.yaml'

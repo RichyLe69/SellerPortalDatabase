@@ -19484,3 +19484,53 @@ buylist_plants - 2021-09-03
 |      Armory Arm      |   10  |
 |         test         |   0   |
 +----------------------+-------+
+buylist_lightsworn - 2021-09-05
++--------------------------------+-------+
+|              Card              | Price |
++--------------------------------+-------+
+|  Black Rose Dragon Ghost 1st   |  1200 |
+| Ancient Fairy Dragon Ghost 1st |  599  |
+|       Doomkaiser utr 1st       |   56  |
+|    Tempest Magician Scr 1st    |   45  |
+|            Ryko 1st            |   27  |
+|              test              |   0   |
++--------------------------------+-------+
+buylist_chaosTurbo - 2021-09-05
++-------------------+-------+
+|        Card       | Price |
++-------------------+-------+
+| Breaker TP7 super |   0   |
+|        test       |   0   |
++-------------------+-------+
+buylist_teledad - 2021-09-05
++-------------------------------------+-------+
+|                 Card                | Price |
++-------------------------------------+-------+
+|  red dragon archfiend Ultimate 1st  |  249  |
+|      goyo guardian Ultimate 1st     |  145  |
+|      Diamond Dude Ultimate 1st      |  127  |
+|         E-Tele Ultimate 1st         |  110  |
+|      colossal fighter Ultimate      |  105  |
+|           Krebons TU super          |   79  |
+|         Solemn Judgment 1st         |   74  |
+|           Destiny Draw 1st          |   49  |
+| thoughtruler archfiend Ultimate 1st |   49  |
+|      brain control Ultimate 1st     |   45  |
+|        D Hero Malicious DP05        |   35  |
+|      ROTA Reinforcement LOD 1st     |   20  |
+|            mystic tomato            |   3   |
+|      royal oppression Rare LOD      |   2   |
+|        Monster Reborn LOB 1st       |   0   |
+|      Stardust Dragon Ghost 1st      |   0   |
+|                 test                |   0   |
++-------------------------------------+-------+
+buylist_plants - 2021-09-05
++----------------------+-------+
+|         Card         | Price |
++----------------------+-------+
+| Leviathan Ghost 1st  |  130  |
+|  Dark Hole LOB 1st   |  120  |
+| Steelswarm Roach 1st |   19  |
+|      Armory Arm      |   10  |
+|         test         |   0   |
++----------------------+-------+
