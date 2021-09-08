@@ -1,4 +1,4 @@
-from utils import get_card_lists, scrape_website, sort_market_prices, append_console_to_txt, sum_total_prices, print_sums
+from utils import get_card_lists, scrape_website, sort_market_prices, append_console_to_txt, sum_total_prices, print_sums, sum_total_quantity, calculate_average_per_list
 from CardList import CardList
 from selenium import webdriver
 import time
@@ -17,6 +17,7 @@ class Scraper:
         self.file_path = ''
         self.url = 'https://store.tcgplayer.com/admin/product/manage/33224'
         self.sums = [0, 0, 0]
+        self.total_card_quantity = 0
 
     def get_card_list(self):
         return self.card_lists
@@ -57,6 +58,12 @@ class Scraper:
     def get_sums(self):
         return self.sums
 
+    def get_total_quantity(self):
+        self.total_card_quantity = sum_total_quantity(self.total_card_quantity, self.file_path[2])
+
+    def get_average_of_list(self):
+        calculate_average_per_list(self.sums, self.total_card_quantity)
+
 
 if __name__ == '__main__':
 
@@ -69,9 +76,11 @@ if __name__ == '__main__':
         scraper.sort_current_prices()
         scraper.output_sorted_prices()
         scraper.get_total_prices()
+        scraper.get_total_quantity()
         time.sleep(1)
     scraper.close_browser()
     print_sums(scraper.get_sums())
+    scraper.get_average_of_list()
 
 # TODO
 # individual consoles (to allow for multi processing)

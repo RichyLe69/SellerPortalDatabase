@@ -27,6 +27,7 @@ def scrape_website(card_data_yaml, list_name, browser):
     lowest_listed_price_total = 0
     last_sold_price_total = 0
     market_price_total = 0
+    total_card_quantity = 0
     for card in card_data_yaml:
         url = '{}{}'.format(base_url, card_data_yaml[card]['url'])
         condition_edition = card_data_yaml[card]['edition']
@@ -55,6 +56,7 @@ def scrape_website(card_data_yaml, list_name, browser):
         lowest_listed_price_total += (data_prices[0] * card_quantity)
         last_sold_price_total += (data_prices[1] * card_quantity)
         market_price_total += (data_prices[2] * card_quantity)
+        total_card_quantity += card_quantity
 
         price_yaml_generator(card, data_prices[0], 'sorted_pricing/lowest_prices.yaml')
         price_yaml_generator(card, data_prices[1], 'sorted_pricing/last_sold.yaml')
@@ -69,7 +71,7 @@ def scrape_website(card_data_yaml, list_name, browser):
     output_to_txt_console('Sum of Market Prices: ${:,.2f}'.format(market_price_total))
     done = time.time()
     print(done - start)
-    return file_path, [lowest_listed_price_total, last_sold_price_total, market_price_total]
+    return file_path, [lowest_listed_price_total, last_sold_price_total, market_price_total], total_card_quantity
 
 
 def price_yaml_generator(card_name, price, yaml_name):
@@ -228,6 +230,20 @@ def sum_total_prices(current_sums, list_of_sums):
     current_sums[1] = current_sums[1] + list_of_sums[1]  # Last
     current_sums[2] = current_sums[2] + list_of_sums[2]  # Market
     return current_sums
+
+
+def sum_total_quantity(current_quantity, quantity_of_list):
+    return current_quantity + quantity_of_list
+
+
+def calculate_average_per_list(sums, quantity):
+    lowest_avg = sums[0] / quantity
+    last_avg = sums[1] / quantity
+    market_avg = sums[2] / quantity
+    print('Total Quantity: {}'.format(quantity))
+    print('Average of Lowest: {}'.format('{:.1f}'.format(lowest_avg)))
+    print('Average of Last: {}'.format('{:.1f}'.format(last_avg)))
+    print('Average of Market: {}'.format('{:.1f}'.format(market_avg)))
 
 
 def print_sums(sums):
