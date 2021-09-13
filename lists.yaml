@@ -9,17 +9,17 @@
 
 ## Split Collections
 
-collection_deck_builder:
-  path: 'decks/split_lists/collection_deck_builder.yaml'
-
-collection_extra_deck:
-  path: 'decks/split_lists/collection_extra_deck.yaml'
+#collection_deck_builder:
+#  path: 'decks/split_lists/collection_deck_builder.yaml'
+#
+#collection_extra_deck:
+#  path: 'decks/split_lists/collection_extra_deck.yaml'
 #
 #collection_deck_core:
 #  path: 'decks/split_lists/collection_deck_core.yaml'
 #
-collection_old_school:
-  path: 'decks/split_lists/collection_old_school.yaml'
+#collection_old_school:
+#  path: 'decks/split_lists/collection_old_school.yaml'
 
 
 
@@ -27,17 +27,17 @@ collection_old_school:
 
 ## Split Buylists
 
-#buylist_lightsworn:
-#  path: 'decks/split_lists/buylist_lightsworn.yaml'
+buylist_lightsworn:
+  path: 'decks/split_lists/buylist_lightsworn.yaml'
 
 #buylist_chaosTurbo:  # DONE
 #  path: 'decks/split_lists/buylist_chaosTurbo.yaml'
 
-#buylist_teledad:
-#  path: 'decks/split_lists/buylist_teledad.yaml'
-#
-#buylist_plants:
-#  path: 'decks/split_lists/buylist_plants.yaml'
+buylist_teledad:
+  path: 'decks/split_lists/buylist_teledad.yaml'
+
+buylist_plants:
+  path: 'decks/split_lists/buylist_plants.yaml'
 
 
 
@@ -45,14 +45,14 @@ collection_old_school:
 
 ## # Later buylists - consider doing not max rarity 1st for 2ndary decks
 
-#buylist_extras:  # Extra cards & Finish playsets
-#  path: 'decks/split_lists/buylist_extras.yaml'
+buylist_extras:  # Extra cards & Finish playsets
+  path: 'decks/split_lists/buylist_extras.yaml'
 
-#buylist_dadreturn:  # Secondary TeleDad deck.
-#  path: 'decks/split_lists/buylist_dadreturn.yaml'
+buylist_dadreturn:  # Secondary TeleDad deck.
+  path: 'decks/split_lists/buylist_dadreturn.yaml'
 #
-#buylist_machines:  # Secondary Goat / Return deck.
-#  path: 'decks/split_lists/buylist_machines.yaml'
+buylist_machines:  # Secondary Goat / Return deck.
+  path: 'decks/split_lists/buylist_machines.yaml'
 #
 #buylist_goat:
 #  path: 'decks/split_lists/buylist_goat.yaml'
