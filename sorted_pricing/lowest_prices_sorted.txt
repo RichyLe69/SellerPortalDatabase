@@ -20444,3 +20444,92 @@ buylist_machines - 2021-09-12
 |   Confiscation MRL 1st  |   11  |
 |           test          |   0   |
 +-------------------------+-------+
+buylist_lightsworn - 2021-09-15
++--------------------------------+-------+
+|              Card              | Price |
++--------------------------------+-------+
+|  Black Rose Dragon Ghost 1st   |  2100 |
+| Ancient Fairy Dragon Ghost 1st |  650  |
+|       Doomkaiser utr 1st       |   96  |
+|    Tempest Magician Scr 1st    |   75  |
+|            Ryko 1st            |   23  |
+|              test              |   0   |
++--------------------------------+-------+
+buylist_teledad - 2021-09-15
++-------------------------------------+-------+
+|                 Card                | Price |
++-------------------------------------+-------+
+|      Stardust Dragon Ghost 1st      |  5999 |
+|        Monster Reborn LOB 1st       |  1999 |
+|         Solemn Judgment 1st         |  500  |
+|      goyo guardian Ultimate 1st     |  189  |
+|         E-Tele Ultimate 1st         |  135  |
+|      Diamond Dude Ultimate 1st      |  100  |
+|      colossal fighter Ultimate      |   90  |
+|           Krebons TU super          |   83  |
+|           Destiny Draw 1st          |   79  |
+| thoughtruler archfiend Ultimate 1st |   60  |
+|        D Hero Malicious DP05        |   44  |
+|      ROTA Reinforcement LOD 1st     |   17  |
+|            mystic tomato            |   3   |
+|      royal oppression Rare LOD      |   3   |
+|  red dragon archfiend Ultimate 1st  |   0   |
+|                 test                |   0   |
++-------------------------------------+-------+
+buylist_plants - 2021-09-15
++----------------------+-------+
+|         Card         | Price |
++----------------------+-------+
+| Leviathan Ghost 1st  |  118  |
+| Steelswarm Roach 1st |   20  |
+|      Armory Arm      |   14  |
+|         test         |   0   |
++----------------------+-------+
+buylist_extras - 2021-09-15
++-------------------------------------+-------+
+|                 Card                | Price |
++-------------------------------------+-------+
+|          Breaker TP7 super          |  999  |
+| Black Luster Soldier EOTB Ultra 1st |  350  |
+|    Shooting Star Dragon Ghost 1st   |  347  |
+|        Spirit Reaper Super CP       |  299  |
+|             Lonefire cp7            |  285  |
+|      Thunder King Raioh UTR TU8     |  185  |
+|          Dandylion Ultimate         |  117  |
+|          Tsukuyomi Ultimate         |  117  |
+|         Glowup Bulb Ultimate        |   84  |
+|        Doomcalibur Knight TU        |   69  |
+|        Debris Dragon Ultimate       |   58  |
+|              Gorz RP02              |   15  |
+|                 test                |   0   |
++-------------------------------------+-------+
+buylist_dadreturn - 2021-09-15
++--------------------------------------------+-------+
+|                    Card                    | Price |
++--------------------------------------------+-------+
+|               Jinzo PSV 1st                |  1000 |
+|      Dark Magician of Chaos DMOC 1st       |  299  |
+|        Destiny Hero Dasher UTR 1st         |  199  |
+|          Dimension Fusion IOC 1st          |  139  |
+|       Mind Crush Champion Pack Super       |  134  |
+|             Gold Sarc GLD 2009             |   70  |
+|         Premature Burial Ultra 1st         |   55  |
+|        Dark Lord Zerato Secret 1st         |   49  |
+|         Destiny Hero Plasma Secret         |   20  |
+| Return from Different Dimension DPKB Super |   9   |
+|          Cyber Valley PTDN Super           |   8   |
+|     Destiny Hero Disk Commander Super      |   3   |
+|                    test                    |   0   |
++--------------------------------------------+-------+
+buylist_machines - 2021-09-15
++-------------------------+-------+
+|           Card          | Price |
++-------------------------+-------+
+|  Morphing Jar ultra TP2 |  2000 |
+|     Sakuretsu Super     |  445  |
+|     Snipe Hunter cp3    |  199  |
+| Call of the Haunted 1st |  145  |
+|  Giant Trunade MRL 1st  |   54  |
+|   Confiscation MRL 1st  |   11  |
+|           test          |   0   |
++-------------------------+-------+
