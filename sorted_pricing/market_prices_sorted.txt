@@ -20654,3 +20654,63 @@ buylist_machines - 2021-09-16
 |  Morphing Jar ultra TP2 |   0   |
 |           test          |   0   |
 +-------------------------+-------+
+buylist_lightsworn - 2021-09-17
++--------------------------------+-------+
+|              Card              | Price |
++--------------------------------+-------+
+| Ancient Fairy Dragon Ghost 1st |  599  |
+|       Doomkaiser utr 1st       |   59  |
+|    Tempest Magician Scr 1st    |   48  |
+|            Ryko 1st            |   16  |
+|  Black Rose Dragon Ghost 1st   |   0   |
+|              test              |   0   |
++--------------------------------+-------+
+buylist_teledad - 2021-09-17
++-------------------------------------+-------+
+|                 Card                | Price |
++-------------------------------------+-------+
+|      Stardust Dragon Ghost 1st      |  2249 |
+|  red dragon archfiend Ultimate 1st  |  246  |
+|         E-Tele Ultimate 1st         |  131  |
+|      Diamond Dude Ultimate 1st      |  104  |
+|      colossal fighter Ultimate      |   63  |
+|      goyo guardian Ultimate 1st     |   58  |
+| thoughtruler archfiend Ultimate 1st |   48  |
+|           Krebons TU super          |   43  |
+|        D Hero Malicious DP05        |   36  |
+|      ROTA Reinforcement LOD 1st     |   19  |
+|           Destiny Draw 1st          |   16  |
+|            mystic tomato            |   3   |
+|      royal oppression Rare LOD      |   3   |
+|        Monster Reborn LOB 1st       |   0   |
+|         Solemn Judgment 1st         |   0   |
+|                 test                |   0   |
++-------------------------------------+-------+
+buylist_plants - 2021-09-17
++----------------------+-------+
+|         Card         | Price |
++----------------------+-------+
+| Leviathan Ghost 1st  |  100  |
+| Steelswarm Roach 1st |   27  |
+|      Armory Arm      |   14  |
+|         test         |   0   |
++----------------------+-------+
+buylist_extras - 2021-09-17
++-------------------------------------+-------+
+|                 Card                | Price |
++-------------------------------------+-------+
+| Black Luster Soldier EOTB Ultra 1st |  549  |
+|  Chaos Emperor Dragon Ultimate 1st  |  472  |
+|    Shooting Star Dragon Ghost 1st   |  282  |
+|        Spirit Reaper Super CP       |  250  |
+|      Thunder King Raioh UTR TU8     |  176  |
+|             Lonefire cp7            |  131  |
+|          Tsukuyomi Ultimate         |  124  |
+|          Dandylion Ultimate         |  110  |
+|         Glowup Bulb Ultimate        |   78  |
+|        Debris Dragon Ultimate       |   65  |
+|        Doomcalibur Knight TU        |   62  |
+|              Gorz RP02              |   14  |
+|          Breaker TP7 super          |   0   |
+|                 test                |   0   |
++-------------------------------------+-------+

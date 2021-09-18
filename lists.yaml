@@ -39,20 +39,19 @@ buylist_teledad:
 buylist_plants:
   path: 'decks/split_lists/buylist_plants.yaml'
 
-
-
+buylist_extras:  # Extra cards & Finish playsets
+  path: 'decks/split_lists/buylist_extras.yaml'
 
 
 ## # Later buylists - consider doing not max rarity 1st for 2ndary decks
 
-buylist_extras:  # Extra cards & Finish playsets
-  path: 'decks/split_lists/buylist_extras.yaml'
 
-buylist_dadreturn:  # Secondary TeleDad deck.
-  path: 'decks/split_lists/buylist_dadreturn.yaml'
-#
-buylist_machines:  # Secondary Goat / Return deck.
-  path: 'decks/split_lists/buylist_machines.yaml'
+
+#buylist_dadreturn:  # Secondary TeleDad deck.
+#  path: 'decks/split_lists/buylist_dadreturn.yaml'
+
+#buylist_machines:  # Secondary Goat / Return deck.
+#  path: 'decks/split_lists/buylist_machines.yaml'
 #
 #buylist_goat:
 #  path: 'decks/split_lists/buylist_goat.yaml'
