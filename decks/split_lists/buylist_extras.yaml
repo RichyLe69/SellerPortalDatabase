@@ -34,23 +34,28 @@ Gorz RP02:
   edition:  'Near Mint Limited'
   qty: 1
 
-Glowup Bulb Ultimate:
-  url: 58425
-  edition: 'Near Mint 1st'
-  qty: 1
-
-#
-
 Doomcalibur Knight TU:
   url: 33225
   edition: 'Near Mint Unlimited'
   qty: 3
 
-#
+Giant Trunade - MRL Super 1st:
+  url: 22018
+  edition: 'Near Mint 1st'
+  qty: 1
 
-# Cold Wave
-# Trunade
+Dark Magician of Chaos DMOC 1st:
+  url: 23152
+  edition: 'Near Mint 1st'
+  qty: 1
 
+# cold wave
+
+
+Glowup Bulb Ultimate:
+  url: 58425
+  edition: 'Near Mint 1st'
+  qty: 1
 
 #Chaos Emperor Dragon Ultimate 1st:
 #  url: 35063
