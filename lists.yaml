@@ -60,7 +60,7 @@ buylist_extras:  # Extra cards & Finish playsets
 
 
 
-# # # Later Later Buylists
+# # # Don't really need, but possible buys.
 
 #buylist_demiseotk:
 #  path: 'decks/split_lists/buylist_demiseotk.yaml'
@@ -80,7 +80,7 @@ buylist_extras:  # Extra cards & Finish playsets
 
 
 
-# Probably don't need. Cool but not the best invests
+# don't need. Cool but not the best invests
 
 #buylist_chaosDragon:
 #  path: 'decks/split_lists/buylist_chaosDragon.yaml'

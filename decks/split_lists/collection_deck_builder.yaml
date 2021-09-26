@@ -31,12 +31,14 @@ Caius Shadow Monarch Ultimate TU:
 Chaos Emperor Dragon Ultimate 1st:
   url: 35063
   edition: 'Near Mint 1st'
-  qty: 1
+  qty: 3
+
+#
 
 Night Assailant Super CP 2 EN 1 IT:
   url: 26060
   edition: 'Near Mint Unlimited'
-  qty: 2.5
+  qty: 3.5
 
 Magician of Faith cp2:
   url: 26461
@@ -53,63 +55,38 @@ Gravekeeper Spy CP03:
   edition: 'Near Mint'
   qty: 3
 
+Lonefire Blossom Super CP:
+  url: 33077
+  edition: 'Near Mint Unlimited'
+  qty: 2
+
 Lumina, Lightsworn Summoner Super CP:
   url: 33097
   edition: 'Near Mint Unlimited'
   qty: 3
 
-Breaker TP7 super:
-  url: 24912
-  edition: 'Near Mint'
-  qty: 1
-
 Black Luster Soldier EOTB Ultra 1st:
   url: 23112
   edition: 'Near Mint 1st'
-  qty: 2
-
-Black Luster Soldier EOTB Ultra Unlimited:
-  url: 23112
-  edition: 'Near Mint Unlimited'
-  qty: 2
+  qty: 3
 
 Chaos Sorcerer Ultra TU:
   url: 66690
   edition: 'Near Mint'
   qty: 3
 
-Dekoichi UTR 1st NM:
-  url: 58797
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Dekoichi UTR 1st LP:
-  url: 58797
-  edition: 'Lightly Played 1st'
-  qty: 2
-
-Plaguespreader Zombie Ultimate 1st:
-  url: 58506
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Plaguespreader Zombie Ultimate 1st ITA:
-  url: 58506
-  edition: 'Near Mint 1st'
-  qty: 0.5
+Breaker TP7 super:
+  url: 24912
+  edition: 'Near Mint'
+  qty: 3
 
 Jinzo Secret PSV 1st:
   url: 22111
   edition: 'Near Mint 1st'
   qty: 1
 
-Sangan Super RP01:
-  url: 78106
-  edition: 'Near Mint Unlimited'
-  qty: 2
-
-Cyber Jar Ultimate 1st:
-  url: 35057
+Dark Grepher Secret 1st:
+  url: 26689
   edition: 'Near Mint 1st'
   qty: 1
 
@@ -148,6 +125,51 @@ Garoth TU:
   edition: 'Near Mint Unlimited'
   qty: 1
 
+Necro Gardna Ultimate 1st:
+  url: 58524
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Sangan Super RP01:
+  url: 78106
+  edition: 'Near Mint Unlimited'
+  qty: 2
+
+Cyber Jar Ultimate 1st:
+  url: 35057
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Plaguespreader Zombie Ultimate 1st:
+  url: 58506
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Plaguespreader Zombie Ultimate 1st ITA:
+  url: 58506
+  edition: 'Near Mint 1st'
+  qty: 0.5
+
+Doom Lord Rare DR04:
+  url: 80788
+  edition: 'Near Mint'
+  qty: 1
+
+D Hero Malicious 1st IT:
+  url: 25632
+  edition: 'Near Mint 1st'
+  qty: 1.5
+
+Krebos Super TU German (3):
+  url: 33227
+  edition: 'Near Mint Unlimited'
+  qty: 1.5
+
+Diamond Dude Ultimate 1st ger:
+  url: 58654
+  edition: 'Near Mint 1st'
+  qty: 0.5
+
 Tour Guide Ultimate Italian:
   url: 95358
   edition: 'Near Mint Unlimited'
@@ -163,11 +185,6 @@ Thunder King Rai-Oh Ultimate:
   edition: 'Near Mint Unlimited'
   qty: 3
 
-Tsukuyomi Ultimate:
-  url: 77987
-  edition: 'Near Mint'
-  qty: 3
-
 Debris Dragon Ultimate:
   url: 77988
   edition: 'Near Mint Unlimited'
@@ -178,15 +195,10 @@ Dandylion Ultimate:
   edition: 'Near Mint Unlimited'
   qty: 2
 
-Glowup Bulb Ultimate 2 eng 1 IT:
-  url: 58425
-  edition: 'Near Mint 1st'
-  qty: 2.5
-
-Lonefire Blossom Super CP:
-  url: 33077
-  edition: 'Near Mint Unlimited'
-  qty: 2
+Tsukuyomi Ultimate:
+  url: 77987
+  edition: 'Near Mint'
+  qty: 3
 
 Rescue Rabbit Secret 1st:
   url: 57297
@@ -228,6 +240,26 @@ Archlord Kristya Unlimited:
   edition: 'Near Mint Unlimited'
   qty: 2
 
+Glowup Bulb Ultimate 2 eng 1 IT:
+  url: 58425
+  edition: 'Near Mint 1st'
+  qty: 2.5
+
+Dekoichi UTR 1st NM:
+  url: 58797
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Dekoichi UTR 1st LP:
+  url: 58797
+  edition: 'Lightly Played 1st'
+  qty: 2
+
+Cyber Phoenix Ultimate 1st:
+  url: 58657
+  edition: 'Near Mint 1st'
+  qty: 3
+
 DD Crow Ultimate 1st:
   url: 58555
   edition: 'Near Mint 1st'
@@ -242,41 +274,6 @@ Battle Fader UTR 1st:
   url: 58454
   edition: 'Near Mint 1st'
   qty: 2
-
-Necro Gardna Ultimate 1st:
-  url: 58524
-  edition: 'Near Mint 1st'
-  qty: 3
-
-Cyber Phoenix Ultimate 1st:
-  url: 58657
-  edition: 'Near Mint 1st'
-  qty: 3
-
-Dark Grepher Secret 1st:
-  url: 26689
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Doom Lord Rare DR04:
-  url: 80788
-  edition: 'Near Mint'
-  qty: 1
-
-D Hero Malicious 1st IT:
-  url: 25632
-  edition: 'Near Mint 1st'
-  qty: 1.5
-
-Krebos Super TU German (3):
-  url: 33227
-  edition: 'Near Mint Unlimited'
-  qty: 1.5
-
-Diamond Dude Ultimate 1st ger:
-  url: 58654
-  edition: 'Near Mint 1st'
-  qty: 0.5
 
 # Magics
 
@@ -310,10 +307,17 @@ Smashing Ground Super CP:
   edition: 'Near Mint Unlimited'
   qty: 2
 
+Dark Hole LOB 1st:
+  url: 21873
+  edition: 'Lightly Played 1st'
+  qty: 1
+
 Heavy storm mrd 1st:
   url: 22068
-  edition: 'Near Mint 1st'
+  edition: 'Lightly Played 1st'
   qty: 1
+
+#
 
 Allure of Darkness Ultimate 1st 1 DE 2 IT:
   url: 27471
@@ -365,6 +369,16 @@ Graceful Charity SDP 1st:
   edition: 'Near Mint 1st'
   qty: 1
 
+Delinquent Duo MRL 1st:
+  url: 21897
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Card Destruction SDY 1st:
+  url: 22648
+  edition: 'Near Mint 1st'
+  qty: 1
+
 Future Fusion UTR Unlimited:
   url: 58648
   edition: 'Near Mint'
@@ -375,33 +389,30 @@ Machine Dupe Ultimate 1st:
   edition: 'Near Mint 1st'
   qty: 2
 
+#
+
 Nobleman of Crossout 1st:
   url: 22267
   edition: 'Near Mint 1st'
   qty: 2
-
-Snatch Steal MRL 1st:
-  url: 22416
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Mystical Space Typhoon MST MRL 1st:
-  url: 22255
-  edition: 'Near Mint 1st'
-  qty: 3
-
-Brain Control Ultimate 1st ger:
-  url: 58749
-  edition: 'Near Mint 1st'
-  qty: 0.5
 
 Lightning Vortex Ultimate 1st french:
   url: 58777
   edition: 'Near Mint 1st'
   qty: 0.5
 
-Delinquent Duo MRL 1st:
-  url: 21897
+Mystical Space Typhoon MST MRL 1st:
+  url: 22255
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Brain Control Ultimate 1st:
+  url: 58749
+  edition: 'Near Mint 1st'
+  qty: 1.5
+
+Snatch Steal MRL 1st:
+  url: 22416
   edition: 'Near Mint 1st'
   qty: 1
 
