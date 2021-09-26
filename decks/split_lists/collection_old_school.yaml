@@ -255,6 +255,11 @@ Chaos Emperor Dragon Secret 1st:
   edition: 'Near Mint 1st'
   qty: 1
 
+Black Luster Soldier EOTB Ultra Unlimited:
+  url: 23112
+  edition: 'Near Mint Unlimited'
+  qty: 2
+
 Dark Magician of Chaos:
   url: 23152
   edition: 'Near Mint Unlimited'
@@ -265,10 +270,11 @@ Dark Paladin 1st Ultra:
   edition: 'Near Mint 1st'
   qty: 1
 
-Black Luster Soldier EOTB Ultra Unlimited:
-  url: 23112
-  edition: 'Near Mint Unlimited'
-  qty: 2
+Buster Blade Ultra 1st:
+  url: 21810
+  edition: 'Near Mint 1st'
+  qty: 1
+
 
 #
 
@@ -285,11 +291,6 @@ Blue Eyes Ultimate JMP Secret:
 Forceful Sentry MRL Unlimited:
   url: 22492
   edition: 'Near Mint Unlimited'
-  qty: 1
-
-Buster Blade Ultra 1st:
-  url: 21810
-  edition: 'Near Mint 1st'
   qty: 1
 
 Premature Burial Ultra UNL:
