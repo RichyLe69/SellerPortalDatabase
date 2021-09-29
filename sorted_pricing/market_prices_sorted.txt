@@ -21382,3 +21382,58 @@ buylist_extras - 2021-09-27
 |           Lonefire cp7          |   0   |
 |               test              |   0   |
 +---------------------------------+-------+
+buylist_lightsworn - 2021-09-28
++-------------------------------------+-------+
+|                 Card                | Price |
++-------------------------------------+-------+
+|      Stardust Dragon Ghost 1st      |  2249 |
+|    Ancient Fairy Dragon Ghost 1st   |  599  |
+|  red dragon archfiend Ultimate 1st  |  246  |
+|          Doomkaiser utr 1st         |   59  |
+|      goyo guardian Ultimate 1st     |   59  |
+|       Tempest Magician Scr 1st      |   48  |
+| thoughtruler archfiend Ultimate 1st |   48  |
+|               Ryko 1st              |   20  |
+|     Black Rose Dragon Ghost 1st     |   0   |
+|                 test                |   0   |
++-------------------------------------+-------+
+buylist_teledad - 2021-09-28
++----------------------------+-------+
+|            Card            | Price |
++----------------------------+-------+
+|    E-Tele Ultimate 1st     |  147  |
+| Diamond Dude Ultimate 1st  |  112  |
+|      Krebons TU super      |   43  |
+|   D Hero Malicious DP05    |   39  |
+| ROTA Reinforcement LOD 1st |   20  |
+|      Destiny Draw 1st      |   16  |
+|       mystic tomato        |   3   |
+| royal oppression Rare LOD  |   3   |
+|   Monster Reborn LOB 1st   |   0   |
+|    Solemn Judgment 1st     |   0   |
+|            test            |   0   |
++----------------------------+-------+
+buylist_plants - 2021-09-28
++----------------------+-------+
+|         Card         | Price |
++----------------------+-------+
+| Leviathan Ghost 1st  |  102  |
+| Steelswarm Roach 1st |   27  |
+|      Armory Arm      |   14  |
+|         test         |   0   |
++----------------------+-------+
+buylist_extras - 2021-09-28
++---------------------------------+-------+
+|               Card              | Price |
++---------------------------------+-------+
+|      Spirit Reaper Super CP     |  258  |
+| Dark Magician of Chaos DMOC 1st |  171  |
+|        Dandylion Ultimate       |  110  |
+|       Glowup Bulb Ultimate      |   89  |
+|      Debris Dragon Ultimate     |   65  |
+|      Doomcalibur Knight TU      |   62  |
+|  Giant Trunade - MRL Super 1st  |   28  |
+|            Gorz RP02            |   15  |
+|           Lonefire cp7          |   0   |
+|               test              |   0   |
++---------------------------------+-------+
