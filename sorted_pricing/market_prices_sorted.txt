@@ -21795,3 +21795,43 @@ collection_old_school - 2021-10-02
 |       Dark Magician Girl Secret 1st       |   0   |
 |                    test                   |   0   |
 +-------------------------------------------+-------+
+buylist_dadreturn - 2021-10-02
++--------------------------------------------+-------+
+|                    Card                    | Price |
++--------------------------------------------+-------+
+|        Destiny Hero Dasher UTR 1st         |  172  |
+|       Mind Crush Champion Pack Super       |  169  |
+|          Dimension Fusion IOC 1st          |  121  |
+|         Premature Burial Ultra 1st         |   59  |
+|        Dark Lord Zerato Secret 1st         |   49  |
+|         Destiny Hero Plasma Secret         |   23  |
+|             Gold Sarc GLD 2009             |   22  |
+| Return from Different Dimension DPKB Super |   9   |
+|          Cyber Valley PTDN Super           |   8   |
+|     Destiny Hero Disk Commander Super      |   4   |
+|                    test                    |   0   |
++--------------------------------------------+-------+
+buylist_machines - 2021-10-02
++-------------------------+-------+
+|           Card          | Price |
++-------------------------+-------+
+|     Sakuretsu Super     |  423  |
+|     Snipe Hunter cp3    |   95  |
+| Call of the Haunted 1st |   93  |
+|  Giant Trunade MRL 1st  |   28  |
+|   Confiscation MRL 1st  |   19  |
+|  Morphing Jar ultra TP2 |   0   |
+|           test          |   0   |
++-------------------------+-------+
+buylist_goat - 2021-10-02
++-------------------------+-------+
+|           Card          | Price |
++-------------------------+-------+
+| Dark Mimic Lv3 Ultimate |   70  |
+|      Kycoo lod 1st      |   37  |
+| Tribe infecting MFC 1st |   35  |
+|     Book of moon cp1    |   0   |
+|      Dark Mimic Lv1     |   0   |
+|    Metamorphosis cp1    |   0   |
+|           test          |   0   |
++-------------------------+-------+

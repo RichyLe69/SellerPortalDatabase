@@ -21764,3 +21764,43 @@ collection_old_school - 2021-10-02
 |         Blue-Eyes White Dragon DDS        |   0   |
 |                    test                   |   0   |
 +-------------------------------------------+-------+
+buylist_dadreturn - 2021-10-02
++--------------------------------------------+-------+
+|                    Card                    | Price |
++--------------------------------------------+-------+
+|        Destiny Hero Dasher UTR 1st         |  349  |
+|       Mind Crush Champion Pack Super       |  129  |
+|          Dimension Fusion IOC 1st          |  124  |
+|        Dark Lord Zerato Secret 1st         |   66  |
+|         Premature Burial Ultra 1st         |   50  |
+|             Gold Sarc GLD 2009             |   44  |
+|         Destiny Hero Plasma Secret         |   31  |
+| Return from Different Dimension DPKB Super |   14  |
+|          Cyber Valley PTDN Super           |   7   |
+|     Destiny Hero Disk Commander Super      |   3   |
+|                    test                    |   0   |
++--------------------------------------------+-------+
+buylist_machines - 2021-10-02
++-------------------------+-------+
+|           Card          | Price |
++-------------------------+-------+
+|  Morphing Jar ultra TP2 |  5000 |
+|     Sakuretsu Super     |  399  |
+|     Snipe Hunter cp3    |  199  |
+| Call of the Haunted 1st |  115  |
+|  Giant Trunade MRL 1st  |   54  |
+|   Confiscation MRL 1st  |   11  |
+|           test          |   0   |
++-------------------------+-------+
+buylist_goat - 2021-10-02
++-------------------------+-------+
+|           Card          | Price |
++-------------------------+-------+
+|    Metamorphosis cp1    |  1650 |
+|     Book of moon cp1    |  849  |
+| Dark Mimic Lv3 Ultimate |   75  |
+|      Kycoo lod 1st      |   31  |
+| Tribe infecting MFC 1st |   27  |
+|      Dark Mimic Lv1     |   1   |
+|           test          |   0   |
++-------------------------+-------+
