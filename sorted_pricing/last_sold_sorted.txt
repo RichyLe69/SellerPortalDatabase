@@ -21842,3 +21842,184 @@ buylist_goat - 2021-10-02
 |    Metamorphosis cp1    |   0   |
 |           test          |   0   |
 +-------------------------+-------+
+trash_binder - 2021-10-02
++-----------------------------+-------+
+|             Card            | Price |
++-----------------------------+-------+
+|     magician valky jump     |   62  |
+|       guardian sphinx       |   28  |
+|        yamata dragon        |   27  |
+|           Seiyaryu          |   26  |
+|       magicians circle      |   25  |
+|    mirror force dpyg 1st    |   25  |
+|      big shield gardna      |   21  |
+|   Spellbinding Circle MRL   |   14  |
+|   Tri Horned Dragon Secret  |   14  |
+|       mask of restrict      |   14  |
+|       hino kagu tsuchi      |   13  |
+|       mystical knight       |   13  |
+| Serpent Night Dragon Secret |   10  |
+|          Helpoemer          |   9   |
+|  Legendary Fisherman Ultra  |   9   |
+|      XYZ Dragon Cannon      |   9   |
+|     gemini elf ultra ioc    |   9   |
+|    levia dragon daedalus    |   9   |
+|       skilled dark mag      |   9   |
+|          mage power         |   8   |
+|       Flame Swordsman       |   7   |
+|       dark necro fear       |   7   |
+|        destiny board        |   7   |
+|         Kazejin MRD         |   5   |
+|       spell canceller       |   5   |
+|       united we stand       |   5   |
+|       curse of dragon       |   4   |
+|         dark renewal        |   4   |
+|     joan guardian angel     |   4   |
+|      sanga thunder MRD      |   4   |
+|        Acid Trap Hole       |   3   |
+|           Poly LOB          |   3   |
+|         black tyrano        |   3   |
+|         double spell        |   3   |
+|       fiend megacyber       |   3   |
+|         Celtic Guard        |   2   |
+|          Dark Hole          |   2   |
+|      dark magic curtain     |   2   |
+|    flute of summ kuriboh    |   2   |
+|      harpie lady sister     |   2   |
+|           kuriboh           |   2   |
+|          man eater          |   2   |
+|          suijin MRD         |   2   |
+|   sword of revealing light  |   2   |
+|          trap hole          |   2   |
+|          Mystic Elf         |   1   |
+|          Salamandra         |   1   |
+|       card of sanctity      |   1   |
+|          de fusion          |   1   |
+|          o oversoul         |   1   |
+|         exchange scr        |   0   |
+|    giant soldier of stone   |   0   |
+|        h heated heart       |   0   |
+|       obnoxious celtic      |   0   |
+|         r righteous         |   0   |
+|          skull dice         |   0   |
+|             test            |   0   |
++-----------------------------+-------+
+trash_batch_A - 2021-10-02
++----------------------------------------------+-------+
+|                     Card                     | Price |
++----------------------------------------------+-------+
+|       Dark Magician Girl Secret UNL LP       |  239  |
+|       Mystical Space Typhoon Ultimate        |  155  |
+|           Tragoedia Ultimate 1 ita           |  150  |
+|           Stardust Dragon Ultimate           |  149  |
+|      Shooting Star Dragon Ultimate 1st       |   91  |
+|          black rose dragon ultimate          |   91  |
+|      Red Dragon Archfiend Ultimate Unl       |   88  |
+|  Overload Fusion Ultimate Unlimited german   |   85  |
+|          Dark Magician BPT 2002 LP           |   70  |
+|        Monster reborn super RP01 ITA         |   64  |
+|             Leviair Ultimate Unl             |   61  |
+|         cyberdark horn Ultimate 1st          |   53  |
+|      Red Eyes Black Dragon BPT 2002 LP       |   50  |
+|       phoenix wing windblast Ultimate        |   50  |
+|         Dark Magician Girl RDS Ultra         |   49  |
+|              breaker mc2 secret              |   49  |
+|     Black Luster Soldier EOTB Secret MC2     |   45  |
+|      Blue Eyes White Dragon BPT 2002 LP      |   39  |
+| Charge Of The Light Brigade Secret Unlimited |   34  |
+|          cybedark keel Ultimate 1st          |   34  |
+|               sangan ultra tu                |   34  |
+|               Celestia UTR Unl               |   33  |
+|              Dark Paladin Ultra              |   31  |
+|            Cyberdark Impact! SCR             |   29  |
+|            Emergency call secret             |   27  |
+|              Dark Hole Ultra TU              |   21  |
+|               Ehren Secret Unl               |   19  |
+|           Book of Moon TU07 Ultra            |   17  |
+|           Dark Magician Girl LCYW            |   8   |
+|         Cyber Laser Dragon (UTR) GER         |   7   |
+|        Perfect Machine King (UTR) GER        |   6   |
+|            Proto cyber dragon utr            |   5   |
+|                  Necroshade                  |   2   |
+|                  Wildheart                   |   2   |
+|           Rare Metalmorph (UTR) LP           |   1   |
+|           Rare Metalmorph (UTR) MP           |   1   |
+|        Cyber Barrier Dragon (UTR GER         |   0   |
+|     Power Bond Ultimate Unlimited german     |   0   |
+|          brain control Ultimate UNL          |   0   |
+|                     test                     |   0   |
++----------------------------------------------+-------+
+trash_batch_B - 2021-10-02
++------------------------------------+-------+
+|                Card                | Price |
++------------------------------------+-------+
+|  miracle fusion Ultimate 1st ger   |  200  |
+|     Blue Eyes Toon Dragon MRL      |  160  |
+|        Seven Tools MRD 1st         |   99  |
+|          fusion sage tp6           |   99  |
+|           exodia necross           |   95  |
+|    skyscraper Ultimate 1st ger     |   87  |
+|   Legendary Fisherman Ultra 1st    |   79  |
+|    hero signal Ultimate 1st ger    |   61  |
+|          Mirror Force MRD          |   60  |
+|      hero flash ultimate 1st       |   50  |
+|     neo space ultimate 1st ger     |   49  |
+|    transcend wings utr 1st ger     |   46  |
+|       Dark Mirror Force 1st        |   43  |
+|          Jinzo Secret PSV          |   35  |
+| Wroguthweiler ultimate 1st gewrman |   32  |
+|   skyscraper 2 Ultimate 1st ger    |   28  |
+|         Time Wizard Ultra          |   25  |
+|             negate atk             |   25  |
+|    5th hope ultimate 1st german    |   21  |
+|           graceful dice            |   20  |
+|            Toon Mermaid            |   16  |
+|        Toon Summoned Skull         |   15  |
+|     Solemn Judgment Unlimited      |   14  |
+|   hero barrier Ultimate 1st ger    |   14  |
+|    Monster Reborn Unlimited LOB    |   13  |
+|         Axe of Despair MRL         |   9   |
+|     Thousand Dragon MRD secret     |   6   |
+|      mirror gate Ultimate 1st      |   6   |
+|          ryko super lodt           |   6   |
+|         Megamorph MRL Unl          |   5   |
+|        Vorse Raider Secret         |   5   |
+|     Premature Burial Ultra UNL     |   4   |
+|           wulf lodt unl            |   3   |
+|          wulf ultra lgcx           |   2   |
+|         garoth ultra lgcx          |   0   |
+|                test                |   0   |
++------------------------------------+-------+
+starlight - 2021-10-02
++-----------------------------------------------------+-------+
+|                         Card                        | Price |
++-----------------------------------------------------+-------+
+|                      10k Dragon                     |  1500 |
+|    Apollousa, Bow of the Goddess (Starlight Rare)   |  1299 |
+|           I:P Masquerena (Starlight Rare)           |  800  |
+|  Dogmatika Ecclesia, the Virtuous (Starlight Rare)  |  699  |
+|         Chamber Dragonmaid (Starlight Rare)         |  650  |
+|        Triple Tactics Talent (Starlight Rare)       |  645  |
+|   Eria the Water Charmer, Gentle (Starlight Rare)   |  614  |
+|            Effect Veiler (Starlight Rare)           |  544  |
+|                  Pot of Prosperity                  |  475  |
+|              D.D. Crow (Starlight Rare)             |  372  |
+|       Sky Striker Ace - Roze (Starlight Rare)       |  350  |
+|           Lightning Storm (Starlight Rare)          |  319  |
+|    Ghost Mourner & Moonlit Chill (Starlight Rare)   |  265  |
+|                       Trishula                      |  250  |
+|       Wynn the Wind Channeler (Starlight Rare)      |  247  |
+|   Wynn the Wind Charmer, Verdant (Starlight Rare)   |  247  |
+|         Traptrix Allomerus (Starlight Rare)         |  244  |
+| Aussa the Earth Charmer, Immovable (Starlight Rare) |  239  |
+| Gaia the Magical Knight of Dragons (Starlight Rare) |  212  |
+|                       Ferrijit                      |  199  |
+|       Unchained Twins - Aruha (Starlight Rare)      |  184  |
+|         Marincess Sea Horse (Starlight Rare)        |  169  |
+|  Gorgon, Empress of the Evil Eyed (Starlight Rare)  |  150  |
+|         Time Thief Perpetua (Starlight Rare)        |  148  |
+|        Storm Dragon's Return (Starlight Rare)       |  123  |
+|      Salamangreat Pyro Phoenix (Starlight Rare)     |  105  |
+|                    Utopia Astral                    |   9   |
+|                         test                        |   0   |
++-----------------------------------------------------+-------+
