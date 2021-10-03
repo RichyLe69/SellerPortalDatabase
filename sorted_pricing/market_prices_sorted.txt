@@ -22016,3 +22016,66 @@ starlight - 2021-10-02
 |        Storm Dragon's Return (Starlight Rare)       |  120  |
 |                         test                        |   0   |
 +-----------------------------------------------------+-------+
+buylist_lightsworn - 2021-10-02
++-----------------------------------+-------+
+|                Card               | Price |
++-----------------------------------+-------+
+|     Stardust Dragon Ghost 1st     |  2249 |
+|   Ancient Fairy Dragon Ghost 1st  |  599  |
+| red dragon archfiend Ultimate 1st |  246  |
+|         Doomkaiser utr 1st        |   61  |
+|      Tempest Magician Scr 1st     |   47  |
+|    Black Rose Dragon Ghost 1st    |   0   |
+|                test               |   0   |
++-----------------------------------+-------+
+buylist_teledad - 2021-10-02
++------------------------+-------+
+|          Card          | Price |
++------------------------+-------+
+|  E-Tele Ultimate 1st   |  155  |
+| Monster Reborn LOB 1st |   0   |
+|  Solemn Judgment 1st   |   0   |
+|          test          |   0   |
++------------------------+-------+
+buylist_lightsworn - 2021-10-02
++-----------------------------------+-------+
+|                Card               | Price |
++-----------------------------------+-------+
+|     Stardust Dragon Ghost 1st     |  2249 |
+|   Ancient Fairy Dragon Ghost 1st  |  599  |
+| red dragon archfiend Ultimate 1st |  246  |
+|         Doomkaiser utr 1st        |   61  |
+|      Tempest Magician Scr 1st     |   47  |
+|    Black Rose Dragon Ghost 1st    |   0   |
+|                test               |   0   |
++-----------------------------------+-------+
+buylist_teledad - 2021-10-02
++------------------------+-------+
+|          Card          | Price |
++------------------------+-------+
+|  E-Tele Ultimate 1st   |  155  |
+| Monster Reborn LOB 1st |   0   |
+|  Solemn Judgment 1st   |   0   |
+|          test          |   0   |
++------------------------+-------+
+buylist_plants - 2021-10-02
++----------------------+-------+
+|         Card         | Price |
++----------------------+-------+
+|   Maxx c ultimate    |  608  |
+| Tour Guide Ultimate  |  344  |
+| Scapegoat ultra rp01 |   0   |
+|         test         |   0   |
++----------------------+-------+
+buylist_extras - 2021-10-02
++---------------------------------+-------+
+|               Card              | Price |
++---------------------------------+-------+
+| Dark Magician of Chaos DMOC 1st |  171  |
+|       Glowup Bulb Ultimate      |   89  |
+|      Doomcalibur Knight TU      |   69  |
+|  Giant Trunade - MRL Super 1st  |   28  |
+|            Gorz RP02            |   15  |
+|           Lonefire cp7          |   0   |
+|               test              |   0   |
++---------------------------------+-------+

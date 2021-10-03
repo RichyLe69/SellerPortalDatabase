@@ -2,39 +2,39 @@
 ############### Tengu Plant Synchro ##################
 ##################################################
 
-#Tour Guide Ultimate:
-#  url: 95358
-#  edition: 'Near Mint Unlimited'
-#  qty: 3
+Tour Guide Ultimate:
+  url: 95358
+  edition: 'Near Mint Unlimited'
+  qty: 3
 
-#Maxx c ultimate :
-#  url: 79457
-#  edition: 'Near Mint Unlimited'
-#  qty: 3
+Maxx c ultimate :
+  url: 79457
+  edition: 'Near Mint Unlimited'
+  qty: 3
 
-#Scapegoat ultra rp01:
-#  url: 78160
-#  edition: 'Near Mint Unlimited'
+Scapegoat ultra rp01:
+  url: 78160
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+
+##############
+
+
+#Leviathan Ghost 1st:
+#  url: 48119
+#  edition: 'Near Mint 1st'
 #  qty: 1
 #
-
-
-Leviathan Ghost 1st:
-  url: 48119
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Armory Arm:
-  url: 32896
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Steelswarm Roach 1st:
-  url: 48118
-  edition: 'Near Mint 1st'
-  qty: 1
-
-
+#Armory Arm:
+#  url: 32896
+#  edition: 'Near Mint 1st'
+#  qty: 1
+#
+#Steelswarm Roach 1st:
+#  url: 48118
+#  edition: 'Near Mint 1st'
+#  qty: 1
 
 #Effect Veiler Ultimate 1st:
 #  url: 58434

@@ -4,24 +4,9 @@
 
 # Finish playsets / additional cards for collection
 
-Spirit Reaper Super CP:
-  url: 26037
-  edition: 'Near Mint Unlimited'
-  qty: 1
-
 Lonefire cp7:
   url: 33077
   edition: 'Near Mint'
-  qty: 1
-
-Debris Dragon Ultimate:
-  url: 77988
-  edition: 'Near Mint Unlimited'
-  qty: 1
-
-Dandylion Ultimate:
-  url: 79456
-  edition: 'Near Mint Unlimited'
   qty: 1
 
 Gorz RP02:
@@ -52,6 +37,22 @@ Glowup Bulb Ultimate:
   edition: 'Near Mint 1st'
   qty: 1
 
+
+
+
+#Spirit Reaper Super CP:
+#  url: 26037
+#  edition: 'Near Mint Unlimited'
+#  qty: 1
+#Debris Dragon Ultimate:
+#  url: 77988
+#  edition: 'Near Mint Unlimited'
+#  qty: 1
+
+#Dandylion Ultimate:
+#  url: 79456
+#  edition: 'Near Mint Unlimited'
+#  qty: 1
 #Chaos Emperor Dragon Ultimate 1st:
 #  url: 35063
 #  edition: 'Near Mint 1st'

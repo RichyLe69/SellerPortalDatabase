@@ -4,31 +4,6 @@
 
 # English conversions, priority after chaos turbo.
 
-D Hero Malicious DP05:
-  url: 25632
-  edition: 'Near Mint 1st'
-  qty: 3
-
-Diamond Dude Ultimate 1st :
-  url: 58654
-  edition: 'Near Mint 1st'
-  qty: 2
-
-Krebons TU super:
-  url: 33227
-  edition: 'Near Mint Unlimited'
-  qty: 2
-
-mystic tomato:
-  url: 22250
-  edition: 'Near Mint 1st'
-  qty: 2
-
-Destiny Draw 1st:
-  url: 25641
-  edition: 'Near Mint 1st'
-  qty: 3
-
 E-Tele Ultimate 1st:
   url: 58522
   edition: 'Near Mint 1st'
@@ -39,22 +14,10 @@ Monster Reborn LOB 1st:
   edition: 'Near Mint 1st'
   qty: 1
 
-ROTA Reinforcement LOD 1st:
-  url: 22343
-  edition: 'Near Mint 1st'
-  qty: 2
-
 Solemn Judgment 1st:
   url: 22418
   edition: 'Near Mint 1st Edition'
   qty: 2
-
-royal oppression Rare LOD:
-  url: 22370
-  edition: 'Near Mint 1st'
-  qty: 2
-
-
 
 
 
@@ -114,3 +77,38 @@ royal oppression Rare LOD:
 #  edition: 'Near Mint 1st'
 #  qty: 2
 
+
+#D Hero Malicious DP05:
+#  url: 25632
+#  edition: 'Near Mint 1st'
+#  qty: 3
+
+#Diamond Dude Ultimate 1st :
+#  url: 58654
+#  edition: 'Near Mint 1st'
+#  qty: 2
+
+#Krebons TU super:
+#  url: 33227
+#  edition: 'Near Mint Unlimited'
+#  qty: 2
+
+#mystic tomato:
+#  url: 22250
+#  edition: 'Near Mint 1st'
+#  qty: 2
+
+#Destiny Draw 1st:
+#  url: 25641
+#  edition: 'Near Mint 1st'
+#  qty: 3
+
+#ROTA Reinforcement LOD 1st:
+#  url: 22343
+#  edition: 'Near Mint 1st'
+#  qty: 2
+
+#royal oppression Rare LOD:
+#  url: 22370
+#  edition: 'Near Mint 1st'
+#  qty: 2

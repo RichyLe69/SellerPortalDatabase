@@ -26,16 +26,6 @@ red dragon archfiend Ultimate 1st:
   edition: 'Near Mint 1st'
   qty: 2
 
-thoughtruler archfiend Ultimate 1st:
-  url: 58521
-  edition: 'Near Mint 1st'
-  qty: 1
-
-goyo guardian Ultimate 1st:
-  url: 58520
-  edition: 'Near Mint 1st'
-  qty: 1
-
 
 Tempest Magician Scr 1st:
   url: 28481
@@ -47,12 +37,22 @@ Doomkaiser utr 1st:
   edition: 'Near Mint 1st'
   qty: 1
 
-Ryko 1st:
-  url: 26716
-  edition: 'Near Mint 1st'
-  qty: 3
+#Ryko 1st:
+#  url: 26716
+#  edition: 'Near Mint 1st'
+#  qty: 3
 
 #########
+
+#thoughtruler archfiend Ultimate 1st:
+#  url: 58521
+#  edition: 'Near Mint 1st'
+#  qty: 1
+#
+#goyo guardian Ultimate 1st:
+#  url: 58520
+#  edition: 'Near Mint 1st'
+#  qty: 1
 
 
 #Plaguespreader Ultimate 1st EN:
