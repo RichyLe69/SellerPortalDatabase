@@ -22048,3 +22048,45 @@ buylist_extras - 2021-10-02
 |            Gorz RP02            |   17  |
 |               test              |   0   |
 +---------------------------------+-------+
+buylist_lightsworn - 2021-10-03
++-----------------------------------+-------+
+|                Card               | Price |
++-----------------------------------+-------+
+|     Stardust Dragon Ghost 1st     |  5999 |
+|    Black Rose Dragon Ghost 1st    |  2100 |
+|   Ancient Fairy Dragon Ghost 1st  |  650  |
+| red dragon archfiend Ultimate 1st |  324  |
+|         Doomkaiser utr 1st        |   95  |
+|      Tempest Magician Scr 1st     |   47  |
+|                test               |   0   |
++-----------------------------------+-------+
+buylist_teledad - 2021-10-03
++------------------------+-------+
+|          Card          | Price |
++------------------------+-------+
+| Monster Reborn LOB 1st |  1999 |
+|  Solemn Judgment 1st   |  503  |
+|  E-Tele Ultimate 1st   |  259  |
+|          test          |   0   |
++------------------------+-------+
+buylist_plants - 2021-10-03
++----------------------+-------+
+|         Card         | Price |
++----------------------+-------+
+| Scapegoat ultra rp01 |  1000 |
+|   Maxx c ultimate    |  650  |
+| Tour Guide Ultimate  |  300  |
+|         test         |   0   |
++----------------------+-------+
+buylist_extras - 2021-10-03
++---------------------------------+-------+
+|               Card              | Price |
++---------------------------------+-------+
+|           Lonefire cp7          |  681  |
+| Dark Magician of Chaos DMOC 1st |  299  |
+|       Glowup Bulb Ultimate      |   84  |
+|      Doomcalibur Knight TU      |   68  |
+|  Giant Trunade - MRL Super 1st  |   46  |
+|            Gorz RP02            |   17  |
+|               test              |   0   |
++---------------------------------+-------+
