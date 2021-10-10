@@ -8,11 +8,6 @@ Spirit Reaper cp3:
   edition: 'Near Mint'
   qty: 1
 
-Krebons TU super:
-  url: 33227
-  edition: 'Near Mint Unlimited'
-  qty: 1
-
 Card Destruction SDY 1st:
   url: 22648
   edition: 'Near Mint 1st'
@@ -22,16 +17,6 @@ Lonefire cp7:
   url: 33077
   edition: 'Near Mint'
   qty: 1
-
-Gorz RP02:
-  url: 78171
-  edition:  'Near Mint Limited'
-  qty: 1
-
-Doomcalibur Knight TU:
-  url: 33225
-  edition: 'Near Mint Unlimited'
-  qty: 3
 
 Giant Trunade - MRL Super 1st:
   url: 22018
@@ -43,15 +28,24 @@ Dark Magician of Chaos DMOC 1st:
   edition: 'Near Mint 1st'
   qty: 1
 
-# cold wave
+############################
 
+Gorz RP02:
+  url: 78171
+  edition:  'Near Mint Limited'
+  qty: 1
+
+Doomcalibur Knight TU:
+  url: 33225
+  edition: 'Near Mint Unlimited'
+  qty: 3
 
 Glowup Bulb Ultimate:
   url: 58425
   edition: 'Near Mint 1st'
   qty: 1
 
-
+# cold wave
 
 
 #Spirit Reaper Super CP:
