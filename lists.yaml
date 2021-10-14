@@ -27,8 +27,8 @@
 
 ## Split Buylists
 
-buylist_lightsworn: # extra deck
-  path: 'decks/split_lists/buylist_lightsworn.yaml'
+#buylist_lightsworn: # extra deck
+#  path: 'decks/split_lists/buylist_lightsworn.yaml'
 
 #buylist_chaosTurbo:  # DONE
 #  path: 'decks/split_lists/buylist_chaosTurbo.yaml'

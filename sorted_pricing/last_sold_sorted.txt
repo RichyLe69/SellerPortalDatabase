@@ -22619,3 +22619,36 @@ buylist_extras - 2021-10-12
 |           Lonefire cp7          |   0   |
 |               test              |   0   |
 +---------------------------------+-------+
+buylist_teledad - 2021-10-13
++------------------------+-------+
+|          Card          | Price |
++------------------------+-------+
+|  E-Tele Ultimate 1st   |  255  |
+|    Krebons TU super    |   82  |
+| Monster Reborn LOB 1st |   0   |
+|  Solemn Judgment 1st   |   0   |
+|          test          |   0   |
++------------------------+-------+
+buylist_plants - 2021-10-13
++----------------------+-------+
+|         Card         | Price |
++----------------------+-------+
+|   Maxx c ultimate    |  686  |
+| Tour Guide Ultimate  |  369  |
+| Scapegoat ultra rp01 |  106  |
+|         test         |   0   |
++----------------------+-------+
+buylist_extras - 2021-10-13
++---------------------------------+-------+
+|               Card              | Price |
++---------------------------------+-------+
+|        Spirit Reaper cp3        |  308  |
+| Dark Magician of Chaos DMOC 1st |  240  |
+|       Glowup Bulb Ultimate      |   89  |
+|  Giant Trunade - MRL Super 1st  |   53  |
+|      Doomcalibur Knight TU      |   23  |
+|            Gorz RP02            |   19  |
+|     Card Destruction SDY 1st    |   12  |
+|           Lonefire cp7          |   0   |
+|               test              |   0   |
++---------------------------------+-------+
