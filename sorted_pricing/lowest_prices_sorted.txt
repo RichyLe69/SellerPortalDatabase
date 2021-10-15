@@ -22614,3 +22614,36 @@ buylist_extras - 2021-10-13
 |            Gorz RP02            |   16  |
 |               test              |   0   |
 +---------------------------------+-------+
+buylist_teledad - 2021-10-14
++------------------------+-------+
+|          Card          | Price |
++------------------------+-------+
+| Monster Reborn LOB 1st |  1999 |
+|  Solemn Judgment 1st   |  503  |
+|  E-Tele Ultimate 1st   |  254  |
+|    Krebons TU super    |   83  |
+|          test          |   0   |
++------------------------+-------+
+buylist_plants - 2021-10-14
++----------------------+-------+
+|         Card         | Price |
++----------------------+-------+
+| Scapegoat ultra rp01 |  1000 |
+|   Maxx c ultimate    |  650  |
+| Tour Guide Ultimate  |  303  |
+|         test         |   0   |
++----------------------+-------+
+buylist_extras - 2021-10-14
++---------------------------------+-------+
+|               Card              | Price |
++---------------------------------+-------+
+|           Lonefire cp7          |  649  |
+|        Spirit Reaper cp3        |  499  |
+| Dark Magician of Chaos DMOC 1st |  299  |
+|       Glowup Bulb Ultimate      |   85  |
+|      Doomcalibur Knight TU      |   68  |
+|  Giant Trunade - MRL Super 1st  |   50  |
+|     Card Destruction SDY 1st    |   18  |
+|            Gorz RP02            |   16  |
+|               test              |   0   |
++---------------------------------+-------+
