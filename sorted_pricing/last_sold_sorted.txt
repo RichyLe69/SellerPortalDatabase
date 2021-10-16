@@ -22685,3 +22685,30 @@ buylist_extras - 2021-10-14
 |           Lonefire cp7          |   0   |
 |               test              |   0   |
 +---------------------------------+-------+
+buylist_teledad - 2021-10-15
++------------------------+-------+
+|          Card          | Price |
++------------------------+-------+
+| Monster Reborn LOB 1st |   0   |
+|  Solemn Judgment 1st   |   0   |
+|          test          |   0   |
++------------------------+-------+
+buylist_plants - 2021-10-15
++----------------------+-------+
+|         Card         | Price |
++----------------------+-------+
+|   Maxx c ultimate    |  686  |
+| Tour Guide Ultimate  |  330  |
+| Scapegoat ultra rp01 |  106  |
+|         test         |   0   |
++----------------------+-------+
+buylist_extras - 2021-10-15
++-----------------------+-------+
+|          Card         | Price |
++-----------------------+-------+
+|  Glowup Bulb Ultimate |   89  |
+| Doomcalibur Knight TU |   23  |
+|       Gorz RP02       |   19  |
+|      Lonefire cp7     |   0   |
+|          test         |   0   |
++-----------------------+-------+
