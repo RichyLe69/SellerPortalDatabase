@@ -27,8 +27,8 @@
 
 ## Split Buylists
 
-#buylist_lightsworn: # extra deck
-#  path: 'decks/split_lists/buylist_lightsworn.yaml'
+buylist_lightsworn: # extra deck
+  path: 'decks/split_lists/buylist_lightsworn.yaml'
 
 #buylist_chaosTurbo:  # DONE
 #  path: 'decks/split_lists/buylist_chaosTurbo.yaml'
@@ -36,8 +36,8 @@
 buylist_teledad:
   path: 'decks/split_lists/buylist_teledad.yaml'
 
-buylist_plants:
-  path: 'decks/split_lists/buylist_plants.yaml'
+#buylist_plants:  # Done except foreign
+#  path: 'decks/split_lists/buylist_plants.yaml'
 
 buylist_extras:  # Extra cards & Finish playsets
   path: 'decks/split_lists/buylist_extras.yaml'
