@@ -7,40 +7,37 @@
 
 
 
-## Split Collections
-
-collection_deck_builder:
-  path: 'decks/split_lists/collection_deck_builder.yaml'
-
-collection_extra_deck:
-  path: 'decks/split_lists/collection_extra_deck.yaml'
-
-#collection_deck_core:
-#  path: 'decks/split_lists/collection_deck_core.yaml'
-
-collection_old_school:
-  path: 'decks/split_lists/collection_old_school.yaml'
-
-
-
-
-
-### Split Buylists
+### Split Collections
 #
-#buylist_lightsworn: # extra deck
-#  path: 'decks/split_lists/buylist_lightsworn.yaml'
+#collection_deck_builder:
+#  path: 'decks/split_lists/collection_deck_builder.yaml'
 #
-##buylist_chaosTurbo:  # DONE
-##  path: 'decks/split_lists/buylist_chaosTurbo.yaml'
+#collection_extra_deck:
+#  path: 'decks/split_lists/collection_extra_deck.yaml'
 #
-#buylist_teledad:
-#  path: 'decks/split_lists/buylist_teledad.yaml'
+##collection_deck_core:
+##  path: 'decks/split_lists/collection_deck_core.yaml'
 #
-##buylist_plants:  # Done except foreign
-##  path: 'decks/split_lists/buylist_plants.yaml'
-#
-#buylist_extras:  # Extra cards & Finish playsets
-#  path: 'decks/split_lists/buylist_extras.yaml'
+#collection_old_school:
+#  path: 'decks/split_lists/collection_old_school.yaml'
+
+
+## Split Buylists
+
+buylist_lightsworn: # extra deck
+  path: 'decks/split_lists/buylist_lightsworn.yaml'
+
+#buylist_chaosTurbo:  # DONE
+#  path: 'decks/split_lists/buylist_chaosTurbo.yaml'
+
+buylist_teledad:
+  path: 'decks/split_lists/buylist_teledad.yaml'
+
+#buylist_plants:  # Done except foreign
+#  path: 'decks/split_lists/buylist_plants.yaml'
+
+buylist_extras:  # Extra cards & Finish playsets
+  path: 'decks/split_lists/buylist_extras.yaml'
 
 
 ## # Later buylists - consider doing not max rarity 1st for 2ndary decks
