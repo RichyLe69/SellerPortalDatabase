@@ -23089,3 +23089,30 @@ buylist_extras - 2021-10-22
 | Lonefire cp7 |   0   |
 |     test     |   0   |
 +--------------+-------+
+buylist_lightsworn - 2021-10-24
++-----------------------------------+-------+
+|                Card               | Price |
++-----------------------------------+-------+
+|     Stardust Dragon Ghost 1st     |  2500 |
+|   Ancient Fairy Dragon Ghost 1st  |  599  |
+| red dragon archfiend Ultimate 1st |  258  |
+|         Doomkaiser utr 1st        |   83  |
+|      Tempest Magician Scr 1st     |   54  |
+|    Black Rose Dragon Ghost 1st    |   0   |
+|                test               |   0   |
++-----------------------------------+-------+
+buylist_teledad - 2021-10-24
++------------------------+-------+
+|          Card          | Price |
++------------------------+-------+
+| Monster Reborn LOB 1st |   0   |
+|  Solemn Judgment 1st   |   0   |
+|          test          |   0   |
++------------------------+-------+
+buylist_extras - 2021-10-24
++--------------+-------+
+|     Card     | Price |
++--------------+-------+
+| Lonefire cp7 |   0   |
+|     test     |   0   |
++--------------+-------+
