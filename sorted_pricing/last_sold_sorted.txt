@@ -25046,3 +25046,112 @@ buylist_extras - 2021-11-01
 | Lonefire cp7 |   0   |
 |     test     |   0   |
 +--------------+-------+
+buylist_dadreturn - 2021-11-01
++--------------------------------------------+-------+
+|                    Card                    | Price |
++--------------------------------------------+-------+
+|        Destiny Hero Dasher UTR 1st         |  180  |
+|       Mind Crush Champion Pack Super       |  129  |
+|        Dark Lord Zerato Secret 1st         |   75  |
+|         Destiny Hero Plasma Secret         |   44  |
+|             Gold Sarc GLD 2009             |   36  |
+| Return from Different Dimension DPKB Super |   12  |
+|          Cyber Valley PTDN Super           |   5   |
+|     Destiny Hero Disk Commander Super      |   3   |
+|          Dimension Fusion IOC 1st          |   0   |
+|                    test                    |   0   |
++--------------------------------------------+-------+
+buylist_machines - 2021-11-01
++----------------------------+-------+
+|            Card            | Price |
++----------------------------+-------+
+|      Sakuretsu Super       |  399  |
+|  Call of the Haunted 1st   |  120  |
+| Premature Burial Ultra 1st |   54  |
+|    Confiscation MRL 1st    |   14  |
+|   Morphing Jar ultra TP2   |   0   |
+|      Snipe Hunter cp3      |   0   |
+|            test            |   0   |
++----------------------------+-------+
+buylist_goat - 2021-11-01
++-------------------------+-------+
+|           Card          | Price |
++-------------------------+-------+
+|     Book of moon cp1    |  900  |
+|      Kycoo lod 1st      |   30  |
+|      Dark Mimic Lv1     |   0   |
+| Dark Mimic Lv3 Ultimate |   0   |
+|    Metamorphosis cp1    |   0   |
+|           test          |   0   |
++-------------------------+-------+
+buylist_dadreturn - 2021-11-01
++--------------------------------------------+-------+
+|                    Card                    | Price |
++--------------------------------------------+-------+
+|        Destiny Hero Dasher UTR 1st         |  180  |
+|       Mind Crush Champion Pack Super       |  129  |
+|        Dark Lord Zerato Secret 1st         |   75  |
+|         Destiny Hero Plasma Secret         |   44  |
+|             Gold Sarc GLD 2009             |   36  |
+| Return from Different Dimension DPKB Super |   12  |
+|          Cyber Valley PTDN Super           |   5   |
+|     Destiny Hero Disk Commander Super      |   3   |
+|          Dimension Fusion IOC 1st          |   0   |
+|                    test                    |   0   |
++--------------------------------------------+-------+
+buylist_machines - 2021-11-01
++----------------------------+-------+
+|            Card            | Price |
++----------------------------+-------+
+|      Sakuretsu Super       |  399  |
+|  Call of the Haunted 1st   |  120  |
+| Premature Burial Ultra 1st |   54  |
+|    Confiscation MRL 1st    |   14  |
+|   Morphing Jar ultra TP2   |   0   |
+|      Snipe Hunter cp3      |   0   |
+|            test            |   0   |
++----------------------------+-------+
+buylist_goat - 2021-11-01
++-------------------------+-------+
+|           Card          | Price |
++-------------------------+-------+
+|     Book of moon cp1    |  900  |
+|      Kycoo lod 1st      |   30  |
+|      Dark Mimic Lv1     |   0   |
+| Dark Mimic Lv3 Ultimate |   0   |
+|    Metamorphosis cp1    |   0   |
+|           test          |   0   |
++-------------------------+-------+
+starlight - 2021-11-01
++-----------------------------------------------------+-------+
+|                         Card                        | Price |
++-----------------------------------------------------+-------+
+|           I:P Masquerena (Starlight Rare)           |  849  |
+|  Dogmatika Ecclesia, the Virtuous (Starlight Rare)  |  699  |
+|            Effect Veiler (Starlight Rare)           |  679  |
+|                      10k Dragon                     |  650  |
+|        Triple Tactics Talent (Starlight Rare)       |  637  |
+|   Eria the Water Charmer, Gentle (Starlight Rare)   |  599  |
+|         Chamber Dragonmaid (Starlight Rare)         |  520  |
+|                  Pot of Prosperity                  |  499  |
+|                    Utopia Astral                    |  375  |
+|       Sky Striker Ace - Roze (Starlight Rare)       |  314  |
+|              D.D. Crow (Starlight Rare)             |  310  |
+|           Lightning Storm (Starlight Rare)          |  289  |
+|    Ghost Mourner & Moonlit Chill (Starlight Rare)   |  274  |
+|         Marincess Sea Horse (Starlight Rare)        |  270  |
+|       Wynn the Wind Channeler (Starlight Rare)      |  249  |
+|   Wynn the Wind Charmer, Verdant (Starlight Rare)   |  249  |
+|                       Trishula                      |  246  |
+|         Traptrix Allomerus (Starlight Rare)         |  239  |
+| Gaia the Magical Knight of Dragons (Starlight Rare) |  219  |
+|                       Ferrijit                      |  191  |
+| Aussa the Earth Charmer, Immovable (Starlight Rare) |  185  |
+|       Unchained Twins - Aruha (Starlight Rare)      |  160  |
+|  Gorgon, Empress of the Evil Eyed (Starlight Rare)  |  144  |
+|         Time Thief Perpetua (Starlight Rare)        |  114  |
+|        Storm Dragon's Return (Starlight Rare)       |  110  |
+|      Salamangreat Pyro Phoenix (Starlight Rare)     |   99  |
+|    Apollousa, Bow of the Goddess (Starlight Rare)   |   40  |
+|                         test                        |   0   |
++-----------------------------------------------------+-------+

@@ -24,34 +24,34 @@
 
 ## Split Buylists
 
-buylist_lightsworn: # extra deck
-  path: 'decks/split_lists/buylist_lightsworn.yaml'
-
-#buylist_chaosTurbo:  # DONE
-#  path: 'decks/split_lists/buylist_chaosTurbo.yaml'
-
-buylist_teledad:
-  path: 'decks/split_lists/buylist_teledad.yaml'
-
-#buylist_plants:  # Done except foreign
-#  path: 'decks/split_lists/buylist_plants.yaml'
-
-buylist_extras:  # Extra cards & Finish playsets
-  path: 'decks/split_lists/buylist_extras.yaml'
+#buylist_lightsworn: # extra deck
+#  path: 'decks/split_lists/buylist_lightsworn.yaml'
+#
+##buylist_chaosTurbo:  # DONE
+##  path: 'decks/split_lists/buylist_chaosTurbo.yaml'
+#
+#buylist_teledad:
+#  path: 'decks/split_lists/buylist_teledad.yaml'
+#
+##buylist_plants:  # Done except foreign
+##  path: 'decks/split_lists/buylist_plants.yaml'
+#
+#buylist_extras:  # Extra cards & Finish playsets
+#  path: 'decks/split_lists/buylist_extras.yaml'
 
 
 ## # Later buylists - consider doing not max rarity 1st for 2ndary decks
 
 
 
-#buylist_dadreturn:  # Secondary TeleDad deck.
-#  path: 'decks/split_lists/buylist_dadreturn.yaml'
-#
-#buylist_machines:  # Secondary Goat / Return deck.
-#  path: 'decks/split_lists/buylist_machines.yaml'
-#
-#buylist_goat:
-#  path: 'decks/split_lists/buylist_goat.yaml'
+buylist_dadreturn:  # Secondary TeleDad deck.
+  path: 'decks/split_lists/buylist_dadreturn.yaml'
+
+buylist_machines:  # Secondary Goat / Return deck.
+  path: 'decks/split_lists/buylist_machines.yaml'
+
+buylist_goat:
+  path: 'decks/split_lists/buylist_goat.yaml'
 
 
 
@@ -102,8 +102,8 @@ buylist_extras:  # Extra cards & Finish playsets
 #trash_batch_B:
 #  path: 'decks/split_lists/trash_batch_B.yaml'
 #
-#starlight:
-#  path: 'decks/old_lists/9-starlight.yaml'
+starlight:
+  path: 'decks/old_lists/9-starlight.yaml'
 
 
 
