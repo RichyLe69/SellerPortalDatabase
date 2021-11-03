@@ -9,17 +9,17 @@
 
 ## Split Collections
 
-#collection_deck_builder:
-#  path: 'decks/split_lists/collection_deck_builder.yaml'
-#
-#collection_extra_deck:
-#  path: 'decks/split_lists/collection_extra_deck.yaml'
-#
-##collection_deck_core:
-##  path: 'decks/split_lists/collection_deck_core.yaml'
-#
-#collection_old_school:
-#  path: 'decks/split_lists/collection_old_school.yaml'
+collection_deck_builder:
+  path: 'decks/split_lists/collection_deck_builder.yaml'
+
+collection_extra_deck:
+  path: 'decks/split_lists/collection_extra_deck.yaml'
+
+#collection_deck_core:
+#  path: 'decks/split_lists/collection_deck_core.yaml'
+
+collection_old_school:
+  path: 'decks/split_lists/collection_old_school.yaml'
 
 
 ## Split Buylists
@@ -44,14 +44,14 @@
 
 
 
-buylist_dadreturn:  # Secondary TeleDad deck.
-  path: 'decks/split_lists/buylist_dadreturn.yaml'
-
-buylist_machines:  # Secondary Goat / Return deck.
-  path: 'decks/split_lists/buylist_machines.yaml'
-
-buylist_goat:
-  path: 'decks/split_lists/buylist_goat.yaml'
+#buylist_dadreturn:  # Secondary TeleDad deck.
+#  path: 'decks/split_lists/buylist_dadreturn.yaml'
+#
+#buylist_machines:  # Secondary Goat / Return deck.
+#  path: 'decks/split_lists/buylist_machines.yaml'
+#
+#buylist_goat:
+#  path: 'decks/split_lists/buylist_goat.yaml'
 
 
 
@@ -102,8 +102,8 @@ buylist_goat:
 #trash_batch_B:
 #  path: 'decks/split_lists/trash_batch_B.yaml'
 #
-starlight:
-  path: 'decks/old_lists/9-starlight.yaml'
+#starlight:
+#  path: 'decks/old_lists/9-starlight.yaml'
 
 
 
