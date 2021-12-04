@@ -31,7 +31,7 @@ class Scraper:
     def get_browser(self):
         return self.browser
 
-    def wait_for_login(self):
+    def wait_for_login(self) -> int:
         filler_char = input("Enter any key after login captcha: ")
         return 0
 
@@ -87,3 +87,4 @@ if __name__ == '__main__':
 
 # mysql table
 # data calculations, graph creations
+# get sums into graphable, plotable csv

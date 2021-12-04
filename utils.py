@@ -7,7 +7,9 @@ import yaml
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from csv import DictWriter
 import os
+
 
 base_url = 'https://store.tcgplayer.com/admin/product/manage/'
 current_date = str(datetime.date(datetime.now()))
@@ -66,12 +68,22 @@ def scrape_website(card_data_yaml, list_name, browser):
         # my_table.set_style(PLAIN_COLUMNS)
         file_path = output_to_txt(card, my_table, card_quantity, condition_edition, list_name)
 
+
     output_to_txt_console('Sum of Lowest Listed: ${:,.2f}'.format(lowest_listed_price_total))
     output_to_txt_console('Sum of Last Sold Prices: ${:,.2f}'.format(last_sold_price_total))
     output_to_txt_console('Sum of Market Prices: ${:,.2f}'.format(market_price_total))
     done = time.time()
     print(done - start)
     return file_path, [lowest_listed_price_total, last_sold_price_total, market_price_total], total_card_quantity
+
+
+def write_to_excel(column_names, price_dict, csv_name):
+    # Top Row, list of column names
+
+    with open(csv_name, 'a') as f_object:
+        dict_writer_object = DictWriter(f_object, fieldnames=column_names)
+        dict_writer_object.writerow(price_dict)
+        f_object.close()
 
 
 def price_yaml_generator(card_name, price, yaml_name):
@@ -81,7 +93,6 @@ def price_yaml_generator(card_name, price, yaml_name):
 
     with open(yaml_name, 'w') as stream:
         yaml.safe_dump(current_yaml, stream)
-
     return 0
 
 
@@ -260,3 +271,12 @@ def human_format(num):
         magnitude += 1
         num /= 1000.0
     return '{}{}'.format('{:.1f}'.format(num).rstrip('0').rstrip('.'), ['', 'K', 'M', 'B', 'T'][magnitude])
+
+
+def create_excel_column_names(card_list):
+    data_list = []
+    data_list.append('DATE')
+    for card in card_list:
+        data_list.append(card)
+    return data_list
+
