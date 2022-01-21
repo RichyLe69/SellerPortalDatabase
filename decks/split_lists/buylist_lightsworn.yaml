@@ -4,35 +4,63 @@
 
 # Fully Listed
 
-# Extra Deck needs - cumulative
+# For Extra Deck Binder Ghost page spread
 
-Stardust Dragon Ghost 1st:
+Stardust Dragon Ghost unl extra:
   url: 57793
-  edition: 'Near Mint 1st'
-  qty: 2
+  edition: 'Near Mint Unlimited'
+  qty: 3
+
+Black Rose Dragon Ghost unl extra:
+  url: 28432
+  edition: 'Near Mint Unlimited'
+  qty: 3
+
+Power Tool Dragon Ghost Unlimited:
+  url: 31944
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+# Extra Deck needs - cumulative
 
 Black Rose Dragon Ghost 1st:
   url: 28432
   edition: 'Near Mint 1st'
-  qty: 3
-
-
+  qty: 1
 
 red dragon archfiend Ultimate 1st:
   url: 58519
   edition: 'Near Mint 1st'
   qty: 1
 
-
 Tempest Magician Scr 1st:
   url: 28481
   edition: 'Near Mint 1st'
   qty: 1
 
-Doomkaiser utr 1st:
-  url: 58509
-  edition: 'Near Mint 1st'
-  qty: 1
+
+
+
+# Only if I'm mega rich
+
+#Stardust Dragon Ghost 1st extras:
+#  url: 57793
+#  edition: 'Near Mint 1st'
+#  qty: 2
+#
+#Black Rose Dragon Ghost 1st extras:
+#  url: 28432
+#  edition: 'Near Mint 1st'
+#  qty: 2
+
+
+
+
+
+#Doomkaiser utr 1st:
+#  url: 58509
+#  edition: 'Near Mint 1st'
+#  qty: 1
 
 #Ryko 1st:
 #  url: 26716

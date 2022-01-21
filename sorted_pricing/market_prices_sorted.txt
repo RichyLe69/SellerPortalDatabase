@@ -36522,3 +36522,29 @@ collection_old_school - 2022-01-20
 |         Blue-Eyes White Dragon DDS        |   0   |
 |                    test                   |   0   |
 +-------------------------------------------+-------+
+buylist_lightsworn - 2022-01-20
++------------------------------------+-------+
+|                Card                | Price |
++------------------------------------+-------+
+|    Black Rose Dragon Ghost 1st     |  1450 |
+| Black Rose Dragon Ghost 1st extras |  1450 |
+|  Stardust Dragon Ghost unl extra   |  408  |
+| red dragon archfiend Ultimate 1st  |  299  |
+| Black Rose Dragon Ghost unl extra  |  268  |
+| Power Tool Dragon Ghost Unlimited  |  118  |
+|      Tempest Magician Scr 1st      |   69  |
+|  Stardust Dragon Ghost 1st extras  |   0   |
+|                test                |   0   |
++------------------------------------+-------+
+buylist_lightsworn - 2022-01-20
++-----------------------------------+-------+
+|                Card               | Price |
++-----------------------------------+-------+
+|    Black Rose Dragon Ghost 1st    |  1450 |
+|  Stardust Dragon Ghost unl extra  |  408  |
+| red dragon archfiend Ultimate 1st |  299  |
+| Black Rose Dragon Ghost unl extra |  268  |
+| Power Tool Dragon Ghost Unlimited |  118  |
+|      Tempest Magician Scr 1st     |   69  |
+|                test               |   0   |
++-----------------------------------+-------+

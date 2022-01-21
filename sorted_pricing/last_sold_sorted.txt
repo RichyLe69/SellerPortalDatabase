@@ -36529,3 +36529,29 @@ collection_old_school - 2022-01-20
 |          Gate Guardian Secret 1st         |   0   |
 |                    test                   |   0   |
 +-------------------------------------------+-------+
+buylist_lightsworn - 2022-01-20
++------------------------------------+-------+
+|                Card                | Price |
++------------------------------------+-------+
+|    Black Rose Dragon Ghost 1st     |  1450 |
+| Black Rose Dragon Ghost 1st extras |  1450 |
+|  Stardust Dragon Ghost unl extra   |  354  |
+| red dragon archfiend Ultimate 1st  |  324  |
+| Black Rose Dragon Ghost unl extra  |  274  |
+| Power Tool Dragon Ghost Unlimited  |  109  |
+|      Tempest Magician Scr 1st      |   79  |
+|  Stardust Dragon Ghost 1st extras  |   0   |
+|                test                |   0   |
++------------------------------------+-------+
+buylist_lightsworn - 2022-01-20
++-----------------------------------+-------+
+|                Card               | Price |
++-----------------------------------+-------+
+|    Black Rose Dragon Ghost 1st    |  1450 |
+|  Stardust Dragon Ghost unl extra  |  354  |
+| red dragon archfiend Ultimate 1st |  324  |
+| Black Rose Dragon Ghost unl extra |  274  |
+| Power Tool Dragon Ghost Unlimited |  109  |
+|      Tempest Magician Scr 1st     |   79  |
+|                test               |   0   |
++-----------------------------------+-------+
