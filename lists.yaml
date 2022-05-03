@@ -30,8 +30,8 @@ collection_old_school:
 ##buylist_chaosTurbo:  # DONE
 ##  path: 'decks/split_lists/buylist_chaosTurbo.yaml'
 #
-#buylist_teledad:   # DONE
-#  path: 'decks/split_lists/buylist_teledad.yaml'
+##buylist_teledad:   # DONE
+##  path: 'decks/split_lists/buylist_teledad.yaml'
 #
 ##buylist_plants:  # Done except foreign
 ##  path: 'decks/split_lists/buylist_plants.yaml'
