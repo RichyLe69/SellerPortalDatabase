@@ -4,42 +4,55 @@
 
 # Invoked
 
-#Aleister the Invoker:
-#  url: ''
-#  edition: 'Near Mint'
-#  qty: 3
-
-Invocation:
-  url: 'https://shop.tcgplayer.com/yugioh/ots-tournament-pack-6/invocation?xid=pi51cb39fa-30f7-4576-abe7-b1bf1a163dbd&'
+Aleister the Invoker Secret:
+  url: '173526'
   edition: 'Near Mint'
   qty: 3
 
-#Magical Meltdown:
-#  url: ''
-#  edition: 'Near Mint'
-#  qty: 3
+Invocation Ulti:
+  url: '154615'
+  edition: 'Near Mint'
+  qty: 3
+
+Magical Meltdown Secret:
+  url: '127825'
+  edition: 'Near Mint'
+  qty: 3
 
 Terraforming:
-  url: 'https://shop.tcgplayer.com/yugioh/ots-tournament-pack-5/terraforming?xid=pi51cb39fa-30f7-4576-abe7-b1bf1a163dbd&'
+  url: '139862'
   edition: 'Near Mint'
   qty: 3
 
-Super Poly:
-  url: 'https://shop.tcgplayer.com/yugioh/ots-tournament-pack-14/super-polymerization?xid=pi51cb39fa-30f7-4576-abe7-b1bf1a163dbd&'
-  edition: 'Near Mint'
-  qty: 3
+#Super Poly:
+#  url: 'https://shop.tcgplayer.com/yugioh/ots-tournament-pack-14/super-polymerization?xid=pi51cb39fa-30f7-4576-abe7-b1bf1a163dbd&'
+#  edition: 'Near Mint'
+#  qty: 3
 
 
 
 
 # Stuff
 
-Ghost Ogre Snow Rabbit:
-  url: 'https://shop.tcgplayer.com/yugioh/ots-tournament-pack-5/ghost-ogre-and-snow-rabbit?xid=pi51cb39fa-30f7-4576-abe7-b1bf1a163dbd&'
+Ghost Ogre Snow Rabbit Ulti:
+  url: '139860'
   edition: 'Near Mint'
   qty: 3
 
+Ash Blossom Ulti:
+  url: '131153'
+  edition: 'Near Mint'
+  qty: 3
 
+Nibiru Ulti:
+  url: '224642'
+  edition: 'Near Mint'
+  qty: 3
+
+Effect Veiler (Starlight Rare):
+  url: 213396
+  edition: 'Near Mint 1st'
+  qty: 3
 
 # Sky Striker
 
