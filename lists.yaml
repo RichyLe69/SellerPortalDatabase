@@ -42,8 +42,6 @@ collection_old_school:
 
 ## # Later buylists - consider doing not max rarity 1st for 2ndary decks
 
-
-
 #buylist_dadreturn:  # Secondary TeleDad deck.
 #  path: 'decks/split_lists/buylist_dadreturn.yaml'
 #
@@ -53,6 +51,18 @@ collection_old_school:
 #buylist_goat:
 #  path: 'decks/split_lists/buylist_goat.yaml'
 
+#buylist_cool_singles:
+#  path: 'decks/old_lists/buylist_cool_singles.yaml'
+# cool singles notes: just cool singles for photos/collections
+
+#buylist_zombies:
+#  path: 'decks/old_lists/buylist_zombies.yaml'
+# zombie notes: some ultis/secrets, 2009-2010. synergizes with retro light/darks
+
+#buylist_mermail:
+#  path: 'decks/old_lists/buylist_mermail.yaml'
+# mermail notes: cool max rarity, 2012-2014. standalone, doesn't synergize with much else.
+
 
 
 
@@ -60,20 +70,13 @@ collection_old_school:
 # # # Don't really need, but possible buys.
 
 #buylist_demiseotk:
-#  path: 'decks/split_lists/buylist_demiseotk.yaml'
+#  path: 'decks/old_lists/buylist_demiseotk.yaml'
 #
-#buylist_cool_singles:
-#  path: 'decks/split_lists/buylist_cool_singles.yaml'
-#
-#buylist_mermail:
-#  path: 'decks/old_lists/buylist_mermail.yaml'
-#
-#buylist_zombies:
-#  path: 'decks/old_lists/buylist_zombies.yaml'
-#
-#buylist_xsaber:
-#  path: 'decks/old_lists/buylist_xsaber.yaml'
+#buylist_lightswornrulers:
+#  path: 'decks/old_lists/buylist_lightswornrulers.yaml'
 
+#buylist_invoked:
+#  path: 'decks/old_lists/buylist_invoked.yaml'
 
 
 
@@ -85,9 +88,8 @@ collection_old_school:
 #buylist_blackwings:
 #  path: 'decks/split_lists/buylist_blackwings.yaml'
 #
-#buylist_lightswornrulers:
-#  path: 'decks/split_lists/buylist_lightswornrulers.yaml'
-#
+#buylist_xsaber:
+#  path: 'decks/old_lists/buylist_xsaber.yaml'
 
 
 
@@ -111,8 +113,7 @@ collection_old_school:
 #  path: 'decks/split_lists/test.yaml'
 # Modern Ultis
 
-#buylist_invoked:
-#  path: 'decks/split_lists/buylist_invoked.yaml'
+
 
 
 # Updated 6.1.2021
