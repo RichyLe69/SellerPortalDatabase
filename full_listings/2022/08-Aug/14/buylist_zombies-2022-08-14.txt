@@ -1,11 +1,11 @@
-Missing [1] TCG Last Sold for: revived king utr
+Missing [1] TCG Last Sold for: revived king ha desutr
 Missing [1] TCG Last Sold for: il blud scr 1st
 Missing [2] Market Price for:  il blud scr 1st
-Sum of Lowest Listed: $2,756.00
-Sum of Last Sold Prices: $1,722.00
-Sum of Market Prices: $1,518.00
+Sum of Lowest Listed: $2,830.00
+Sum of Last Sold Prices: $1,769.00
+Sum of Market Prices: $1,594.00
 
-Goblin Zombie Secret PTDN [3] - Near Mint 1st
+Goblin Zombie Secret PTDN 1st [3] - Near Mint 1st
 +------------+---------------+------------------+
 | TCG Lowest | TCG Last Sold | TCG Market Price |
 +------------+---------------+------------------+
@@ -44,10 +44,10 @@ card of safe return ultra 1st [3] - Near Mint 1st
 +------------+---------------+------------------+
 | TCG Lowest | TCG Last Sold | TCG Market Price |
 +------------+---------------+------------------+
-|     40     |       36      |        21        |
+|     40     |       20      |        21        |
 +------------+---------------+------------------+
 
-book of life pgd 1st [3] - Near Mint 1st
+book of life pgd Super 1st [3] - Near Mint 1st
 +------------+---------------+------------------+
 | TCG Lowest | TCG Last Sold | TCG Market Price |
 +------------+---------------+------------------+
@@ -61,11 +61,18 @@ burial from a diff dimension - dp03 ultra [3] - Near Mint 1st
 |     22     |       18      |        18        |
 +------------+---------------+------------------+
 
-revived king utr [1] - Near Mint 1st
+revived king ha desutr [1] - Near Mint 1st
 +------------+---------------+------------------+
 | TCG Lowest | TCG Last Sold | TCG Market Price |
 +------------+---------------+------------------+
 |     99     |       0       |        59        |
++------------+---------------+------------------+
+
+doomkaiser utr 1st [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     74     |       95      |        76        |
 +------------+---------------+------------------+
 
 il blud scr 1st [1] - Near Mint 1st

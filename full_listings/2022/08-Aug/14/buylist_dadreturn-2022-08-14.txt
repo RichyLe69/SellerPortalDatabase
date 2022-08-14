@@ -1,9 +1,9 @@
 Missing [1] TCG Last Sold for: Dark Lord Zerato Secret 1st
 Missing [1] TCG Last Sold for: Mind Crush Champion Pack Super
 Missing [2] Market Price for:  Mind Crush Champion Pack Super
-Sum of Lowest Listed: $488.00
-Sum of Last Sold Prices: $254.00
-Sum of Market Prices: $414.00
+Sum of Lowest Listed: $624.00
+Sum of Last Sold Prices: $387.00
+Sum of Market Prices: $558.00
 
 Dark Lord Zerato Secret 1st [1] - Near Mint 1st
 +------------+---------------+------------------+
@@ -51,7 +51,7 @@ Return from Different Dimension DPKB Super [2] - Near Mint 1st
 +------------+---------------+------------------+
 | TCG Lowest | TCG Last Sold | TCG Market Price |
 +------------+---------------+------------------+
-|     13     |       7       |        12        |
+|     14     |       7       |        12        |
 +------------+---------------+------------------+
 
 Mind Crush Champion Pack Super [1] - Near Mint
@@ -66,5 +66,26 @@ Cyber Valley PTDN Super [3] - Near Mint 1st
 | TCG Lowest | TCG Last Sold | TCG Market Price |
 +------------+---------------+------------------+
 |     3      |       3       |        4         |
++------------+---------------+------------------+
+
+Black Salvo Super [2] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     1      |       2       |        2         |
++------------+---------------+------------------+
+
+dark strike fighter Super [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     6      |       4       |        5         |
++------------+---------------+------------------+
+
+armor master utr [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    126     |      125      |       135        |
 +------------+---------------+------------------+
 

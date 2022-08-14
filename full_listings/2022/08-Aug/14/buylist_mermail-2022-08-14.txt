@@ -1,6 +1,7 @@
-Timeout No Results for: Mermail Abysstrite
-Sum of Lowest Listed: $1,840.00
-Sum of Last Sold Prices: $1,653.00
+Missing [1] TCG Last Sold for: Salvage - blue rare
+Missing [2] Market Price for:  Salvage - blue rare
+Sum of Lowest Listed: $1,827.00
+Sum of Last Sold Prices: $1,633.00
 Sum of Market Prices: $1,565.00
 
 Atlantean Dragoons UTR [3] - Near Mint
@@ -21,7 +22,7 @@ Atlantean Marksman UTR [3] - Near Mint
 +------------+---------------+------------------+
 | TCG Lowest | TCG Last Sold | TCG Market Price |
 +------------+---------------+------------------+
-|     55     |       59      |        57        |
+|     56     |       59      |        57        |
 +------------+---------------+------------------+
 
 Deep Sea Diva Super [3] - Near Mint
@@ -38,7 +39,7 @@ Mermail Abyssgunde Super [2] - Near Mint
 |     3      |       3       |        3         |
 +------------+---------------+------------------+
 
-Mermail Abyssleed Secret [1] - Near Mint 1st
+Mermail Abyssleed Secret 1st [1] - Near Mint 1st
 +------------+---------------+------------------+
 | TCG Lowest | TCG Last Sold | TCG Market Price |
 +------------+---------------+------------------+
@@ -49,10 +50,10 @@ Mermail Abysslinde Ultimate 1st [3] - Near Mint 1st
 +------------+---------------+------------------+
 | TCG Lowest | TCG Last Sold | TCG Market Price |
 +------------+---------------+------------------+
-|     23     |       23      |        24        |
+|     21     |       23      |        24        |
 +------------+---------------+------------------+
 
-Mermail Abyssmegalo Secret [3] - Near Mint 1st
+Mermail Abyssmegalo Secret 1st [3] - Near Mint 1st
 +------------+---------------+------------------+
 | TCG Lowest | TCG Last Sold | TCG Market Price |
 +------------+---------------+------------------+
@@ -66,11 +67,53 @@ Mermail Abysspike Super [3] - Near Mint
 |     3      |       3       |        3         |
 +------------+---------------+------------------+
 
-Mermail Abyssteus Ultimate [3] - Near Mint 1st
+Mermail Abyssteus Ultimate 1st [3] - Near Mint 1st
 +------------+---------------+------------------+
 | TCG Lowest | TCG Last Sold | TCG Market Price |
 +------------+---------------+------------------+
 |     36     |       37      |        43        |
++------------+---------------+------------------+
+
+Tidal Scr [1] - Near Mint
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     3      |       4       |        5         |
++------------+---------------+------------------+
+
+Moulinglacia 1st [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     11     |       11      |        15        |
++------------+---------------+------------------+
+
+Genex Undive [3] - Near Mint
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     11     |       10      |        10        |
++------------+---------------+------------------+
+
+Genex Controller [2] - Near Mint
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     4      |       4       |        5         |
++------------+---------------+------------------+
+
+Salvage - blue rare [1] - Near Mint
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     3      |       0       |        0         |
++------------+---------------+------------------+
+
+soul charge Ultra [3] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     0      |       0       |        1         |
 +------------+---------------+------------------+
 
 Mermail Abyss-sphere Ultimate 1st [3] - Near Mint 1st
@@ -80,38 +123,52 @@ Mermail Abyss-sphere Ultimate 1st [3] - Near Mint 1st
 |     10     |       10      |        14        |
 +------------+---------------+------------------+
 
-Breakthrough Ultimate [2] - Near Mint 1st
+Breakthrough Ultimate 1st [2] - Near Mint 1st
 +------------+---------------+------------------+
 | TCG Lowest | TCG Last Sold | TCG Market Price |
 +------------+---------------+------------------+
 |     44     |       39      |        39        |
 +------------+---------------+------------------+
 
-Abyss Dweller [1] - Near Mint
+Abyss Dweller UTR [1] - Near Mint
 +------------+---------------+------------------+
 | TCG Lowest | TCG Last Sold | TCG Market Price |
 +------------+---------------+------------------+
-|     82     |       87      |        77        |
+|     83     |       82      |        78        |
 +------------+---------------+------------------+
 
-Bahamut Shark [1] - Near Mint 1st
+Bahamut Shark Scr [1] - Near Mint 1st
 +------------+---------------+------------------+
 | TCG Lowest | TCG Last Sold | TCG Market Price |
 +------------+---------------+------------------+
-|     33     |       34      |        37        |
+|     34     |       34      |        37        |
 +------------+---------------+------------------+
 
-Mermail Abyssgaios [1] - Near Mint 1st
+Dewloren Secret 1st [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     2      |       3       |        4         |
++------------+---------------+------------------+
+
+Gungnir Secret 1st [1] - Near Mint
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     0      |       0       |        2         |
++------------+---------------+------------------+
+
+Mermail Abyssgaios UTR 1st [1] - Near Mint 1st
 +------------+---------------+------------------+
 | TCG Lowest | TCG Last Sold | TCG Market Price |
 +------------+---------------+------------------+
 |     17     |       18      |        19        |
 +------------+---------------+------------------+
 
-Big Eye [1] - Near Mint
+Mermail Abysstrite [1] - Near Mint 1st
 +------------+---------------+------------------+
 | TCG Lowest | TCG Last Sold | TCG Market Price |
 +------------+---------------+------------------+
-|     73     |       72      |        71        |
+|     1      |       1       |        1         |
 +------------+---------------+------------------+
 

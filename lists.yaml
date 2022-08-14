@@ -9,63 +9,61 @@
 
 ## Split Collections
 
-#collection_deck_builder:
-#  path: 'decks/split_lists/collection_deck_builder.yaml'
-#
-#collection_extra_deck:
-#  path: 'decks/split_lists/collection_extra_deck.yaml'
-#
-##collection_deck_core:
-##  path: 'decks/split_lists/collection_deck_core.yaml'
-#
-#collection_old_school:
-#  path: 'decks/split_lists/collection_old_school.yaml'
+collection_deck_builder:
+  path: 'decks/split_lists/collection_deck_builder.yaml'
+
+collection_extra_deck:
+  path: 'decks/split_lists/collection_extra_deck.yaml'
+
+#collection_deck_core:
+#  path: 'decks/split_lists/collection_deck_core.yaml'
+
+collection_old_school:
+  path: 'decks/split_lists/collection_old_school.yaml'
 
 
-## Split Buylists
+## Current Buylists
 
-#buylist_lightsworn: # extra deck
-#  path: 'decks/split_lists/buylist_lightsworn.yaml'
-#
-##buylist_chaosTurbo:  # DONE
-##  path: 'decks/split_lists/buylist_chaosTurbo.yaml'
-#
-##buylist_teledad:   # DONE
-##  path: 'decks/split_lists/buylist_teledad.yaml'
-#
-##buylist_plants:  # Done except foreign
-##  path: 'decks/split_lists/buylist_plants.yaml'
-#
-#buylist_extras:  # Extra cards & Finish playsets
-#  path: 'decks/split_lists/buylist_extras.yaml'
+# these have been researched as of 8.14.22. No need to further research at the moment.
 
-
-### # Later buylists - consider doing not max rarity 1st for 2ndary decks
+#buylist_lightsworn: # Extra Swag 10/10
+#  path: 'decks/current_buys/buylist_lightsworn.yaml'
 #
 #buylist_dadreturn:  # Secondary TeleDad deck.
-#  path: 'decks/split_lists/buylist_dadreturn.yaml'
+#  path: 'decks/current_buys/buylist_dadreturn.yaml'
 #
 #buylist_machines:  # Secondary Goat / Return deck.
-#  path: 'decks/split_lists/buylist_machines.yaml'
+#  path: 'decks/current_buys/buylist_machines.yaml'
 #
+#buylist_zombies: ## zombie notes: some ultis/secrets, 2009-2010. synergizes with retro light/darks
+#  path: 'decks/current_buys/buylist_zombies.yaml'
+#
+#buylist_mermail: ## mermail notes: cool max rarity, 2013-2014 vs lsruler format.
+#  path: 'decks/current_buys/buylist_mermail.yaml'
+#
+#buylist_lightswornrulers: ## lightsworn ruler notes: 2014 vs mermails format.
+#  path: 'decks/current_buys/buylist_lightswornrulers.yaml'
+
 #buylist_goat:
-#  path: 'decks/split_lists/buylist_goat.yaml'
+#  path: 'decks/current_buys/buylist_goat.yaml'
+#
+#buylist_cool_singles:  # NOTHING IN THIS LIST YET ## cool singles notes: just cool singles for photos/collections
+#  path: 'decks/current_buys/buylist_cool_singles.yaml'
+#
+#buylist_extras:  # Extra cards & Finish playsets
+#  path: 'decks/current_buys/buylist_extras.yaml'
 
-#buylist_cool_singles:  # NOTHING IN THIS LIST YET
-#  path: 'decks/old_lists/buylist_cool_singles.yaml'
-### cool singles notes: just cool singles for photos/collections
 
-buylist_zombies:
-  path: 'decks/old_lists/buylist_zombies.yaml'
-## zombie notes: some ultis/secrets, 2009-2010. synergizes with retro light/darks
+# Done
 
-buylist_mermail:
-  path: 'decks/old_lists/buylist_mermail.yaml'
-## mermail notes: cool max rarity, 2012-2014. standalone, doesn't synergize with much else.
-
-buylist_lightswornrulers:
-  path: 'decks/old_lists/buylist_lightswornrulers.yaml'
-## lightsworn ruler notes: 2014 vs mermails format.
+#buylist_chaosTurbo:  # DONE
+#  path: 'decks/done_lists/buylist_chaosTurbo.yaml'
+#
+#buylist_teledad:   # DONE
+#  path: 'decks/done_lists/buylist_teledad.yaml'
+#
+#buylist_plants:  # Done except foreign
+#  path: 'decks/done_lists/buylist_plants.yaml'
 
 
 
@@ -113,29 +111,5 @@ buylist_lightswornrulers:
 #  path: 'decks/split_lists/test.yaml'
 # Modern Ultis
 
-
-
-
-# Updated 6.1.2021
-#Buy Order Priority
-#TDGS 1ST ed	29.1
-#Twilight	12.1
-#Chaos Turbo	7.4
-#Plants	2.5
-#TeleDad	5.8
-#Return Dad	1.2
-#
-#Mermails 2013	1.8
-#Xsaber 2010	1
-#Lightsworn Rulers 2014	0.4
-#Zombies	1.2
-#Edison Caliber Cat
-#
-#5D's Staples 11.4
-#Goat Staples 13.4
-#Chaos Dragon	0.4
-#Black wings	0.2
-#Gladiator Beasts
-#Swag Singles
 
 #######################################

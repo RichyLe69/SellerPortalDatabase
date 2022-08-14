@@ -25,7 +25,7 @@ Mermail Abyssgunde Super:
   edition: 'Near Mint'
   qty: 2
 
-Mermail Abyssleed Secret:
+Mermail Abyssleed Secret 1st:
   url: 67629
   edition: 'Near Mint 1st'
   qty: 1
@@ -35,7 +35,7 @@ Mermail Abysslinde Ultimate 1st:
   edition: 'Near Mint 1st'
   qty: 3
 
-Mermail Abyssmegalo Secret:
+Mermail Abyssmegalo Secret 1st:
   url: 67213
   edition: 'Near Mint 1st'
   qty: 3
@@ -45,54 +45,74 @@ Mermail Abysspike Super:
   edition: 'Near Mint'
   qty: 3
 
-Mermail Abyssteus Ultimate:
+Mermail Abyssteus Ultimate 1st:
   url: 67704
   edition: 'Near Mint 1st'
   qty: 3
 
-# 1 Tidal
-# 3 GEnex Undive
-# 2 Genex Controller
-# 1 Moulinglacia
-# 1 Salvage
-# 1 Upstart
-# 3 Soul Charge
+Tidal Scr:
+  url: 70975
+  edition: 'Near Mint'
+  qty: 1
 
+Moulinglacia 1st:
+  url: 67228
+  edition: 'Near Mint 1st'
+  qty: 1
 
+Genex Undive:
+  url: 81771
+  edition: 'Near Mint'
+  qty: 3
+
+Genex Controller:
+   url: 80954
+   edition: 'Near Mint'
+   qty: 2
+
+Salvage - blue rare:
+   url: 80391
+   edition: 'Near Mint'
+   qty: 1
+
+soul charge Ultra:
+  url: 121504
+  edition: 'Near Mint 1st'
+  qty: 3
 
 Mermail Abyss-sphere Ultimate 1st:
   url: 67274
   edition: 'Near Mint 1st'
   qty: 3
 
-Breakthrough Ultimate:
+Breakthrough Ultimate 1st:
   url: 67703
   edition: 'Near Mint 1st'
   qty: 2
 
 ###
 
-Abyss Dweller:
+Abyss Dweller UTR:
   url: 216623
   edition: 'Near Mint'
   qty: 1
 
-Bahamut Shark:
+Bahamut Shark Scr:
   url: 67302
   edition: 'Near Mint 1st'
   qty: 1
 
-#Dewloren:
-#  url: 'https://shop.tcgplayer.com/yugioh/duel-terminal-2/dewloren-tiger-king-of-the-ice-barrier?xid=pie960be9a-fd49-4018-8413-a857dd0a6f28'
-#  edition: 'Near Mint'
-#  qty: 1
-#
-#Gungnir:
-#  url: 'https://shop.tcgplayer.com/yugioh/duel-terminal-3/gungnir-dragon-of-the-ice-barrier?xid=pi6e62e95c-7922-4986-a082-f92dcb967072'
-#  edition: 'Near Mint'
-#  qty: 1
+Dewloren Secret 1st:
+  url: '35710'
+  edition: 'Near Mint 1st'
+  qty: 1
 
-Mermail Abyssgaios:
+Gungnir Secret 1st:
+  url: '38722'
+  edition: 'Near Mint'
+  qty: 1
+
+Mermail Abyssgaios UTR 1st:
   url: 67244
   edition: 'Near Mint 1st'
   qty: 1
@@ -101,22 +121,3 @@ Mermail Abysstrite:
   url: 67645
   edition: 'Near Mint 1st'
   qty: 1
-
-# gagaga cowboy
-# daigusto emeral
-# lavalval
-# exciton knight
-# abysstrite
-# ghostrick alucard
-# honor ark
-# dracossack
-
-Big Eye:
-  url: 95439
-  edition: 'Near Mint'
-  qty: 1
-
-#Swap Frog:
-#  url: 125534
-#  edition: 'Near Mint'
-#  qty: 3

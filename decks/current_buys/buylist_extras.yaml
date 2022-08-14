@@ -3,15 +3,7 @@
 #############################################
 
 # Finish playsets / additional cards for collection
-#Spirit Reaper cp3:
-#  url: 26037
-#  edition: 'Near Mint'
-#  qty: 1
 
-#Card Destruction SDY 1st:
-#  url: 22648
-#  edition: 'Near Mint 1st'
-#  qty: 1
 
 Lonefire cp7:
   url: 33077
@@ -19,7 +11,21 @@ Lonefire cp7:
   qty: 1
 
 
+#  [frog monarch]
+#  3 raiza utr 58609
+#  3 swap frog utr: 125534
+#  2 Treeborn frog utr 58689
+#  3 soul exchange super 1st 22647
+#  2 ladd scr - 26357
 
+
+#  [swag 7.5/10]
+#  exodia
+#  3 emissary of aterlife - super ast
+#  upstart - common
+#  monster reinc - rds super
+#  backup sold - super psv
+#  jar of greed - super lon
 
 
 ############################
@@ -71,7 +77,15 @@ Lonefire cp7:
 #  edition: 'Near Mint'
 #  qty: 1
 
+#Spirit Reaper cp3:
+#  url: 26037
+#  edition: 'Near Mint'
+#  qty: 1
 
+#Card Destruction SDY 1st:
+#  url: 22648
+#  edition: 'Near Mint 1st'
+#  qty: 1
 
 
 # Turbo Pack Ultimates & Ultras

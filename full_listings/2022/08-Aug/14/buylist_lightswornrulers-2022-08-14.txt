@@ -1,6 +1,7 @@
-Sum of Lowest Listed: $317.00
-Sum of Last Sold Prices: $328.00
-Sum of Market Prices: $346.00
+Missing [0] TCG Lowest for:    Tempest Scr
+Sum of Lowest Listed: $259.00
+Sum of Last Sold Prices: $265.00
+Sum of Market Prices: $276.00
 
 Raiden Super [3] - Near Mint 1st
 +------------+---------------+------------------+
@@ -9,18 +10,18 @@ Raiden Super [3] - Near Mint 1st
 |     0      |       0       |        0         |
 +------------+---------------+------------------+
 
-Blaster [1] - Near Mint
+Blaster Scr [1] - Near Mint
 +------------+---------------+------------------+
 | TCG Lowest | TCG Last Sold | TCG Market Price |
 +------------+---------------+------------------+
 |     2      |       5       |        4         |
 +------------+---------------+------------------+
 
-Tempest [1] - Near Mint
+Tempest Scr [1] - Near Mint
 +------------+---------------+------------------+
 | TCG Lowest | TCG Last Sold | TCG Market Price |
 +------------+---------------+------------------+
-|     2      |       2       |        2         |
+|     0      |       2       |        2         |
 +------------+---------------+------------------+
 
 Eclipse Wyvern Super [3] - Near Mint 1st
@@ -51,14 +52,14 @@ minerva baby Super [1] - Near Mint 1st
 |     0      |       1       |        1         |
 +------------+---------------+------------------+
 
-upstart Super [1] - Near Mint
+Upstart lcyw 1st [3] - Near Mint 1st
 +------------+---------------+------------------+
 | TCG Lowest | TCG Last Sold | TCG Market Price |
 +------------+---------------+------------------+
-|     78     |       79      |        71        |
+|     10     |       10      |        11        |
 +------------+---------------+------------------+
 
-soul charge [3] - Near Mint 1st
+soul charge Ultra [3] - Near Mint 1st
 +------------+---------------+------------------+
 | TCG Lowest | TCG Last Sold | TCG Market Price |
 +------------+---------------+------------------+
@@ -97,21 +98,28 @@ ghostrick alucard UTR [1] - Near Mint 1st
 +------------+---------------+------------------+
 | TCG Lowest | TCG Last Sold | TCG Market Price |
 +------------+---------------+------------------+
-|     34     |       34      |        39        |
+|     35     |       33      |        38        |
 +------------+---------------+------------------+
 
 diamond dire wolf [1] - Near Mint 1st
 +------------+---------------+------------------+
 | TCG Lowest | TCG Last Sold | TCG Market Price |
 +------------+---------------+------------------+
-|     11     |       12      |        12        |
+|     12     |       12      |        12        |
 +------------+---------------+------------------+
 
-Lavalval Chain DT [1] - Near Mint
+Lavalval Chain Secret 1st [1] - Near Mint 1st
 +------------+---------------+------------------+
 | TCG Lowest | TCG Last Sold | TCG Market Price |
 +------------+---------------+------------------+
-|     49     |       54      |        55        |
+|     5      |       5       |        5         |
++------------+---------------+------------------+
+
+Daigusto Emeral Secret 1st [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     8      |       9       |        8         |
 +------------+---------------+------------------+
 
 80 rhapsody in berserk [1] - Near Mint
@@ -128,24 +136,38 @@ starliege paladynamo [1] - Near Mint 1st
 |     0      |       0       |        1         |
 +------------+---------------+------------------+
 
-draccosack Scr [2] - Near Mint 1st
+draccosack Scr 1st [2] - Near Mint 1st
 +------------+---------------+------------------+
 | TCG Lowest | TCG Last Sold | TCG Market Price |
 +------------+---------------+------------------+
-|     16     |       16      |        23        |
+|     3      |       3       |        3         |
 +------------+---------------+------------------+
 
 Big Eye AP06 UTR [1] - Near Mint
 +------------+---------------+------------------+
 | TCG Lowest | TCG Last Sold | TCG Market Price |
 +------------+---------------+------------------+
-|     73     |       72      |        71        |
+|     74     |       72      |        71        |
 +------------+---------------+------------------+
 
 Minerva XYZ [1] - Near Mint 1st
 +------------+---------------+------------------+
 | TCG Lowest | TCG Last Sold | TCG Market Price |
 +------------+---------------+------------------+
-|     8      |       9       |        9         |
+|     9      |       9       |        9         |
++------------+---------------+------------------+
+
+gagaga cowboy Utr [1] - Near Mint
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     47     |       49      |        48        |
++------------+---------------+------------------+
+
+exciton knight Ultra 1st [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     3      |       4       |        3         |
 +------------+---------------+------------------+
 
