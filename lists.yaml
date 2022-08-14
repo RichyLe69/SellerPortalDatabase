@@ -9,17 +9,17 @@
 
 ## Split Collections
 
-collection_deck_builder:
-  path: 'decks/split_lists/collection_deck_builder.yaml'
-
-collection_extra_deck:
-  path: 'decks/split_lists/collection_extra_deck.yaml'
-
-#collection_deck_core:
-#  path: 'decks/split_lists/collection_deck_core.yaml'
-
-collection_old_school:
-  path: 'decks/split_lists/collection_old_school.yaml'
+#collection_deck_builder:
+#  path: 'decks/split_lists/collection_deck_builder.yaml'
+#
+#collection_extra_deck:
+#  path: 'decks/split_lists/collection_extra_deck.yaml'
+#
+##collection_deck_core:
+##  path: 'decks/split_lists/collection_deck_core.yaml'
+#
+#collection_old_school:
+#  path: 'decks/split_lists/collection_old_school.yaml'
 
 
 ## Split Buylists
@@ -40,8 +40,8 @@ collection_old_school:
 #  path: 'decks/split_lists/buylist_extras.yaml'
 
 
-## # Later buylists - consider doing not max rarity 1st for 2ndary decks
-
+### # Later buylists - consider doing not max rarity 1st for 2ndary decks
+#
 #buylist_dadreturn:  # Secondary TeleDad deck.
 #  path: 'decks/split_lists/buylist_dadreturn.yaml'
 #
@@ -51,19 +51,21 @@ collection_old_school:
 #buylist_goat:
 #  path: 'decks/split_lists/buylist_goat.yaml'
 
-#buylist_cool_singles:
+#buylist_cool_singles:  # NOTHING IN THIS LIST YET
 #  path: 'decks/old_lists/buylist_cool_singles.yaml'
-# cool singles notes: just cool singles for photos/collections
+### cool singles notes: just cool singles for photos/collections
 
-#buylist_zombies:
-#  path: 'decks/old_lists/buylist_zombies.yaml'
-# zombie notes: some ultis/secrets, 2009-2010. synergizes with retro light/darks
+buylist_zombies:
+  path: 'decks/old_lists/buylist_zombies.yaml'
+## zombie notes: some ultis/secrets, 2009-2010. synergizes with retro light/darks
 
-#buylist_mermail:
-#  path: 'decks/old_lists/buylist_mermail.yaml'
-# mermail notes: cool max rarity, 2012-2014. standalone, doesn't synergize with much else.
+buylist_mermail:
+  path: 'decks/old_lists/buylist_mermail.yaml'
+## mermail notes: cool max rarity, 2012-2014. standalone, doesn't synergize with much else.
 
-
+buylist_lightswornrulers:
+  path: 'decks/old_lists/buylist_lightswornrulers.yaml'
+## lightsworn ruler notes: 2014 vs mermails format.
 
 
 
@@ -72,8 +74,6 @@ collection_old_school:
 #buylist_demiseotk:
 #  path: 'decks/old_lists/buylist_demiseotk.yaml'
 #
-#buylist_lightswornrulers:
-#  path: 'decks/old_lists/buylist_lightswornrulers.yaml'
 
 #buylist_invoked:
 #  path: 'decks/old_lists/buylist_invoked.yaml'

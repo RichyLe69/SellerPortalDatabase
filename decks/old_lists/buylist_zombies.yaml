@@ -13,10 +13,10 @@ Zombie Master UTR Taev 1st:
   edition: 'Near Mint 1st'
   qty: 3
 
-#Plaguespreader UTR 1st:
-#  url: 58506
-#  edition: 'Near Mint 1st'
-#  qty: 1
+Plaguespreader UTR 1st:
+  url: 58506
+  edition: 'Near Mint 1st'
+  qty: 1
 
 pyramid turtle - super champion pack:
   url: 26462
@@ -24,16 +24,20 @@ pyramid turtle - super champion pack:
   qty: 3
 
 
+card of safe return ultra 1st:
+  url: 21816
+  edition: 'Near Mint 1st'
+  qty: 3
+
 book of life pgd 1st:
   url: 21797
   edition: 'Near Mint 1st'
-  qty: 2
+  qty: 3
 
 burial from a diff dimension - dp03 ultra:
   url: 25617
   edition: 'Near Mint 1st'
-  qty: 1
-
+  qty: 3
 
 revived king utr:
   url: 58510
@@ -50,10 +54,7 @@ revived king utr:
 #  edition: 'Near Mint'
 #  qty: 1
 
-card of safe return ultra 1st:
-  url: 21816
-  edition: 'Near Mint 1st'
-  qty: 3
+
 
 il blud scr 1st:
   url: 26123

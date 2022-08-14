@@ -1,0 +1,50 @@
+Missing [1] TCG Last Sold for: Black Rose Dragon Ghost 1st
+Missing [2] Market Price for:  Black Rose Dragon Ghost 1st
+Missing [0] TCG Lowest for:    red dragon archfiend Ultimate 1st
+Missing [0] TCG Lowest for:    Tempest Magician Scr 1st
+Sum of Lowest Listed: $4,865.00
+Sum of Last Sold Prices: $3,071.00
+Sum of Market Prices: $2,341.00
+
+Stardust Dragon Ghost unl extra [3] - Near Mint Unlimited
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    300     |      545      |       349        |
++------------+---------------+------------------+
+
+Black Rose Dragon Ghost unl extra [3] - Near Mint Unlimited
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    274     |      273      |       286        |
++------------+---------------+------------------+
+
+Power Tool Dragon Ghost Unlimited [1] - Near Mint Unlimited
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    145     |      188      |       158        |
++------------+---------------+------------------+
+
+Black Rose Dragon Ghost 1st [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    2998    |       0       |        0         |
++------------+---------------+------------------+
+
+red dragon archfiend Ultimate 1st [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     0      |      350      |       199        |
++------------+---------------+------------------+
+
+Tempest Magician Scr 1st [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     0      |       79      |        79        |
++------------+---------------+------------------+
+

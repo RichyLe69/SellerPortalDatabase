@@ -1,6 +1,5 @@
-
-Raiden:
-  url: 136831
+Raiden Super:
+  url: 90993
   edition: 'Near Mint 1st'
   qty: 3
 
@@ -22,12 +21,19 @@ Eclipse Wyvern Super:
 Lightray Diabolos Rare:
   url: 59033
   edition: 'Near Mint 1st'
-  qty: 2
+  qty: 2    # hoban runs 1
 
 kuribandit Scr 1st:
   url: 82554
   edition: 'Near Mint 1st'
   qty: 3
+
+minerva baby Super:
+  url: 90992
+  edition: 'Near Mint 1st'
+  qty: 1
+
+###
 
 upstart Super:
   url: 66777
@@ -44,10 +50,9 @@ needlebug nest:
   edition: 'Near Mint 1st'
   qty: 3
 
-minerva baby:
-  url: 90992
-  edition: 'Near Mint 1st'
-  qty: 1
+####
+
+
 
 michael arch lightsworn:
   url: 91026
@@ -89,10 +94,10 @@ starliege paladynamo:
   edition: 'Near Mint 1st'
   qty: 1
 
-draccosack:
+draccosack Scr:
   url: 68164
   edition: 'Near Mint 1st'
-  qty: 1
+  qty: 2
 
 Big Eye AP06 UTR:
   url: 95439

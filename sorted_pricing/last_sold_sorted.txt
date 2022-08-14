@@ -46014,3 +46014,130 @@ collection_old_school - 2022-08-03
 |         neos air bird ultimate 1st        |   0   |
 |                    test                   |   0   |
 +-------------------------------------------+-------+
+buylist_lightsworn - 2022-08-14
++-----------------------------------+-------+
+|                Card               | Price |
++-----------------------------------+-------+
+|  Stardust Dragon Ghost unl extra  |  545  |
+| red dragon archfiend Ultimate 1st |  350  |
+| Black Rose Dragon Ghost unl extra |  273  |
+| Power Tool Dragon Ghost Unlimited |  188  |
+|      Tempest Magician Scr 1st     |   79  |
+|    Black Rose Dragon Ghost 1st    |   0   |
+|                test               |   0   |
++-----------------------------------+-------+
+buylist_extras - 2022-08-14
++--------------+-------+
+|     Card     | Price |
++--------------+-------+
+| Lonefire cp7 |  571  |
+|     test     |   0   |
++--------------+-------+
+buylist_dadreturn - 2022-08-14
++--------------------------------------------+-------+
+|                    Card                    | Price |
++--------------------------------------------+-------+
+|        Destiny Hero Dasher UTR 1st         |  120  |
+|          Dimension Fusion IOC 1st          |   62  |
+|         Destiny Hero Plasma Secret         |   20  |
+|             Gold Sarc GLD 2009             |   14  |
+| Return from Different Dimension DPKB Super |   7   |
+|          Cyber Valley PTDN Super           |   3   |
+|     Destiny Hero Disk Commander Super      |   1   |
+|        Dark Lord Zerato Secret 1st         |   0   |
+|       Mind Crush Champion Pack Super       |   0   |
+|                    test                    |   0   |
++--------------------------------------------+-------+
+buylist_machines - 2022-08-14
++----------------------------+-------+
+|            Card            | Price |
++----------------------------+-------+
+|      Snipe Hunter cp3      |  158  |
+|  Call of the Haunted 1st   |   69  |
+| Premature Burial Ultra 1st |   48  |
+|    Confiscation MRL 1st    |   17  |
+|   Morphing Jar ultra TP2   |   0   |
+|      Sakuretsu Super       |   0   |
+|            test            |   0   |
++----------------------------+-------+
+buylist_goat - 2022-08-14
++-------------------+-------+
+|        Card       | Price |
++-------------------+-------+
+| Metamorphosis cp1 |  1349 |
+|   Kycoo lod 1st   |   27  |
+|  Book of moon cp1 |   0   |
+|        test       |   0   |
++-------------------+-------+
+buylist_cool_singles - 2022-08-14
++--------------------------+-------+
+|           Card           | Price |
++--------------------------+-------+
+| Rainbow Dragon Ghost 1st |   4   |
+|           test           |   0   |
++--------------------------+-------+
+buylist_zombies - 2022-08-14
++-------------------------------------------+-------+
+|                    Card                   | Price |
++-------------------------------------------+-------+
+|           Plaguespreader UTR 1st          |  294  |
+|    pyramid turtle - super champion pack   |  184  |
+|         Goblin Zombie Secret PTDN         |  124  |
+|         Zombie Master UTR Taev 1st        |   83  |
+|       card of safe return ultra 1st       |   36  |
+|             Mezuki Secret pp02            |   29  |
+| burial from a diff dimension - dp03 ultra |   18  |
+|            book of life pgd 1st           |   2   |
+|              il blud scr 1st              |   0   |
+|              revived king utr             |   0   |
+|                    test                   |   0   |
++-------------------------------------------+-------+
+buylist_mermail - 2022-08-14
++-----------------------------------+-------+
+|                Card               | Price |
++-----------------------------------+-------+
+|        Deep Sea Diva Super        |  189  |
+|       Atlantean Dragoons UTR      |   90  |
+|           Abyss Dweller           |   87  |
+|              Big Eye              |   72  |
+|       Atlantean Marksman UTR      |   59  |
+|       Breakthrough Ultimate       |   39  |
+|     Mermail Abyssteus Ultimate    |   37  |
+|           Bahamut Shark           |   34  |
+|     Mermail Abyssmegalo Secret    |   31  |
+|  Mermail Abysslinde Ultimate 1st  |   23  |
+|         Mermail Abyssgaios        |   18  |
+|  Atlantean Heavy Infrantry Super  |   10  |
+| Mermail Abyss-sphere Ultimate 1st |   10  |
+|      Mermail Abyssgunde Super     |   3   |
+|      Mermail Abysspike Super      |   3   |
+|      Mermail Abyssleed Secret     |   2   |
+|                test               |   0   |
++-----------------------------------+-------+
+buylist_lightswornrulers - 2022-08-14
++--------------------------+-------+
+|           Card           | Price |
++--------------------------+-------+
+|      upstart Super       |   79  |
+|     Big Eye AP06 UTR     |   72  |
+|    Lavalval Chain DT     |   54  |
+| 101 silent honor ark UTR |   34  |
+|  ghostrick alucard UTR   |   24  |
+|      draccosack Scr      |   16  |
+|    diamond dire wolf     |   12  |
+|       Minerva XYZ        |   9   |
+|         Blaster          |   5   |
+|         Tempest          |   2   |
+|  80 rhapsody in berserk  |   1   |
+|    kuribandit Scr 1st    |   1   |
+|    minerva baby Super    |   1   |
+|   Eclipse Wyvern Super   |   0   |
+|  Lightray Diabolos Rare  |   0   |
+|       Raiden Super       |   0   |
+|   mechquipped angineer   |   0   |
+| michael arch lightsworn  |   0   |
+|      needlebug nest      |   0   |
+|       soul charge        |   0   |
+|   starliege paladynamo   |   0   |
+|           test           |   0   |
++--------------------------+-------+
