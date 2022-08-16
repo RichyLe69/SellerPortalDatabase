@@ -15,20 +15,20 @@ Morphing Jar ultra TP2:
 #  edition: 'Near Mint'
 #  qty: 1
 
-#Premature Burial Ultra 1st NM:
-#  url: 22312
-#  edition: 'Near Mint 1st'
-#  qty: 1
-#
-Confiscation MRL:
+Premature Burial Ultra Unlimited NM:
+  url: 22312
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+Confiscation MRL Unlimited:
   url: 21841
   edition: 'Near Mint Unlimited'
   qty: 1
-#
-#Call of the Haunted 1st:
-#  url: 21813
-#  edition: 'Near Mint 1st'
-#  qty: 1
+
+Call of the Haunted Unlimited:
+  url: 21813
+  edition: 'Near Mint Unlimited'
+  qty: 1
 
 #Sakuretsu Super: # not needed in fili luna deck
 #  url: 26059

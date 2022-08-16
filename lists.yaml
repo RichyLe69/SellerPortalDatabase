@@ -113,3 +113,20 @@ collection_old_school:
 
 
 #######################################
+
+# Current buys UNLIM - just for comparison sake.
+
+#buylist_dadreturn:  # Secondary TeleDad deck.
+#  path: 'decks/current_buys_unl/buylist_dadreturn.yaml'
+#
+#buylist_machines:  # Secondary Goat / Return deck.
+#  path: 'decks/current_buys_unl/buylist_machines.yaml'
+#
+#buylist_zombies: ## zombie notes: some ultis/secrets, 2009-2010. synergizes with retro light/darks
+#  path: 'decks/current_buys_unl/buylist_zombies.yaml'
+#
+#buylist_mermail: ## mermail notes: cool max rarity, 2013-2014 vs lsruler format.
+#  path: 'decks/current_buys_unl/buylist_mermail.yaml'
+#
+#buylist_lightswornrulers: ## lightsworn ruler notes: 2014 vs mermails format.
+#  path: 'decks/current_buys_unl/buylist_lightswornrulers.yaml'

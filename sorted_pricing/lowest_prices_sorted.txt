@@ -46522,3 +46522,109 @@ collection_old_school - 2022-08-14
 |         Imperial Order PSV Secret         |   2   |
 |                    test                   |   0   |
 +-------------------------------------------+-------+
+buylist_dadreturn - 2022-08-16
++--------------------------------------------+-------+
+|                    Card                    | Price |
++--------------------------------------------+-------+
+|       Mind Crush Champion Pack Super       |  119  |
+|     Destiny Hero Dasher UTR Unlimited      |   79  |
+|              armor master utr              |   60  |
+|     Dark Lord Zerato Secret Unlimited      |   37  |
+|       Dimension Fusion IOC Unlimited       |   28  |
+|         Destiny Hero Plasma Secret         |   20  |
+|             Gold Sarc GLD 2009             |   14  |
+| Return from Different Dimension DPKB Super |   5   |
+|         dark strike fighter Super          |   3   |
+|             Black Salvo Super              |   1   |
+|          Cyber Valley PTDN Super           |   1   |
+|     Destiny Hero Disk Commander Super      |   1   |
+|                    test                    |   0   |
++--------------------------------------------+-------+
+buylist_machines - 2022-08-16
++-------------------------------------+-------+
+|                 Card                | Price |
++-------------------------------------+-------+
+|        Morphing Jar ultra TP2       |  9999 |
+|           Snipe Hunter cp3          |  121  |
+| Premature Burial Ultra Unlimited NM |   9   |
+|    Call of the Haunted Unlimited    |   6   |
+|      Confiscation MRL Unlimited     |   1   |
+|                 test                |   0   |
++-------------------------------------+-------+
+buylist_zombies - 2022-08-16
++-------------------------------------------+-------+
+|                    Card                   | Price |
++-------------------------------------------+-------+
+|    pyramid turtle - super champion pack   |  179  |
+|           il blud scr Unlimited           |  128  |
+|      Zombie Master UTR Taev Unlimited     |   66  |
+|        Plaguespreader UTR Unlimited       |   54  |
+|    Goblin Zombie Secret PTDN Unlimited    |   35  |
+|             Mezuki Secret pp02            |   35  |
+|           revived king ha desutr          |   30  |
+|          doomkaiser utr Unlimited         |   20  |
+|    card of safe return ultra Unlimited    |   3   |
+|      book of life pgd Super Unlimited     |   2   |
+| burial from a diff dimension - dp03 ultra |   0   |
+|                    test                   |   0   |
++-------------------------------------------+-------+
+buylist_mermail - 2022-08-16
++-----------------------------------------+-------+
+|                   Card                  | Price |
++-----------------------------------------+-------+
+|           Deep Sea Diva Super           |  233  |
+|          Atlantean Dragoons UTR         |  116  |
+|            Abyss Dweller UTR            |   83  |
+|          Atlantean Marksman UTR         |   56  |
+|            Bahamut Shark Scr            |   26  |
+|     Breakthrough Ultimate Unlimited     |   20  |
+|   Mermail Abyssteus Ultimate Unlimited  |   20  |
+|     Mermail Abyssgaios UTR Unlimited    |   16  |
+|   Mermail Abyssmegalo Secret Unlimited  |   16  |
+|               Genex Undive              |   11  |
+|  Mermail Abysslinde Ultimate Unlimited  |   11  |
+|          Moulinglacia Unlimited         |   9   |
+|     Atlantean Heavy Infrantry Super     |   8   |
+| Mermail Abyss-sphere Ultimate Unlimited |   5   |
+|             Genex Controller            |   4   |
+|         Mermail Abyssgunde Super        |   3   |
+|         Mermail Abysspike Super         |   3   |
+|           Salvage - blue rare           |   3   |
+|                Tidal Scr                |   3   |
+|        Dewloren Secret Unlimited        |   1   |
+|    Mermail Abyssleed Secret Unlimited   |   1   |
+|            Mermail Abysstrite           |   1   |
+|         Gungnir Secret Unlimited        |   0   |
+|            soul charge Ultra            |   0   |
+|                   test                  |   0   |
++-----------------------------------------+-------+
+buylist_lightswornrulers - 2022-08-16
++----------------------------------+-------+
+|               Card               | Price |
++----------------------------------+-------+
+|         Big Eye AP06 UTR         |   74  |
+|        gagaga cowboy Utr         |   47  |
+|     101 silent honor ark UTR     |   26  |
+|      ghostrick alucard UTR       |   20  |
+|           Minerva XYZ            |   8   |
+| Daigusto Emeral Secret Unlimited |   7   |
+|      Upstart lcyw Unlimited      |   7   |
+|        diamond dire wolf         |   5   |
+| Lavalval Chain Secret Unlimited  |   4   |
+|     draccosack Scr Unlimited     |   4   |
+|           Blaster Scr            |   2   |
+|           Tempest Scr            |   2   |
+|  exciton knight Ultra Unlimited  |   2   |
+|      80 rhapsody in berserk      |   1   |
+|     kuribandit Scr Unlimited     |   1   |
+|       Eclipse Wyvern Super       |   0   |
+|      Lightray Diabolos Rare      |   0   |
+|           Raiden Super           |   0   |
+|       mechquipped angineer       |   0   |
+|     michael arch lightsworn      |   0   |
+|        minerva baby Super        |   0   |
+|          needlebug nest          |   0   |
+|        soul charge Ultra         |   0   |
+|       starliege paladynamo       |   0   |
+|               test               |   0   |
++----------------------------------+-------+
