@@ -9,40 +9,40 @@
 
 ## Split Collections
 
-collection_deck_builder:
-  path: 'decks/split_lists/collection_deck_builder.yaml'
-
-collection_extra_deck:
-  path: 'decks/split_lists/collection_extra_deck.yaml'
-
-#collection_deck_core:
-#  path: 'decks/split_lists/collection_deck_core.yaml'
-
-collection_old_school:
-  path: 'decks/split_lists/collection_old_school.yaml'
+#collection_deck_builder:
+#  path: 'decks/split_lists/collection_deck_builder.yaml'
+#
+#collection_extra_deck:
+#  path: 'decks/split_lists/collection_extra_deck.yaml'
+#
+##collection_deck_core:
+##  path: 'decks/split_lists/collection_deck_core.yaml'
+#
+#collection_old_school:
+#  path: 'decks/split_lists/collection_old_school.yaml'
 
 
 ## Current Buylists
 
 # these have been researched as of 8.14.22. No need to further research at the moment.
 
-#buylist_lightsworn: # Extra Swag 10/10
-#  path: 'decks/current_buys/buylist_lightsworn.yaml'
-#
-#buylist_dadreturn:  # Secondary TeleDad deck.
-#  path: 'decks/current_buys/buylist_dadreturn.yaml'
-#
-#buylist_machines:  # Secondary Goat / Return deck.
-#  path: 'decks/current_buys/buylist_machines.yaml'
-#
-#buylist_zombies: ## zombie notes: some ultis/secrets, 2009-2010. synergizes with retro light/darks
-#  path: 'decks/current_buys/buylist_zombies.yaml'
-#
-#buylist_mermail: ## mermail notes: cool max rarity, 2013-2014 vs lsruler format.
-#  path: 'decks/current_buys/buylist_mermail.yaml'
-#
-#buylist_lightswornrulers: ## lightsworn ruler notes: 2014 vs mermails format.
-#  path: 'decks/current_buys/buylist_lightswornrulers.yaml'
+buylist_lightsworn: # Extra Swag 10/10
+  path: 'decks/current_buys/buylist_lightsworn.yaml'
+
+buylist_dadreturn:  # Secondary TeleDad deck.
+  path: 'decks/current_buys/buylist_dadreturn.yaml'
+
+buylist_machines:  # Secondary Goat / Return deck.
+  path: 'decks/current_buys/buylist_machines.yaml'
+
+buylist_zombies: ## zombie notes: some ultis/secrets, 2009-2010. synergizes with retro light/darks
+  path: 'decks/current_buys/buylist_zombies.yaml'
+
+buylist_mermail: ## mermail notes: cool max rarity, 2013-2014 vs lsruler format.
+  path: 'decks/current_buys/buylist_mermail.yaml'
+
+buylist_lightswornrulers: ## lightsworn ruler notes: 2014 vs mermails format.
+  path: 'decks/current_buys/buylist_lightswornrulers.yaml'
 
 #buylist_goat:
 #  path: 'decks/current_buys/buylist_goat.yaml'
