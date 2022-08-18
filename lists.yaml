@@ -44,6 +44,12 @@ buylist_mermail: ## mermail notes: cool max rarity, 2013-2014 vs lsruler format.
 buylist_lightswornrulers: ## lightsworn ruler notes: 2014 vs mermails format.
   path: 'decks/current_buys/buylist_lightswornrulers.yaml'
 
+buylist_frog_monarch: ## frog monarch edison - 2013 - pretty cool stuff.
+  path: 'decks/current_buys/buylist_frog_monarch.yaml'
+
+buylist_demiseotk:  ## It's just a cool fucking deck. reminds me of sneak n show.
+  path: 'decks/current_buys/buylist_demiseotk.yaml'
+
 #buylist_goat:
 #  path: 'decks/current_buys/buylist_goat.yaml'
 #
@@ -69,9 +75,7 @@ buylist_lightswornrulers: ## lightsworn ruler notes: 2014 vs mermails format.
 
 # # # Don't really need, but possible buys.
 
-#buylist_demiseotk:
-#  path: 'decks/old_lists/buylist_demiseotk.yaml'
-#
+
 
 #buylist_invoked:
 #  path: 'decks/old_lists/buylist_invoked.yaml'
