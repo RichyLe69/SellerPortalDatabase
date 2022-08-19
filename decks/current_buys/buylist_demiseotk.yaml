@@ -9,15 +9,20 @@ Doom Dozer UTR 1st - TCG/Seek:
   edition: 'Near Mint 1st'
   qty: 3
 
-Demise UTR Unl - TCG/Seek:
-  url: 58695
-  edition: 'Near Mint Unlimited'
-  qty: 3
+Ruin UTR 1st - TCG/Seek:
+  url: 58694
+  edition: 'Near Mint 1st'
+  qty: 1
 
-Doom Dozer UTR Unl - TCG/Seek:
-  url: 58688
-  edition: 'Near Mint Unlimited'
-  qty: 3
+#Demise UTR Unl - TCG/Seek:
+#  url: 58695
+#  edition: 'Near Mint Unlimited'
+#  qty: 3
+#
+#Doom Dozer UTR Unl - TCG/Seek:
+#  url: 58688
+#  edition: 'Near Mint Unlimited'
+#  qty: 3
 
 Insect Knight C 1st - TCG:
   url: 23480
@@ -64,10 +69,10 @@ Jar of Greed Super - TCG:
   edition: 'Near Mint Unlimited'
   qty: 3
 
-Jar of Greed Super 1st - TCG:
-  url: 22107
-  edition: 'Near Mint Unlimited 1st'
-  qty: 3
+#Jar of Greed Super 1st - TCG:
+#  url: 22107
+#  edition: 'Near Mint 1st'
+#  qty: 3
 
 Gravity Bind R 1st - TCG:
   url: 22044

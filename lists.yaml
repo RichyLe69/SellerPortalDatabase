@@ -26,8 +26,23 @@
 
 # these have been researched as of 8.14.22. No need to further research at the moment.
 
-buylist_lightsworn: # Extra Swag 10/10
-  path: 'decks/current_buys/buylist_lightsworn.yaml'
+# Priority
+# 1k - Mermail 19 Ultis, 8 Scr, 5 Dt - deck 2013-14
+# 600 - Demise OTK - entire deck 2007
+# 650 - Dad Return - deck & etc 2008
+# 500 - Machines - etc 2007
+# 250 lightsworn rulers - deck core
+# 4kk - ls swag
+
+# 1k Zombies 6 Scr, 3 Ulti, 3 Super (CP) - core
+# frognarch 2.2k - 10 utr 3 scr
+
+
+buylist_mermail: ## mermail notes: cool max rarity, 2013-2014 vs lsruler format.
+  path: 'decks/current_buys/buylist_mermail.yaml'
+
+buylist_demiseotk:  ## It's just a cool fucking deck. reminds me of sneak n show.
+  path: 'decks/current_buys/buylist_demiseotk.yaml'
 
 buylist_dadreturn:  # Secondary TeleDad deck.
   path: 'decks/current_buys/buylist_dadreturn.yaml'
@@ -35,20 +50,19 @@ buylist_dadreturn:  # Secondary TeleDad deck.
 buylist_machines:  # Secondary Goat / Return deck.
   path: 'decks/current_buys/buylist_machines.yaml'
 
-buylist_zombies: ## zombie notes: some ultis/secrets, 2009-2010. synergizes with retro light/darks
-  path: 'decks/current_buys/buylist_zombies.yaml'
-
-buylist_mermail: ## mermail notes: cool max rarity, 2013-2014 vs lsruler format.
-  path: 'decks/current_buys/buylist_mermail.yaml'
-
 buylist_lightswornrulers: ## lightsworn ruler notes: 2014 vs mermails format.
   path: 'decks/current_buys/buylist_lightswornrulers.yaml'
 
+buylist_lightsworn: # Extra Swag 10/10
+  path: 'decks/current_buys/buylist_lightsworn.yaml'
+
+
+
+buylist_zombies: ## zombie notes: some ultis/secrets, 2009-2010. synergizes with retro light/darks
+  path: 'decks/current_buys/buylist_zombies.yaml'
+
 buylist_frog_monarch: ## frog monarch edison - 2013 - pretty cool stuff.
   path: 'decks/current_buys/buylist_frog_monarch.yaml'
-
-buylist_demiseotk:  ## It's just a cool fucking deck. reminds me of sneak n show.
-  path: 'decks/current_buys/buylist_demiseotk.yaml'
 
 #buylist_goat:
 #  path: 'decks/current_buys/buylist_goat.yaml'
@@ -75,12 +89,8 @@ buylist_demiseotk:  ## It's just a cool fucking deck. reminds me of sneak n show
 
 # # # Don't really need, but possible buys.
 
-
-
 #buylist_invoked:
 #  path: 'decks/old_lists/buylist_invoked.yaml'
-
-
 
 # don't need. Cool but not the best invests
 

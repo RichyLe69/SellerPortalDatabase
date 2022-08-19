@@ -6,6 +6,8 @@ Sum of Lowest Listed: $661.00
 Sum of Last Sold Prices: $733.00
 Sum of Market Prices: $722.00
 
+495 max rarity + 64 low rarity
+
 Demise UTR 1st - TCG/Seek [3] - Near Mint 1st
 +------------+---------------+------------------+
 | TCG Lowest | TCG Last Sold | TCG Market Price |
@@ -101,7 +103,7 @@ Jar of Greed Super 1st - TCG [3] - Near Mint Unlimited 1st
 +------------+---------------+------------------+
 | TCG Lowest | TCG Last Sold | TCG Market Price |
 +------------+---------------+------------------+
-|     6      |       25      |        0         |
+|     25     |       25      |        0         |
 +------------+---------------+------------------+
 
 Gravity Bind R 1st - TCG [1] - Near Mint 1st
