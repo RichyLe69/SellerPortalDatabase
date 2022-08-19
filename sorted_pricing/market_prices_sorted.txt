@@ -47189,3 +47189,116 @@ buylist_demiseotk - 2022-08-17
 |     Sonic Bird C 1st - TCG    |   0   |
 |              test             |   0   |
 +-------------------------------+-------+
+buylist_mermail - 2022-08-19
++--------------------------------------------+-------+
+|                    Card                    | Price |
++--------------------------------------------+-------+
+|     Atlantean Dragoons UTR - TCG/seek      |  121  |
+|       Deep Sea Diva Super - TCG/seek       |  121  |
+|     Atlantean Marksman UTR - TCG/seek      |   57  |
+| Mermail Abyssteus Ultimate 1st - TCG/seek  |   43  |
+|      Breakthrough Ultimate 1st - TCG       |   39  |
+| Mermail Abyssmegalo Secret 1st - TCG/seek  |   30  |
+| Mermail Abysslinde Ultimate 1st - TCG/seek |   24  |
+|   Mermail Abyssgaios UTR 1st - TCG/seek    |   18  |
+|           Moulinglacia 1st - TCG           |   15  |
+|  Mermail Abyss-sphere Ultimate 1st - TCG   |   14  |
+|   Atlantean Heavy Infrantry Super - TCG    |   13  |
+|          Genex Undive - TCG/seek           |   10  |
+|        Genex Controller - TCG/seek         |   5   |
+|              Tidal Scr - TCG               |   4   |
+|       Mermail Abyssgunde Super - TCG       |   3   |
+|       Mermail Abysspike Super - TCG        |   3   |
+|     Mermail Abyssleed Secret 1st - TCG     |   2   |
+|          Mermail Abysstrite - TCG          |   1   |
+|         Salvage - blue rare - TCG          |   0   |
+|          soul charge Ultra - TCG           |   0   |
+|                    test                    |   0   |
++--------------------------------------------+-------+
+buylist_demiseotk - 2022-08-19
++-------------------------------+-------+
+|              Card             | Price |
++-------------------------------+-------+
+|   Demise UTR 1st - TCG/Seek   |  100  |
+| Doom Dozer UTR 1st - TCG/Seek |   79  |
+|    Ruin UTR 1st - TCG/Seek    |   69  |
+|    Jar of Greed Super - TCG   |   8   |
+|       Manju C 1st - TCG       |   4   |
+|    Gravity Bind R 1st - TCG   |   2   |
+|     Megamorph Ultra - TCG     |   2   |
+|      Senju Rare 1st - TCG     |   2   |
+|   Insect Knight C 1st - TCG   |   1   |
+| Adv Ritual Art Rare 1st - TCG |   0   |
+| Metal Armored Bug C 1st - TCG |   0   |
+|      Neo Bug C 1st - TCG      |   0   |
+|     Sonic Bird C 1st - TCG    |   0   |
+|              test             |   0   |
++-------------------------------+-------+
+buylist_dadreturn - 2022-08-19
++---------------------------------------------------------+-------+
+|                           Card                          | Price |
++---------------------------------------------------------+-------+
+|         Destiny Hero Dasher UTR 1st - TCG / SEEK        |  159  |
+|              armor master utr - TCG / SEEK              |  135  |
+|          Dimension Fusion IOC 1st - TCG / SEEK          |   79  |
+|         Dark Lord Zerato Secret 1st - TCG / SEEK        |   77  |
+|         Destiny Hero Plasma Secret - TCG / SEEK         |   24  |
+|             Gold Sarc GLD 2009 - TCG / SEEK             |   17  |
+| Return from Different Dimension DPKB Super - TCG / SEEK |   12  |
+|             dark strike fighter Super - TCG             |   5   |
+|              Cyber Valley PTDN Super - TCG              |   4   |
+|                 Black Salvo Super - TCG                 |   2   |
+|         Destiny Hero Disk Commander Super - TCG         |   2   |
+|       Mind Crush Champion Pack Super - TCG / SEEK       |   0   |
+|                           test                          |   0   |
++---------------------------------------------------------+-------+
+buylist_machines - 2022-08-19
++-------------------------------+-------+
+|              Card             | Price |
++-------------------------------+-------+
+|  Snipe Hunter cp3 - TCG/seek  |  146  |
+|    Call of the Haunted 1st    |   84  |
+| Premature Burial Ultra 1st NM |   50  |
+|     Confiscation MRL - TCG    |   15  |
+|              test             |   0   |
++-------------------------------+-------+
+buylist_lightswornrulers - 2022-08-19
++-------------------------------+-------+
+|              Card             | Price |
++-------------------------------+-------+
+|     Upstart lcyw 1st - TCG    |   11  |
+|       Blaster Scr - TCG       |   3   |
+|       Tempest Scr - TCG       |   2   |
+|    kuribandit Scr 1st - TCG   |   1   |
+| michael arch lightsworn - TCG |   1   |
+|    minerva baby Super - TCG   |   1   |
+|   Eclipse Wyvern Super - TCG  |   0   |
+|  Lightray Diabolos Rare - TCG |   0   |
+|       Raiden Super - TCG      |   0   |
+|      needlebug nest - TCG     |   0   |
+|    soul charge Ultra - TCG    |   0   |
+|              test             |   0   |
++-------------------------------+-------+
+buylist_2014_extradeck - 2022-08-19
++-------------------------------------+-------+
+|                 Card                | Price |
++-------------------------------------+-------+
+|       Abyss Dweller UTR - TCG       |   79  |
+|     Big Eye AP06 UTR - TCG/seek     |   71  |
+|     gagaga cowboy Utr - TCG/Seek    |   48  |
+| 101 silent honor ark UTR - TCG/Seek |   38  |
+|       Bahamut Shark Scr - TCG       |   37  |
+|   ghostrick alucard UTR - TCG/Seek  |   26  |
+|     diamond dire wolf - TCG/Seek    |   12  |
+|          Minerva XYZ - TCG          |   9   |
+|   Daigusto Emeral Secret 1st - TCG  |   8   |
+|   Lavalval Chain Secret 1st - TCG   |   5   |
+|      Dewloren Secret 1st - TCG      |   4   |
+|    exciton knight Ultra 1st - TCG   |   4   |
+|       draccosack Scr 1st - TCG      |   3   |
+|     80 rhapsody in berserk - TCG    |   2   |
+|       Gungnir Secret 1st - TCG      |   2   |
+|      mechquipped angineer - TCG     |   0   |
+|      starliege paladynamo - TCG     |   0   |
+|                 test                |   0   |
++-------------------------------------+-------+
