@@ -47271,3 +47271,22 @@ buylist_2014_extradeck - 2022-08-19
 |      starliege paladynamo - TCG     |   0   |
 |                 test                |   0   |
 +-------------------------------------+-------+
+buylist_lightsworn - 2022-08-19
++-------------------------------------------------+-------+
+|                       Card                      | Price |
++-------------------------------------------------+-------+
+|        Black Rose Dragon Ghost 1st - SEEK       |  2998 |
+|     Power Tool Dragon Ghost 1st - TCG / SEEK    |  326  |
+|   Stardust Dragon Ghost unl extra - TCG / SEEK  |  295  |
+|  Black Rose Dragon Ghost unl extra - TCG / SEEK |  274  |
+|        crush card virus GLD1 - TCG / SEEK       |  189  |
+|      t roar - champ pack super - TCG / SEEK     |  119  |
+| Monster Reincarnation Ultimate 1st - TCG / SEEK |   59  |
+|              Ryko 1st - TCG / SEEK              |   17  |
+|       royal decree db2 super - TCG / SEEK       |   14  |
+|         Tempest Magician Scr 1st - SEEK         |   0   |
+|           cold wave - common 1st - TCG          |   0   |
+|          phantom of chaos - super - TCG         |   0   |
+|     red dragon archfiend Ultimate 1st - SEEK    |   0   |
+|                       test                      |   0   |
++-------------------------------------------------+-------+
