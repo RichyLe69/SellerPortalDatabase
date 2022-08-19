@@ -47321,3 +47321,32 @@ buylist_lightsworn - 2022-08-19
 |      t roar - champ pack super - TCG / SEEK     |   0   |
 |                       test                      |   0   |
 +-------------------------------------------------+-------+
+buylist_zombies - 2022-08-19
++-------------------------------------------------+-------+
+|                       Card                      | Price |
++-------------------------------------------------+-------+
+| pyramid turtle - super champion pack - TCG/seek |  183  |
+|      Zombie Master UTR Taev 1st - TCG/seek      |   82  |
+|          Mezuki Secret pp02 - TCG/seek          |   37  |
+|       Goblin Zombie Secret PTDN - TCG/seek      |   31  |
+| burial from a diff dimension - dp03 ultra - TCG |   14  |
+|    card of safe return ultra Unlimited - TCG    |   4   |
+|      book of life pgd Super Unlimited - TCG     |   2   |
+|                       test                      |   0   |
++-------------------------------------------------+-------+
+buylist_frog_monarch - 2022-08-19
++----------------------------------------------------+-------+
+|                        Card                        | Price |
++----------------------------------------------------+-------+
+|   Light Darkness Dragon Secret - RP02 - TCG/seek   |  396  |
+|                Swap Frog UTR - seek                |  305  |
+|                Raiza UTR 1st - seek                |  164  |
+|          battle fader UTR 1st - TCG/seek           |   56  |
+| Light Darkness Dragon Secret - GX promo - TCG/seek |   45  |
+|             substitoad rare 1st - TCG              |   23  |
+|           Soul exchange Super 1st - TCG            |   19  |
+|             dark dust spirit HL - TCG              |   9   |
+|             dupe frog common 1st - TCG             |   2   |
+|            Treeborn Frog UTR 1st - seek            |   0   |
+|                        test                        |   0   |
++----------------------------------------------------+-------+
