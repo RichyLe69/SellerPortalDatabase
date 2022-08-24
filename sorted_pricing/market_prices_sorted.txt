@@ -48022,3 +48022,165 @@ collection_old_school - 2022-08-21
 |       Dark Magician Girl Secret 1st       |   0   |
 |                    test                   |   0   |
 +-------------------------------------------+-------+
+buylist_demiseotk - 2022-08-23
++-------------------------------+-------+
+|              Card             | Price |
++-------------------------------+-------+
+|   Demise UTR 1st - TCG/Seek   |  100  |
+| Doom Dozer UTR 1st - TCG/Seek |   79  |
+|    Ruin UTR 1st - TCG/Seek    |   68  |
+|    Jar of Greed Super - TCG   |   8   |
+|       Manju C 1st - TCG       |   4   |
+|    Gravity Bind R 1st - TCG   |   2   |
+|     Megamorph Ultra - TCG     |   2   |
+|      Senju Rare 1st - TCG     |   2   |
+|   Insect Knight C 1st - TCG   |   1   |
+| Adv Ritual Art Rare 1st - TCG |   0   |
+| Metal Armored Bug C 1st - TCG |   0   |
+|      Neo Bug C 1st - TCG      |   0   |
+|     Sonic Bird C 1st - TCG    |   0   |
+|              test             |   0   |
++-------------------------------+-------+
+buylist_dadreturn - 2022-08-23
++---------------------------------------------------------+-------+
+|                           Card                          | Price |
++---------------------------------------------------------+-------+
+|         Destiny Hero Dasher UTR 1st - TCG / SEEK        |  159  |
+|              armor master utr - TCG / SEEK              |  135  |
+|          Dimension Fusion IOC 1st - TCG / SEEK          |   79  |
+|         Dark Lord Zerato Secret 1st - TCG / SEEK        |   77  |
+|         Destiny Hero Plasma Secret - TCG / SEEK         |   24  |
+|             Gold Sarc GLD 2009 - TCG / SEEK             |   17  |
+| Return from Different Dimension DPKB Super - TCG / SEEK |   12  |
+|             dark strike fighter Super - TCG             |   5   |
+|              Cyber Valley PTDN Super - TCG              |   4   |
+|                 Black Salvo Super - TCG                 |   2   |
+|         Destiny Hero Disk Commander Super - TCG         |   2   |
+|       Mind Crush Champion Pack Super - TCG / SEEK       |   0   |
+|                           test                          |   0   |
++---------------------------------------------------------+-------+
+buylist_machines - 2022-08-23
++-------------------------------+-------+
+|              Card             | Price |
++-------------------------------+-------+
+|  Snipe Hunter cp3 - TCG/seek  |  146  |
+|    Call of the Haunted 1st    |   86  |
+| Premature Burial Ultra 1st NM |   50  |
+|     Confiscation MRL - TCG    |   15  |
+|              test             |   0   |
++-------------------------------+-------+
+buylist_lightswornrulers - 2022-08-23
++-------------------------------+-------+
+|              Card             | Price |
++-------------------------------+-------+
+|     Upstart lcyw 1st - TCG    |   11  |
+|       Blaster Scr - TCG       |   3   |
+|       Tempest Scr - TCG       |   2   |
+|    kuribandit Scr 1st - TCG   |   1   |
+| michael arch lightsworn - TCG |   1   |
+|    minerva baby Super - TCG   |   1   |
+|    soul charge Ultra - TCG    |   1   |
+|   Eclipse Wyvern Super - TCG  |   0   |
+|  Lightray Diabolos Rare - TCG |   0   |
+|       Raiden Super - TCG      |   0   |
+|      needlebug nest - TCG     |   0   |
+|              test             |   0   |
++-------------------------------+-------+
+buylist_mermail - 2022-08-23
++--------------------------------------------+-------+
+|                    Card                    | Price |
++--------------------------------------------+-------+
+|       Deep Sea Diva Super - TCG/seek       |  132  |
+|     Atlantean Dragoons UTR - TCG/seek      |  121  |
+|     Atlantean Marksman UTR - TCG/seek      |   57  |
+| Mermail Abyssteus Ultimate 1st - TCG/seek  |   41  |
+|      Breakthrough Ultimate 1st - TCG       |   39  |
+| Mermail Abyssmegalo Secret 1st - TCG/seek  |   30  |
+| Mermail Abysslinde Ultimate 1st - TCG/seek |   24  |
+|   Mermail Abyssgaios UTR 1st - TCG/seek    |   18  |
+|           Moulinglacia 1st - TCG           |   15  |
+|   Atlantean Heavy Infrantry Super - TCG    |   13  |
+|  Mermail Abyss-sphere Ultimate 1st - TCG   |   13  |
+|          Genex Undive - TCG/seek           |   10  |
+|        Genex Controller - TCG/seek         |   5   |
+|       Mermail Abyssgunde Super - TCG       |   4   |
+|              Tidal Scr - TCG               |   4   |
+|       Mermail Abysspike Super - TCG        |   3   |
+|         Salvage - blue rare - TCG          |   3   |
+|     Mermail Abyssleed Secret 1st - TCG     |   2   |
+|          Mermail Abysstrite - TCG          |   1   |
+|          soul charge Ultra - TCG           |   1   |
+|                    test                    |   0   |
++--------------------------------------------+-------+
+buylist_2014_extradeck - 2022-08-23
++-------------------------------------+-------+
+|                 Card                | Price |
++-------------------------------------+-------+
+|       Abyss Dweller UTR - TCG       |   81  |
+|     Big Eye AP06 UTR - TCG/seek     |   71  |
+|     gagaga cowboy Utr - TCG/Seek    |   47  |
+| 101 silent honor ark UTR - TCG/Seek |   38  |
+|       Bahamut Shark Scr - TCG       |   36  |
+|   ghostrick alucard UTR - TCG/Seek  |   26  |
+|     diamond dire wolf - TCG/Seek    |   13  |
+|          Minerva XYZ - TCG          |   9   |
+|   Daigusto Emeral Secret 1st - TCG  |   8   |
+|   Lavalval Chain Secret 1st - TCG   |   5   |
+|      Dewloren Secret 1st - TCG      |   3   |
+|       draccosack Scr 1st - TCG      |   3   |
+|    exciton knight Ultra 1st - TCG   |   3   |
+|     80 rhapsody in berserk - TCG    |   2   |
+|       Gungnir Secret 1st - TCG      |   2   |
+|      starliege paladynamo - TCG     |   1   |
+|      mechquipped angineer - TCG     |   0   |
+|                 test                |   0   |
++-------------------------------------+-------+
+buylist_lightsworn - 2022-08-23
++-------------------------------------------------+-------+
+|                       Card                      | Price |
++-------------------------------------------------+-------+
+|   Stardust Dragon Ghost unl extra - TCG / SEEK  |  349  |
+|     Power Tool Dragon Ghost 1st - TCG / SEEK    |  333  |
+|  Black Rose Dragon Ghost unl extra - TCG / SEEK |  301  |
+|     red dragon archfiend Ultimate 1st - SEEK    |  199  |
+|        crush card virus GLD1 - TCG / SEEK       |  196  |
+|         Tempest Magician Scr 1st - SEEK         |   79  |
+| Monster Reincarnation Ultimate 1st - TCG / SEEK |   62  |
+|              Ryko 1st - TCG / SEEK              |   27  |
+|       royal decree db2 super - TCG / SEEK       |   16  |
+|           cold wave - common 1st - TCG          |   1   |
+|          phantom of chaos - super - TCG         |   1   |
+|        Black Rose Dragon Ghost 1st - SEEK       |   0   |
+|      t roar - champ pack super - TCG / SEEK     |   0   |
+|                       test                      |   0   |
++-------------------------------------------------+-------+
+buylist_zombies - 2022-08-23
++-------------------------------------------------+-------+
+|                       Card                      | Price |
++-------------------------------------------------+-------+
+| pyramid turtle - super champion pack - TCG/seek |  183  |
+|      Zombie Master UTR Taev 1st - TCG/seek      |   86  |
+|          Mezuki Secret pp02 - TCG/seek          |   37  |
+|       Goblin Zombie Secret PTDN - TCG/seek      |   31  |
+| burial from a diff dimension - dp03 ultra - TCG |   14  |
+|    card of safe return ultra Unlimited - TCG    |   4   |
+|      book of life pgd Super Unlimited - TCG     |   2   |
+|                       test                      |   0   |
++-------------------------------------------------+-------+
+buylist_frog_monarch - 2022-08-23
++----------------------------------------------------+-------+
+|                        Card                        | Price |
++----------------------------------------------------+-------+
+|   Light Darkness Dragon Secret - RP02 - TCG/seek   |  396  |
+|                Swap Frog UTR - seek                |  310  |
+|            Treeborn Frog UTR 1st - seek            |  248  |
+|                Raiza UTR 1st - seek                |  164  |
+|        Destiny Hero Fear monger - Super Cp         |   64  |
+|          battle fader UTR 1st - TCG/seek           |   56  |
+| Light Darkness Dragon Secret - GX promo - TCG/seek |   46  |
+|             substitoad rare 1st - TCG              |   23  |
+|           Soul exchange Super 1st - TCG            |   19  |
+|             dark dust spirit HL - TCG              |   9   |
+|             dupe frog common 1st - TCG             |   2   |
+|                        test                        |   0   |
++----------------------------------------------------+-------+

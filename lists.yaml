@@ -8,17 +8,17 @@
 
 ## Split Collections
 
-collection_deck_builder:
-  path: 'decks/split_lists/collection_deck_builder.yaml'
-
-collection_extra_deck:
-  path: 'decks/split_lists/collection_extra_deck.yaml'
-
-#collection_deck_core:
-#  path: 'decks/split_lists/collection_deck_core.yaml'
-
-collection_old_school:
-  path: 'decks/split_lists/collection_old_school.yaml'
+#collection_deck_builder:
+#  path: 'decks/split_lists/collection_deck_builder.yaml'
+#
+#collection_extra_deck:
+#  path: 'decks/split_lists/collection_extra_deck.yaml'
+#
+##collection_deck_core:
+##  path: 'decks/split_lists/collection_deck_core.yaml'
+#
+#collection_old_school:
+#  path: 'decks/split_lists/collection_old_school.yaml'
 
 
 ## Current Buylists
@@ -39,32 +39,32 @@ collection_old_school:
 # 1k - Zombies 6 Scr, 3 Ulti, 3 Super (CP) - core
 # 2.3k - frognarch - 10 utr 3 scr
 
-#buylist_demiseotk:  ## It's just a cool fucking deck. reminds me of sneak n show.
-#  path: 'decks/current_buys/buylist_demiseotk.yaml'
-#
-#buylist_dadreturn:  # Secondary TeleDad deck.
-#  path: 'decks/current_buys/buylist_dadreturn.yaml'
-#
-#buylist_machines:  # Secondary Goat / Return deck.
-#  path: 'decks/current_buys/buylist_machines.yaml'
-#
-#buylist_lightswornrulers: ## lightsworn ruler notes: 2014 vs mermails format.
-#  path: 'decks/current_buys/buylist_lightswornrulers.yaml'
+buylist_demiseotk:  ## It's just a cool fucking deck. reminds me of sneak n show.
+  path: 'decks/current_buys/buylist_demiseotk.yaml'
 
-#buylist_mermail: ## mermail notes: cool max rarity, 2013-2014 vs lsruler format.
-#  path: 'decks/current_buys/buylist_mermail.yaml'
-#
-#buylist_2014_extradeck: ## 2014 format extra deck. mostly XYZs
-#  path: 'decks/current_buys/buylist_2014_extradeck.yaml'
+buylist_dadreturn:  # Secondary TeleDad deck.
+  path: 'decks/current_buys/buylist_dadreturn.yaml'
 
-#buylist_lightsworn: # Extra Swag 10/10
-#  path: 'decks/current_buys/buylist_lightsworn.yaml'
+buylist_machines:  # Secondary Goat / Return deck.
+  path: 'decks/current_buys/buylist_machines.yaml'
 
-#buylist_zombies: ## zombie notes: some ultis/secrets, 2009-2010. synergizes with retro light/darks
-#  path: 'decks/current_buys/buylist_zombies.yaml'
-#
-#buylist_frog_monarch: ## frog monarch edison - 2013 - pretty cool stuff.
-#  path: 'decks/current_buys/buylist_frog_monarch.yaml'
+buylist_lightswornrulers: ## lightsworn ruler notes: 2014 vs mermails format.
+  path: 'decks/current_buys/buylist_lightswornrulers.yaml'
+
+buylist_mermail: ## mermail notes: cool max rarity, 2013-2014 vs lsruler format.
+  path: 'decks/current_buys/buylist_mermail.yaml'
+
+buylist_2014_extradeck: ## 2014 format extra deck. mostly XYZs
+  path: 'decks/current_buys/buylist_2014_extradeck.yaml'
+
+buylist_lightsworn: # Extra Swag 10/10
+  path: 'decks/current_buys/buylist_lightsworn.yaml'
+
+buylist_zombies: ## zombie notes: some ultis/secrets, 2009-2010. synergizes with retro light/darks
+  path: 'decks/current_buys/buylist_zombies.yaml'
+
+buylist_frog_monarch: ## frog monarch edison - 2013 - pretty cool stuff.
+  path: 'decks/current_buys/buylist_frog_monarch.yaml'
 
 #buylist_goat:
 #  path: 'decks/current_buys/buylist_goat.yaml'
