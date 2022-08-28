@@ -48439,3 +48439,64 @@ collection_old_school - 2022-08-23
 |       Dark Magician Girl Secret 1st       |   0   |
 |                    test                   |   0   |
 +-------------------------------------------+-------+
+buylist_demiseotk - 2022-08-27
++-------------------------------+-------+
+|              Card             | Price |
++-------------------------------+-------+
+|   Demise UTR 1st - TCG/Seek   |  100  |
+| Doom Dozer UTR 1st - TCG/Seek |   79  |
+|    Ruin UTR 1st - TCG/Seek    |   61  |
+|    Jar of Greed Super - TCG   |   8   |
+|       Manju C 1st - TCG       |   4   |
+|    Gravity Bind R 1st - TCG   |   2   |
+|     Megamorph Ultra - TCG     |   2   |
+|      Senju Rare 1st - TCG     |   2   |
+|   Insect Knight C 1st - TCG   |   1   |
+| Adv Ritual Art Rare 1st - TCG |   0   |
+| Metal Armored Bug C 1st - TCG |   0   |
+|      Neo Bug C 1st - TCG      |   0   |
+|     Sonic Bird C 1st - TCG    |   0   |
+|              test             |   0   |
++-------------------------------+-------+
+buylist_dadreturn - 2022-08-27
++---------------------------------------------------------+-------+
+|                           Card                          | Price |
++---------------------------------------------------------+-------+
+|         Destiny Hero Dasher UTR 1st - TCG / SEEK        |  143  |
+|              armor master utr - TCG / SEEK              |  135  |
+|         Dark Lord Zerato Secret 1st - TCG / SEEK        |   77  |
+|          Dimension Fusion IOC 1st - TCG / SEEK          |   76  |
+|         Destiny Hero Plasma Secret - TCG / SEEK         |   24  |
+|             Gold Sarc GLD 2009 - TCG / SEEK             |   16  |
+| Return from Different Dimension DPKB Super - TCG / SEEK |   13  |
+|             dark strike fighter Super - TCG             |   5   |
+|              Cyber Valley PTDN Super - TCG              |   4   |
+|                 Black Salvo Super - TCG                 |   2   |
+|         Destiny Hero Disk Commander Super - TCG         |   2   |
+|       Mind Crush Champion Pack Super - TCG / SEEK       |   0   |
+|                           test                          |   0   |
++---------------------------------------------------------+-------+
+buylist_machines - 2022-08-27
++-------------------------------+-------+
+|              Card             | Price |
++-------------------------------+-------+
+|  Snipe Hunter cp3 - TCG/seek  |  146  |
+|    Call of the Haunted 1st    |   86  |
+| Premature Burial Ultra 1st NM |   50  |
+|     Confiscation MRL - TCG    |   15  |
+|              test             |   0   |
++-------------------------------+-------+
+buylist_fairies_edison - 2022-08-27
++-----------------------------------+-------+
+|                Card               | Price |
++-----------------------------------+-------+
+|     Archlord Kristya Unlimited    |   68  |
+|   Herald of orange light - rare   |   9   |
+|      dd warrior lady - super      |   2   |
+|    shining angel - rare / hobby   |   2   |
+| soul of light and purity - common |   1   |
+|     ancient sacred wyvern UTR     |   0   |
+|           freed - super           |   0   |
+|        nova summoner - scr        |   0   |
+|                test               |   0   |
++-----------------------------------+-------+
