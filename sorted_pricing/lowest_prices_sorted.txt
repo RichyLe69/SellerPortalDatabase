@@ -48469,3 +48469,69 @@ buylist_fairies_edison - 2022-08-27
 | soul of light and purity - common |   0   |
 |                test               |   0   |
 +-----------------------------------+-------+
+buylist_lightswornrulers - 2022-08-27
++-------------------------------+-------+
+|              Card             | Price |
++-------------------------------+-------+
+|     Upstart lcyw 1st - TCG    |   10  |
+|       Blaster Scr - TCG       |   2   |
+|       Tempest Scr - TCG       |   1   |
+|    kuribandit Scr 1st - TCG   |   1   |
+|   Eclipse Wyvern Super - TCG  |   0   |
+|  Lightray Diabolos Rare - TCG |   0   |
+|       Raiden Super - TCG      |   0   |
+| michael arch lightsworn - TCG |   0   |
+|    minerva baby Super - TCG   |   0   |
+|      needlebug nest - TCG     |   0   |
+|    soul charge Ultra - TCG    |   0   |
+|              test             |   0   |
++-------------------------------+-------+
+buylist_mermail - 2022-08-27
++--------------------------------------------+-------+
+|                    Card                    | Price |
++--------------------------------------------+-------+
+|       Deep Sea Diva Super - TCG/seek       |  219  |
+|     Atlantean Dragoons UTR - TCG/seek      |  112  |
+|     Atlantean Marksman UTR - TCG/seek      |   59  |
+|      Breakthrough Ultimate 1st - TCG       |   38  |
+| Mermail Abyssteus Ultimate 1st - TCG/seek  |   37  |
+| Mermail Abyssmegalo Secret 1st - TCG/seek  |   28  |
+| Mermail Abysslinde Ultimate 1st - TCG/seek |   21  |
+|   Mermail Abyssgaios UTR 1st - TCG/seek    |   16  |
+|          Genex Undive - TCG/seek           |   11  |
+|           Moulinglacia 1st - TCG           |   11  |
+|  Mermail Abyss-sphere Ultimate 1st - TCG   |   10  |
+|   Atlantean Heavy Infrantry Super - TCG    |   8   |
+|        Genex Controller - TCG/seek         |   4   |
+|       Mermail Abyssgunde Super - TCG       |   3   |
+|         Salvage - blue rare - TCG          |   3   |
+|              Tidal Scr - TCG               |   3   |
+|     Mermail Abyssleed Secret 1st - TCG     |   2   |
+|       Mermail Abysspike Super - TCG        |   2   |
+|          Mermail Abysstrite - TCG          |   1   |
+|          soul charge Ultra - TCG           |   0   |
+|                    test                    |   0   |
++--------------------------------------------+-------+
+buylist_2014_extradeck - 2022-08-27
++-------------------------------------+-------+
+|                 Card                | Price |
++-------------------------------------+-------+
+|       Abyss Dweller UTR - TCG       |   81  |
+|     Big Eye AP06 UTR - TCG/seek     |   74  |
+|     gagaga cowboy Utr - TCG/Seek    |   47  |
+| 101 silent honor ark UTR - TCG/Seek |   35  |
+|       Bahamut Shark Scr - TCG       |   30  |
+|   ghostrick alucard UTR - TCG/Seek  |   23  |
+|   Daigusto Emeral Secret 1st - TCG  |   10  |
+|          Minerva XYZ - TCG          |   9   |
+|     diamond dire wolf - TCG/Seek    |   9   |
+|   Lavalval Chain Secret 1st - TCG   |   6   |
+|       draccosack Scr 1st - TCG      |   3   |
+|      Dewloren Secret 1st - TCG      |   2   |
+|    exciton knight Ultra 1st - TCG   |   2   |
+|     80 rhapsody in berserk - TCG    |   1   |
+|       Gungnir Secret 1st - TCG      |   0   |
+|      mechquipped angineer - TCG     |   0   |
+|      starliege paladynamo - TCG     |   0   |
+|                 test                |   0   |
++-------------------------------------+-------+
