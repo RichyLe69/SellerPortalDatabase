@@ -48535,3 +48535,73 @@ buylist_2014_extradeck - 2022-08-27
 |      starliege paladynamo - TCG     |   0   |
 |                 test                |   0   |
 +-------------------------------------+-------+
+buylist_lightsworn - 2022-08-27
++-------------------------------------------------+-------+
+|                       Card                      | Price |
++-------------------------------------------------+-------+
+|        Black Rose Dragon Ghost 1st - SEEK       |  2998 |
+|     Power Tool Dragon Ghost 1st - TCG / SEEK    |  326  |
+|   Stardust Dragon Ghost unl extra - TCG / SEEK  |  295  |
+|  Black Rose Dragon Ghost unl extra - TCG / SEEK |  264  |
+|        crush card virus GLD1 - TCG / SEEK       |  189  |
+|      t roar - champ pack super - TCG / SEEK     |  149  |
+| Monster Reincarnation Ultimate 1st - TCG / SEEK |   59  |
+|              Ryko 1st - TCG / SEEK              |   28  |
+|       royal decree db2 super - TCG / SEEK       |   14  |
+|         Tempest Magician Scr 1st - SEEK         |   0   |
+|           cold wave - common 1st - TCG          |   0   |
+|          phantom of chaos - super - TCG         |   0   |
+|     red dragon archfiend Ultimate 1st - SEEK    |   0   |
+|                       test                      |   0   |
++-------------------------------------------------+-------+
+buylist_zombies - 2022-08-27
++-------------------------------------------------+-------+
+|                       Card                      | Price |
++-------------------------------------------------+-------+
+| pyramid turtle - super champion pack - TCG/seek |  179  |
+|      Zombie Master UTR Taev 1st - TCG/seek      |   77  |
+|          Mezuki Secret pp02 - TCG/seek          |   35  |
+|       Goblin Zombie Secret PTDN - TCG/seek      |   32  |
+|    card of safe return ultra Unlimited - TCG    |   3   |
+|      book of life pgd Super Unlimited - TCG     |   1   |
+| burial from a diff dimension - dp03 ultra - TCG |   0   |
+|                       test                      |   0   |
++-------------------------------------------------+-------+
+buylist_frog_monarch - 2022-08-27
++----------------------------------------------------+-------+
+|                        Card                        | Price |
++----------------------------------------------------+-------+
+|   Light Darkness Dragon Secret - RP02 - TCG/seek   |  599  |
+|                Swap Frog UTR - seek                |  270  |
+|                Raiza UTR 1st - seek                |  159  |
+|        Destiny Hero Fear monger - Super Cp         |   65  |
+|          battle fader UTR 1st - TCG/seek           |   50  |
+| Light Darkness Dragon Secret - GX promo - TCG/seek |   44  |
+|           Soul exchange Super 1st - TCG            |   19  |
+|             substitoad rare 1st - TCG              |   12  |
+|             dark dust spirit HL - TCG              |   9   |
+|             dupe frog common 1st - TCG             |   1   |
+|            Treeborn Frog UTR 1st - seek            |   0   |
+|                        test                        |   0   |
++----------------------------------------------------+-------+
+buylist_cool_singles - 2022-08-27
++--------------------------------+-------+
+|              Card              | Price |
++--------------------------------+-------+
+|    Rainbow Dragon Ghost 1st    |  599  |
+|       rainbow neos ghost       |  499  |
+|     Blue eyes toon scr 1st     |  494  |
+|         Dad secret 1st         |  398  |
+|    sapphire pegasus utr 1st    |  333  |
+|     ehero chaos 1st ghost      |  309  |
+|         JD Secret 1st          |  280  |
+|     rainbow dragon scr 1st     |  239  |
+| dark rainbow dragon secret 1st |  199  |
+|            yata 1st            |  180  |
+|      topaz tiger utr 1st       |  149  |
+|      ancient city UTR 1st      |  129  |
+|         gemini scr 1st         |  117  |
+|        rare val utr 1st        |   39  |
+|            ruby HL             |   14  |
+|              test              |   0   |
++--------------------------------+-------+

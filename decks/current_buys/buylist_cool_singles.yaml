@@ -1,37 +1,37 @@
 ###### High Priority #######
 
 Dad secret 1st:
-  url: 11111
+  url: 26620
   edition: 'Near Mint 1st'
   qty: 3
 
 JD Secret 1st:
-  url: 11111
+  url: 26720
   edition: 'Near Mint 1st'
   qty: 3
 
 dark rainbow dragon secret 1st:
-  url: 11111
+  url: 26604
   edition: 'Near Mint 1st'
   qty: 1
 
 Blue eyes toon scr 1st:
-  url: 11111
+  url: 21791
   edition: 'Near Mint 1st'
   qty: 1
 
-rainbow dragon scr:
-  url: 11111
+rainbow dragon scr 1st:
+  url: 26084
   edition: 'Near Mint 1st'
   qty: 1
 
 yata 1st:
-  url: 11111
+  url: 22601
   edition: 'Near Mint 1st'
   qty: 1
 
 gemini scr 1st:
-  url: 11111
+  url: 22011
   edition: 'Near Mint 1st'
   qty: 1
 
@@ -39,37 +39,44 @@ gemini scr 1st:
 ###### Medium Priority #######
 
 Rainbow Dragon Ghost 1st:
-  url: 11111
+  url: 57794
   edition: 'Near Mint 1st'
   qty: 3
 
-sapphire pegasus utr:
-  url: 11111
+sapphire pegasus utr 1st:
+  url: 58539
   edition: 'Near Mint 1st'
   qty: 3
 
-topaz tiger utr:
-  url: 11111
+topaz tiger utr 1st:
+  url: 58538
   edition: 'Near Mint 1st'
   qty: 3
 
 ruby HL:
-  url: 11111
+  url: 26554
   edition: 'Near Mint 1st'
   qty: 3
 
-ancient city UTR:
-  url: 11111
+ancient city UTR 1st:
+  url: 58542
   edition: 'Near Mint 1st'
   qty: 3
 
-rare val utr:
-  url: 11111
+rare val utr 1st:
+  url: 58611
   edition: 'Near Mint 1st'
   qty: 3
 
-#ehero chaos 1st ghost
-#rainbow neos ghost
+ehero chaos 1st ghost:
+  url: 27485
+  edition: 'Near Mint 1st'
+  qty: 1
+
+rainbow neos ghost:
+  url: 27476
+  edition: 'Near Mint 1st'
+  qty: 1
 
 
 ###### Low Priority ######
