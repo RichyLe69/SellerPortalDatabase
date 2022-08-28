@@ -1,16 +1,16 @@
 ## Split Collections
 
-#collection_deck_builder:
-#  path: 'decks/split_lists/collection_deck_builder.yaml'
-#
-#collection_extra_deck:
-#  path: 'decks/split_lists/collection_extra_deck.yaml'
-#
-##collection_deck_core:
-##  path: 'decks/split_lists/collection_deck_core.yaml'
-#
-#collection_old_school:
-#  path: 'decks/split_lists/collection_old_school.yaml'
+collection_deck_builder:
+  path: 'decks/split_lists/collection_deck_builder.yaml'
+
+collection_extra_deck:
+  path: 'decks/split_lists/collection_extra_deck.yaml'
+
+#collection_deck_core:
+#  path: 'decks/split_lists/collection_deck_core.yaml'
+
+collection_old_school:
+  path: 'decks/split_lists/collection_old_school.yaml'
 
 
 ## Current Buylists
@@ -50,17 +50,17 @@
 
 ###################################
 
-buylist_lightsworn: # Extra Swag 10/10
-  path: 'decks/current_buys/buylist_lightsworn.yaml'
-
-buylist_zombies: ## zombie notes: some ultis/secrets, 2009-2010. synergizes with retro light/darks
-  path: 'decks/current_buys/buylist_zombies.yaml'
-
-buylist_frog_monarch: ## frog monarch edison - 2013 - pretty cool stuff.
-  path: 'decks/current_buys/buylist_frog_monarch.yaml'
-
-buylist_cool_singles:  #  cool singles notes: just cool singles for photos/collections
-  path: 'decks/current_buys/buylist_cool_singles.yaml'
+#buylist_lightsworn: # Extra Swag 10/10
+#  path: 'decks/current_buys/buylist_lightsworn.yaml'
+#
+#buylist_zombies: ## zombie notes: some ultis/secrets, 2009-2010. synergizes with retro light/darks
+#  path: 'decks/current_buys/buylist_zombies.yaml'
+#
+#buylist_frog_monarch: ## frog monarch edison - 2013 - pretty cool stuff.
+#  path: 'decks/current_buys/buylist_frog_monarch.yaml'
+#
+#buylist_cool_singles:  #  cool singles notes: just cool singles for photos/collections
+#  path: 'decks/current_buys/buylist_cool_singles.yaml'
 
 ################################
 
