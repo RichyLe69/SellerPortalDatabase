@@ -48860,3 +48860,152 @@ collection_old_school - 2022-08-28
 |         Imperial Order PSV Secret         |   2   |
 |                    test                   |   0   |
 +-------------------------------------------+-------+
+buylist_demiseotk - 2022-08-28
++-------------------------------+-------+
+|              Card             | Price |
++-------------------------------+-------+
+|   Demise UTR 1st - TCG/Seek   |  103  |
+|    Ruin UTR 1st - TCG/Seek    |   68  |
+| Doom Dozer UTR 1st - TCG/Seek |   59  |
+|    Jar of Greed Super - TCG   |   7   |
+| Adv Ritual Art Rare 1st - TCG |   2   |
+|       Manju C 1st - TCG       |   2   |
+|     Megamorph Ultra - TCG     |   2   |
+|    Gravity Bind R 1st - TCG   |   1   |
+|   Insect Knight C 1st - TCG   |   1   |
+| Metal Armored Bug C 1st - TCG |   0   |
+|      Neo Bug C 1st - TCG      |   0   |
+|      Senju Rare 1st - TCG     |   0   |
+|     Sonic Bird C 1st - TCG    |   0   |
+|              test             |   0   |
++-------------------------------+-------+
+buylist_dadreturn - 2022-08-28
++---------------------------------------------------------+-------+
+|                           Card                          | Price |
++---------------------------------------------------------+-------+
+|                 Dark Grepher Secret 1st                 |  180  |
+|         Destiny Hero Dasher UTR 1st - TCG / SEEK        |  149  |
+|              armor master utr - TCG / SEEK              |  126  |
+|       Mind Crush Champion Pack Super - TCG / SEEK       |  119  |
+|         Dark Lord Zerato Secret 1st - TCG / SEEK        |   76  |
+|          Dimension Fusion IOC 1st - TCG / SEEK          |   60  |
+|             Armageddon Knight PTDN 1st Super            |   37  |
+|         Destiny Hero Plasma Secret - TCG / SEEK         |   19  |
+|             Gold Sarc GLD 2009 - TCG / SEEK             |   13  |
+| Return from Different Dimension DPKB Super - TCG / SEEK |   13  |
+|             dark strike fighter Super - TCG             |   6   |
+|              Cyber Valley PTDN Super - TCG              |   3   |
+|                 Black Salvo Super - TCG                 |   1   |
+|         Destiny Hero Disk Commander Super - TCG         |   0   |
+|                           test                          |   0   |
++---------------------------------------------------------+-------+
+buylist_machines - 2022-08-28
++-------------------------------+-------+
+|              Card             | Price |
++-------------------------------+-------+
+|  Snipe Hunter cp3 - TCG/seek  |  121  |
+|    Call of the Haunted 1st    |   68  |
+| Premature Burial Ultra 1st NM |   59  |
+|     Confiscation MRL - TCG    |   15  |
+|              test             |   0   |
++-------------------------------+-------+
+buylist_zombies - 2022-08-28
++-------------------------------------------------+-------+
+|                       Card                      | Price |
++-------------------------------------------------+-------+
+| pyramid turtle - super champion pack - TCG/seek |  179  |
+|       Goblin Zombie Secret PTDN - TCG/seek      |  124  |
+|      Zombie Master UTR Taev 1st - TCG/seek      |   77  |
+|          Mezuki Secret pp02 - TCG/seek          |   35  |
+|    card of safe return ultra Unlimited - TCG    |   3   |
+|      book of life pgd Super Unlimited - TCG     |   1   |
+| burial from a diff dimension - dp03 ultra - TCG |   0   |
+|                       test                      |   0   |
++-------------------------------------------------+-------+
+buylist_mermail - 2022-08-28
++--------------------------------------------+-------+
+|                    Card                    | Price |
++--------------------------------------------+-------+
+|       Deep Sea Diva Super - TCG/seek       |  219  |
+|     Atlantean Dragoons UTR - TCG/seek      |  111  |
+|     Atlantean Marksman UTR - TCG/seek      |   55  |
+|      Breakthrough Ultimate 1st - TCG       |   38  |
+| Mermail Abyssteus Ultimate 1st - TCG/seek  |   37  |
+| Mermail Abyssmegalo Secret 1st - TCG/seek  |   28  |
+| Mermail Abysslinde Ultimate 1st - TCG/seek |   22  |
+|          Genex Undive - TCG/seek           |   11  |
+|           Moulinglacia 1st - TCG           |   11  |
+|  Mermail Abyss-sphere Ultimate 1st - TCG   |   9   |
+|   Atlantean Heavy Infrantry Super - TCG    |   7   |
+|        Genex Controller - TCG/seek         |   4   |
+|       Mermail Abyssgunde Super - TCG       |   3   |
+|         Salvage - blue rare - TCG          |   3   |
+|              Tidal Scr - TCG               |   3   |
+|     Mermail Abyssleed Secret 1st - TCG     |   2   |
+|       Mermail Abysspike Super - TCG        |   2   |
+|          soul charge Ultra - TCG           |   0   |
+|                    test                    |   0   |
++--------------------------------------------+-------+
+buylist_lightsworn - 2022-08-28
++-------------------------------------------------+-------+
+|                       Card                      | Price |
++-------------------------------------------------+-------+
+|        Black Rose Dragon Ghost 1st - SEEK       |  2998 |
+|     Power Tool Dragon Ghost 1st - TCG / SEEK    |  326  |
+|   Stardust Dragon Ghost unl extra - TCG / SEEK  |  295  |
+|  Black Rose Dragon Ghost unl extra - TCG / SEEK |  264  |
+|        crush card virus GLD1 - TCG / SEEK       |  189  |
+|      t roar - champ pack super - TCG / SEEK     |  149  |
+| Monster Reincarnation Ultimate 1st - TCG / SEEK |   54  |
+|              Ryko 1st - TCG / SEEK              |   28  |
+|       royal decree db2 super - TCG / SEEK       |   14  |
+|         Tempest Magician Scr 1st - SEEK         |   0   |
+|           cold wave - common 1st - TCG          |   0   |
+|          phantom of chaos - super - TCG         |   0   |
+|     red dragon archfiend Ultimate 1st - SEEK    |   0   |
+|                       test                      |   0   |
++-------------------------------------------------+-------+
+buylist_cool_singles - 2022-08-28
++--------------------------------+-------+
+|              Card              | Price |
++--------------------------------+-------+
+|    Rainbow Dragon Ghost 1st    |  599  |
+|       rainbow neos ghost       |  499  |
+|     Blue eyes toon scr 1st     |  494  |
+|         Dad secret 1st         |  398  |
+|    sapphire pegasus utr 1st    |  333  |
+|     ehero chaos 1st ghost      |  309  |
+|         JD Secret 1st          |  280  |
+|     rainbow dragon scr 1st     |  239  |
+| dark rainbow dragon secret 1st |  199  |
+|            yata 1st            |  180  |
+|      topaz tiger utr 1st       |  149  |
+|      ancient city UTR 1st      |  129  |
+|         gemini scr 1st         |  118  |
+|        rare val utr 1st        |   39  |
+|            ruby HL             |   14  |
+|              test              |   0   |
++--------------------------------+-------+
+buylist_foreign_converts - 2022-08-28
++--------------------------------------+-------+
+|                 Card                 | Price |
++--------------------------------------+-------+
+|          Maxx C Ultimate EN          |  899  |
+|  Plaguespreader Zombie Ultimate 1st  |  888  |
+|      Trap Dustshoot Super CP EN      |  425  |
+|        Tour Guide Ultimate EN        |  289  |
+|    Emegency Teleport Ultimate 1st    |  229  |
+|    Pot of Avarice Ultimate 1st EN    |  202  |
+|    Pot of Greed Ultimate 1st - EN    |  200  |
+|      Goyo Guardian Ultimate 1st      |  147  |
+|     revived king ha des utr 1st      |   99  |
+|          Doomkaiser utr 1st          |   74  |
+|       Glowup Bulb Ultimate EN        |   70  |
+| Thought Ruler Archfiend Ultimate 1st |   70  |
+|         Krebos Super TU EN)          |   57  |
+|      Diamond Dude Ultimate 1st       |   52  |
+|     Scrap Dragon Ultimate 1st EN     |   49  |
+|         Armory Arm Ultra 1st         |   4   |
+|       Scapegoat Ultra RP01 EN        |   0   |
+|                 test                 |   0   |
++--------------------------------------+-------+
