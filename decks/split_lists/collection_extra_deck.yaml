@@ -208,107 +208,107 @@ Flame Wingman Ultimate 1st UDE:
   edition: 'Near Mint 1st'
   qty: 1.1
 
-Thunder Giant Ultimate 1st ITA:
-  url: 58748
-  edition: 'Near Mint 1st'
-  qty: 0.3
-
-Rampart Blaster Ultimate 1st GER:
-  url: 58615
-  edition: 'Near Mint 1st'
-  qty: 0.3
-
-Tempest Ultimate 1st GER:
-  url: 58616
-  edition: 'Near Mint 1st'
-  qty: 0.3
-
-Shining Flame Wingman Ultimate GER:
-  url: 58618
-  edition: 'Near Mint Unlimited'
-  qty: 0.3
-
-Phoenix Enforcer Ultimate 1st ITA:
-  url: 58667
-  edition: 'Near Mint 1st'
-  qty: 0.3
-
-Shining Phoenix Enforcer Ultimate 1st ITA:
-  url: 58668
-  edition: 'Near Mint 1st'
-  qty: 0.3
-
-Wild Wingman Ultimate 1st GER:
-  url: 58669
-  edition: 'Near Mint 1st'
-  qty: 0.3
-
-Wildedge Ultimate GER:
-  url: 58617
-  edition: 'Near Mint Unlimited'
-  qty: 0.3
-
-Darkbridge UTR UNL:
-  url: 58534
-  edition: 'Near Mint Unlimited'
-  qty: 1
-
-Neos Knight UTR 1st:
-  url: 58413
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Aqua Neos Ultimate 1st UDE:
-  url: 58640
-  edition: 'Near Mint 1st'
-  qty: 0.3
-
-Flare Neos Ultimate 1st ger:
-  url: 58641
-  edition: 'Near Mint 1st'
-  qty: 0.3
-
-Dark Neos Ultimate UNL ger:
-  url: 58642
-  edition: 'Near Mint Unlimited'
-  qty: 0.3
-
-Air Neos Ultimate 1st ger:
-  url: 58556
-  edition: 'Near Mint 1st'
-  qty: 0.3
-
-Grand Neos Ultimate 1st ger:
-  url: 58557
-  edition: 'Near Mint 1st'
-  qty: 0.3
-
-Light neos Ultimate 1st ita:
-  url: 58558
-  edition: 'Near Mint 1st'
-  qty: 0.3
+#Thunder Giant Ultimate 1st ITA:
+#  url: 58748
+#  edition: 'Near Mint 1st'
+#  qty: 0.3
+#
+#Rampart Blaster Ultimate 1st GER:
+#  url: 58615
+#  edition: 'Near Mint 1st'
+#  qty: 0.3
+#
+#Tempest Ultimate 1st GER:
+#  url: 58616
+#  edition: 'Near Mint 1st'
+#  qty: 0.3
+#
+#Shining Flame Wingman Ultimate GER:
+#  url: 58618
+#  edition: 'Near Mint Unlimited'
+#  qty: 0.3
+#
+#Phoenix Enforcer Ultimate 1st ITA:
+#  url: 58667
+#  edition: 'Near Mint 1st'
+#  qty: 0.3
+#
+#Shining Phoenix Enforcer Ultimate 1st ITA:
+#  url: 58668
+#  edition: 'Near Mint 1st'
+#  qty: 0.3
+#
+#Wild Wingman Ultimate 1st GER:
+#  url: 58669
+#  edition: 'Near Mint 1st'
+#  qty: 0.3
+#
+#Wildedge Ultimate GER:
+#  url: 58617
+#  edition: 'Near Mint Unlimited'
+#  qty: 0.3
+#
+#Darkbridge UTR UNL:
+#  url: 58534
+#  edition: 'Near Mint Unlimited'
+#  qty: 1
+#
+#Neos Knight UTR 1st:
+#  url: 58413
+#  edition: 'Near Mint 1st'
+#  qty: 1
+#
+#Aqua Neos Ultimate 1st UDE:
+#  url: 58640
+#  edition: 'Near Mint 1st'
+#  qty: 0.3
+#
+#Flare Neos Ultimate 1st ger:
+#  url: 58641
+#  edition: 'Near Mint 1st'
+#  qty: 0.3
+#
+#Dark Neos Ultimate UNL ger:
+#  url: 58642
+#  edition: 'Near Mint Unlimited'
+#  qty: 0.3
+#
+#Air Neos Ultimate 1st ger:
+#  url: 58556
+#  edition: 'Near Mint 1st'
+#  qty: 0.3
+#
+#Grand Neos Ultimate 1st ger:
+#  url: 58557
+#  edition: 'Near Mint 1st'
+#  qty: 0.3
+#
+#Light neos Ultimate 1st ita:
+#  url: 58558
+#  edition: 'Near Mint 1st'
+#  qty: 0.3
 
 Cyber End Dragon Ultimate UNL ITA GER:
   url: 58724
   edition: 'Near Mint Unlimited'
-  qty: 0.9
+  qty: 0.75
 
 Cyber Twin Dragon Ultimate 1st GER:
   url: 58723
   edition: 'Near Mint 1st'
-  qty: 0.9
+  qty: 0.75
 
 Cyber Dark Dragon Ultimate 1st GER:
   url: 58586
   edition: 'Near Mint 1st'
-  qty: 0.3
+  qty: 0.75
 
 Cyber Dark Dragon Ultimate UNL GER:
   url: 58586
   edition: 'Near Mint Unlimited'
-  qty: 0.6
+  qty: 0.75
 
 Chimeratech Ultimate GER:
   url: 58643
   edition: 'Near Mint Unlimited'
-  qty: 0.9
+  qty: 3

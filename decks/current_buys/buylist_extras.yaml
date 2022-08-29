@@ -4,12 +4,10 @@
 
 # Finish playsets / additional cards for collection
 
-
 Lonefire cp7:
   url: 33077
   edition: 'Near Mint'
   qty: 1
-
 
 #  [swag 7.5/10]
 #  exodia
@@ -33,6 +31,16 @@ Lonefire cp7:
 # kycoo 1st
 # Creature swap lod ultra
 
+
+#   fusion rares (goat fusion deck)
+#charubin the fire knight
+#fusionist
+#flame ghost
+#metal dragon
+#flower wolf
+#twin headed thunder dragon
+
+
 ############################
 
 #Gorz RP02:
@@ -40,68 +48,15 @@ Lonefire cp7:
 #  edition:  'Near Mint Limited'
 #  qty: 1
 #
-
-
 #Glowup Bulb Ultimate:
 #  url: 58425
 #  edition: 'Near Mint 1st'
 #  qty: 1
 
-# cold wave
-
-
-#Spirit Reaper Super CP:
-#  url: 26037
-#  edition: 'Near Mint Unlimited'
-#  qty: 1
-#Debris Dragon Ultimate:
-#  url: 77988
-#  edition: 'Near Mint Unlimited'
-#  qty: 1
-
-#Dandylion Ultimate:
-#  url: 79456
-#  edition: 'Near Mint Unlimited'
-#  qty: 1
-#Chaos Emperor Dragon Ultimate 1st:
-#  url: 35063
-#  edition: 'Near Mint 1st'
-#  qty: 2
-#Black Luster Soldier EOTB Ultra 1st:
-#  url: 23112
-#  edition: 'Near Mint 1st'
-#  qty: 1
-
-#Thunder King Raioh UTR TU8:
-#  url: 66773
-#  edition: 'Near Mint'
-#  qty: 1
-
-#Tsukuyomi Ultimate:
-#  url: 77987
-#  edition: 'Near Mint'
-#  qty: 1
-
-#Spirit Reaper cp3:
-#  url: 26037
-#  edition: 'Near Mint'
-#  qty: 1
-
-#Card Destruction SDY 1st:
-#  url: 22648
-#  edition: 'Near Mint 1st'
-#  qty: 1
-
-
-# Turbo Pack Ultimates & Ultras
+# Turbo Pack Ultimates & Ultras - EXTRA HOARD!
 
 #Judgment Dragon TU1:
 #  url: 33224
-#  edition: 'Near Mint'
-#  qty: 6
-#
-#Tragoedia TU4:
-#  url: 38641
 #  edition: 'Near Mint'
 #  qty: 6
 #
@@ -115,16 +70,6 @@ Lonefire cp7:
 #  edition: 'Near Mint'
 #  qty: 3
 
-#Quickdraw Synchron TU6:
-#  url: 66736
-#  edition: 'Near Mint'
-#  qty: 1
-
-
-
-#
-
-#
 #Battle Fader Ultimate 1st:
 #  url: 58454
 #  edition: 'Near Mint 1st'
@@ -134,7 +79,7 @@ Lonefire cp7:
 #  url: 26481
 #  edition: 'Near Mint'
 #  qty: 2
-#
+
 #Utopia Ray Ghost 1st:
 #  url: 57790
 #  edition: 'Near Mint 1st'
