@@ -3,24 +3,31 @@
 
 #########################
 #YGO TODO
-#[] Take pics of foreign converts
-#[] start trading off foreign converts for wants/buylists
+#[x] Take pics of foreign converts
+#[wip] start trading off foreign converts for wants/buylists
+#[] 3 ocg ultis - 2 bewd, 1 red eyes, xyz dragon cannon, exchange
+#[] 2 MRD foils - 7 tools, garnecia elefantis, catapult turtle, twin headed thunder
+#[] secrets for bpt page - 2 summoned skull bpt 1 mrd, 1 b skull MRD
+#[] convert vintage 1sts to unlim
+  # 2x gate guardian unlim
+  # ced eote scr unlim
+
 
 #########################
 
 ## Split Collections
 
-collection_deck_builder:
-  path: 'decks/split_lists/collection_deck_builder.yaml'
-
-collection_extra_deck:
-  path: 'decks/split_lists/collection_extra_deck.yaml'
-
-#collection_deck_core:
-#  path: 'decks/split_lists/collection_deck_core.yaml'
-
-collection_old_school:
-  path: 'decks/split_lists/collection_old_school.yaml'
+#collection_deck_builder:
+#  path: 'decks/split_lists/collection_deck_builder.yaml'
+#
+#collection_extra_deck:
+#  path: 'decks/split_lists/collection_extra_deck.yaml'
+#
+##collection_deck_core:
+##  path: 'decks/split_lists/collection_deck_core.yaml'
+#
+#collection_old_school:
+#  path: 'decks/split_lists/collection_old_school.yaml'
 
 
 ## Current Buylists
@@ -35,6 +42,7 @@ collection_old_school:
   # 1k - Mermail 19 Ultis, 8 Scr, 5 Dt - deck 2013-14 (no diva)
     # 2.6k - ls swag (no brd 1st)
     # cool singles
+    # 5.7k - foreign converts
       # 2.3k - frognarch - 10 utr 3 scr
       # 336 - 2014 extra deck
       # 35  - lightsworn rulers - deck core
@@ -66,8 +74,8 @@ collection_old_school:
 
 ####################################
 
-#buylist_foreign_converts:  #  foreign converts, trade bait.
-#  path: 'decks/current_buys/buylist_foreign_converts.yaml'
+buylist_foreign_converts:  #  foreign converts, trade bait.
+  path: 'decks/current_buys/buylist_foreign_converts.yaml'
 
 ################################
 
