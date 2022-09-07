@@ -4,40 +4,6 @@
 
 # Fully Listed
 
-# For Extra Deck Binder Ghost page spread
-
-Stardust Dragon Ghost unl extra - TCG / SEEK:
-  url: 57793
-  edition: 'Near Mint Unlimited'
-  qty: 3
-
-Black Rose Dragon Ghost unl extra - TCG / SEEK:
-  url: 28432
-  edition: 'Near Mint Unlimited'
-  qty: 3
-
-Power Tool Dragon Ghost 1st - TCG / SEEK:
-  url: 31944
-  edition: 'Near Mint 1st'
-  qty: 1
-
-# Extra Deck needs - cumulative
-
-Black Rose Dragon Ghost 1st - SEEK:
-  url: 28432
-  edition: 'Near Mint 1st'
-  qty: 1
-
-red dragon archfiend Ultimate 1st - SEEK:
-  url: 58519
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Tempest Magician Scr 1st - SEEK:
-  url: 28481
-  edition: 'Near Mint 1st'
-  qty: 1
-
 # Pre-synchro Lightsworn swag 9/10
 
 crush card virus GLD1 - TCG / SEEK:
@@ -60,10 +26,10 @@ Ryko 1st - TCG / SEEK:
   edition: 'Near Mint 1st'
   qty: 3
 
-t roar - champ pack super - TCG / SEEK:
-  url: 33075
-  edition: 'Near Mint'
-  qty: 2
+Garoth TU:
+  url: 33226
+  edition: 'Near Mint Unlimited'
+  qty: 1
 
 cold wave - common 1st - TCG:
   url: 21837
@@ -74,6 +40,12 @@ phantom of chaos - super - TCG:
   url: 26687
   edition: 'Near Mint'
   qty: 1
+
+t roar - champ pack super - TCG / SEEK:
+  url: 33075
+  edition: 'Near Mint'
+  qty: 2
+
 
 
 ####### ARCHIVE ##########
