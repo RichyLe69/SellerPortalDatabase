@@ -47,32 +47,30 @@
       # 336 - 2014 extra deck
       # 35  - lightsworn rulers - deck core
 
-buylist_demiseotk:  ## It's just a cool fucking deck. reminds me of sneak n show.
-  path: 'decks/current_buys/buylist_demiseotk.yaml'
-
-buylist_dadreturn:  # Secondary TeleDad deck.
-  path: 'decks/current_buys/buylist_dadreturn.yaml'
-
-buylist_machines:  # Secondary Goat / Return deck.
-  path: 'decks/current_buys/buylist_machines.yaml'
-
-###################################
-
-#buylist_zombies: ## zombie notes: some ultis/secrets, 2009-2010. synergizes with retro light/darks
-#  path: 'decks/current_buys/buylist_zombies.yaml'
+#buylist_demiseotk:  ## It's just a cool fucking deck. reminds me of sneak n show.
+#  path: 'decks/current_buys/buylist_demiseotk.yaml'
 #
-#buylist_mermail: ## mermail notes: cool max rarity, 2013-2014 vs lsruler format.
-#  path: 'decks/current_buys/buylist_mermail.yaml'
-
-###################################
-
+#buylist_dadreturn:  # Secondary TeleDad deck.
+#  path: 'decks/current_buys/buylist_dadreturn.yaml'
+#
+#buylist_machines:  # Secondary Goat / Return deck.
+#  path: 'decks/current_buys/buylist_machines.yaml'
+#
 #buylist_lightsworn: # Extra Swag 10/10
 #  path: 'decks/current_buys/buylist_lightsworn.yaml'
-#
+
+###################################
+
+buylist_zombies: ## zombie notes: some ultis/secrets, 2009-2010. synergizes with retro light/darks
+  path: 'decks/current_buys/buylist_zombies.yaml'
+
+buylist_mermail: ## mermail notes: cool max rarity, 2013-2014 vs lsruler format.
+  path: 'decks/current_buys/buylist_mermail.yaml'
+
+###################################
+
 #buylist_cool_singles:  #  cool singles notes: just cool singles for photos/collections
 #  path: 'decks/current_buys/buylist_cool_singles.yaml'
-
-####################################
 
 #buylist_foreign_converts:  #  foreign converts, trade bait.
 #  path: 'decks/current_buys/buylist_foreign_converts.yaml'

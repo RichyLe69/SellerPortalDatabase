@@ -49671,3 +49671,66 @@ buylist_foreign_converts - 2022-09-05
 |       Scapegoat Ultra RP01 EN        |   0   |
 |                 test                 |   0   |
 +--------------------------------------+-------+
+buylist_demiseotk - 2022-09-06
++-------------------------------+-------+
+|              Card             | Price |
++-------------------------------+-------+
+|   Demise UTR 1st - TCG/Seek   |  100  |
+| Doom Dozer UTR 1st - TCG/Seek |   79  |
+|    Ruin UTR 1st - TCG/Seek    |   68  |
+|    Jar of Greed Super - TCG   |   8   |
+|       Manju C 1st - TCG       |   4   |
+|    Gravity Bind R 1st - TCG   |   2   |
+|     Megamorph Ultra - TCG     |   2   |
+|      Senju Rare 1st - TCG     |   2   |
+|   Insect Knight C 1st - TCG   |   1   |
+| Adv Ritual Art Rare 1st - TCG |   0   |
+| Metal Armored Bug C 1st - TCG |   0   |
+|      Neo Bug C 1st - TCG      |   0   |
+|     Sonic Bird C 1st - TCG    |   0   |
+|              test             |   0   |
++-------------------------------+-------+
+buylist_dadreturn - 2022-09-06
++---------------------------------------------------------+-------+
+|                           Card                          | Price |
++---------------------------------------------------------+-------+
+|                 Dark Grepher Secret 1st                 |  141  |
+|         Destiny Hero Dasher UTR 1st - TCG / SEEK        |  136  |
+|              armor master utr - TCG / SEEK              |  126  |
+|          Dimension Fusion IOC 1st - TCG / SEEK          |   76  |
+|         Destiny Hero Plasma Secret - TCG / SEEK         |   22  |
+|             Gold Sarc GLD 2009 - TCG / SEEK             |   16  |
+| Return from Different Dimension DPKB Super - TCG / SEEK |   13  |
+|             Armageddon Knight PTDN 1st Super            |   12  |
+|             dark strike fighter Super - TCG             |   5   |
+|              Cyber Valley PTDN Super - TCG              |   4   |
+|                 Black Salvo Super - TCG                 |   2   |
+|         Destiny Hero Disk Commander Super - TCG         |   2   |
+|         Dark Lord Zerato Secret 1st - TCG / SEEK        |   0   |
+|       Mind Crush Champion Pack Super - TCG / SEEK       |   0   |
+|                           test                          |   0   |
++---------------------------------------------------------+-------+
+buylist_machines - 2022-09-06
++-------------------------------+-------+
+|              Card             | Price |
++-------------------------------+-------+
+|  Snipe Hunter cp3 - TCG/seek  |  146  |
+|    Call of the Haunted 1st    |   90  |
+| Premature Burial Ultra 1st NM |   50  |
+|     Confiscation MRL - TCG    |   15  |
+|              test             |   0   |
++-------------------------------+-------+
+buylist_lightsworn - 2022-09-06
++-------------------------------------------------+-------+
+|                       Card                      | Price |
++-------------------------------------------------+-------+
+|        crush card virus GLD1 - TCG / SEEK       |  218  |
+| Monster Reincarnation Ultimate 1st - TCG / SEEK |   62  |
+|              Ryko 1st - TCG / SEEK              |   28  |
+|                    Garoth TU                    |   25  |
+|       royal decree db2 super - TCG / SEEK       |   16  |
+|           cold wave - common 1st - TCG          |   1   |
+|          phantom of chaos - super - TCG         |   1   |
+|      t roar - champ pack super - TCG / SEEK     |   0   |
+|                       test                      |   0   |
++-------------------------------------------------+-------+
