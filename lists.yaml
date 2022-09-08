@@ -61,19 +61,19 @@
 
 ###################################
 
-buylist_zombies: ## zombie notes: some ultis/secrets, 2009-2010. synergizes with retro light/darks
-  path: 'decks/current_buys/buylist_zombies.yaml'
-
-buylist_mermail: ## mermail notes: cool max rarity, 2013-2014 vs lsruler format.
-  path: 'decks/current_buys/buylist_mermail.yaml'
+#buylist_zombies: ## zombie notes: some ultis/secrets, 2009-2010. synergizes with retro light/darks
+#  path: 'decks/current_buys/buylist_zombies.yaml'
+#
+#buylist_mermail: ## mermail notes: cool max rarity, 2013-2014 vs lsruler format.
+#  path: 'decks/current_buys/buylist_mermail.yaml'
 
 ###################################
 
-#buylist_cool_singles:  #  cool singles notes: just cool singles for photos/collections
-#  path: 'decks/current_buys/buylist_cool_singles.yaml'
+buylist_cool_singles:  #  cool singles notes: just cool singles for photos/collections
+  path: 'decks/current_buys/buylist_cool_singles.yaml'
 
-#buylist_foreign_converts:  #  foreign converts, trade bait.
-#  path: 'decks/current_buys/buylist_foreign_converts.yaml'
+buylist_foreign_converts:  #  foreign converts, trade bait.
+  path: 'decks/current_buys/buylist_foreign_converts.yaml'
 
 ################################
 

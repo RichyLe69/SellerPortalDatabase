@@ -49740,3 +49740,55 @@ buylist_mermail - 2022-09-07
 |          soul charge Ultra - TCG           |   0   |
 |                    test                    |   0   |
 +--------------------------------------------+-------+
+buylist_cool_singles - 2022-09-07
++------------------------------------------------+-------+
+|                      Card                      | Price |
++------------------------------------------------+-------+
+|       Black Rose Dragon Ghost 1st - SEEK       |  2998 |
+|                    dds bewd                    |  2388 |
+|                red eyes lob 1st                |  1064 |
+|                     dds dm                     |  770  |
+|                  time wiz 1st                  |  769  |
+|             Blue eyes toon scr 1st             |  494  |
+|                  b skull 1st                   |  429  |
+|               summoned skull 1st               |  399  |
+|                 Dad secret 1st                 |  398  |
+|  Stardust Dragon Ghost unl extra - TCG / SEEK  |  352  |
+|    Power Tool Dragon Ghost 1st - TCG / SEEK    |  326  |
+|                 JD Secret 1st                  |  277  |
+| Black Rose Dragon Ghost unl extra - TCG / SEEK |  264  |
+|             rainbow dragon scr 1st             |  229  |
+|         dark rainbow dragon secret 1st         |  199  |
+|                   dds exodia                   |  183  |
+|                    yata 1st                    |  180  |
+|                 gemini scr 1st                 |  118  |
+|                    ter 1st                     |  109  |
+|                vampire lord 1st                |   99  |
+|            Injection Fairy Lily 1st            |   86  |
+|        Tempest Magician Scr 1st - SEEK         |   0   |
+|    red dragon archfiend Ultimate 1st - SEEK    |   0   |
+|                      test                      |   0   |
++------------------------------------------------+-------+
+buylist_foreign_converts - 2022-09-07
++--------------------------------------+-------+
+|                 Card                 | Price |
++--------------------------------------+-------+
+|          Maxx C Ultimate EN          |  899  |
+|  Plaguespreader Zombie Ultimate 1st  |  888  |
+|      Trap Dustshoot Super CP EN      |  424  |
+|        Tour Guide Ultimate EN        |  285  |
+|    Pot of Greed Ultimate 1st - EN    |  249  |
+|    Emegency Teleport Ultimate 1st    |  229  |
+|    Pot of Avarice Ultimate 1st EN    |  200  |
+|      Goyo Guardian Ultimate 1st      |  147  |
+|     revived king ha des utr 1st      |   99  |
+|          Doomkaiser utr 1st          |   72  |
+|       Glowup Bulb Ultimate EN        |   70  |
+| Thought Ruler Archfiend Ultimate 1st |   70  |
+|          Krebos Super TU EN          |   57  |
+|      Diamond Dude Ultimate 1st       |   48  |
+|     Scrap Dragon Ultimate 1st EN     |   42  |
+|         Armory Arm Ultra 1st         |   5   |
+|       Scapegoat Ultra RP01 EN        |   0   |
+|                 test                 |   0   |
++--------------------------------------+-------+

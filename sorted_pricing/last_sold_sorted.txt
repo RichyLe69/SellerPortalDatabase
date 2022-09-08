@@ -49778,3 +49778,55 @@ buylist_mermail - 2022-09-07
 |   Atlantean Heavy Infrantry Super - TCG    |   0   |
 |                    test                    |   0   |
 +--------------------------------------------+-------+
+buylist_cool_singles - 2022-09-07
++------------------------------------------------+-------+
+|                      Card                      | Price |
++------------------------------------------------+-------+
+|                    dds bewd                    |  2215 |
+|  Stardust Dragon Ghost unl extra - TCG / SEEK  |  545  |
+|                  time wiz 1st                  |  450  |
+|                  b skull 1st                   |  449  |
+|               summoned skull 1st               |  400  |
+|    Power Tool Dragon Ghost 1st - TCG / SEEK    |  334  |
+|                 Dad secret 1st                 |  273  |
+| Black Rose Dragon Ghost unl extra - TCG / SEEK |  264  |
+|             rainbow dragon scr 1st             |  200  |
+|         dark rainbow dragon secret 1st         |  198  |
+|                    yata 1st                    |  184  |
+|                   dds exodia                   |  150  |
+|                    ter 1st                     |  110  |
+|            Injection Fairy Lily 1st            |   86  |
+|                vampire lord 1st                |   85  |
+|        Tempest Magician Scr 1st - SEEK         |   79  |
+|                 gemini scr 1st                 |   79  |
+|       Black Rose Dragon Ghost 1st - SEEK       |   0   |
+|             Blue eyes toon scr 1st             |   0   |
+|                 JD Secret 1st                  |   0   |
+|                     dds dm                     |   0   |
+|    red dragon archfiend Ultimate 1st - SEEK    |   0   |
+|                red eyes lob 1st                |   0   |
+|                      test                      |   0   |
++------------------------------------------------+-------+
+buylist_foreign_converts - 2022-09-07
++--------------------------------------+-------+
+|                 Card                 | Price |
++--------------------------------------+-------+
+|          Maxx C Ultimate EN          |  899  |
+|      Trap Dustshoot Super CP EN      |  451  |
+|  Plaguespreader Zombie Ultimate 1st  |  294  |
+|        Tour Guide Ultimate EN        |  279  |
+|    Emegency Teleport Ultimate 1st    |  249  |
+|    Pot of Avarice Ultimate 1st EN    |  202  |
+|    Pot of Greed Ultimate 1st - EN    |  200  |
+|      Goyo Guardian Ultimate 1st      |  164  |
+|          Doomkaiser utr 1st          |   95  |
+|       Glowup Bulb Ultimate EN        |   70  |
+| Thought Ruler Archfiend Ultimate 1st |   70  |
+|          Krebos Super TU EN          |   58  |
+|      Diamond Dude Ultimate 1st       |   52  |
+|     Scrap Dragon Ultimate 1st EN     |   42  |
+|     revived king ha des utr 1st      |   31  |
+|         Armory Arm Ultra 1st         |   5   |
+|       Scapegoat Ultra RP01 EN        |   0   |
+|                 test                 |   0   |
++--------------------------------------+-------+
