@@ -49703,3 +49703,40 @@ buylist_lightsworn - 2022-09-06
 |          phantom of chaos - super - TCG         |   0   |
 |                       test                      |   0   |
 +-------------------------------------------------+-------+
+buylist_zombies - 2022-09-07
++-------------------------------------------------+-------+
+|                       Card                      | Price |
++-------------------------------------------------+-------+
+| pyramid turtle - super champion pack - TCG/seek |  178  |
+|       Goblin Zombie Secret PTDN - TCG/seek      |  120  |
+|      Zombie Master UTR Taev 1st - TCG/seek      |   74  |
+|          Mezuki Secret pp02 - TCG/seek          |   32  |
+| burial from a diff dimension - dp03 ultra - TCG |   15  |
+|    card of safe return ultra Unlimited - TCG    |   3   |
+|      book of life pgd Super Unlimited - TCG     |   2   |
+|                       test                      |   0   |
++-------------------------------------------------+-------+
+buylist_mermail - 2022-09-07
++--------------------------------------------+-------+
+|                    Card                    | Price |
++--------------------------------------------+-------+
+|       Deep Sea Diva Super - TCG/seek       |  199  |
+|     Atlantean Dragoons UTR - TCG/seek      |  111  |
+|     Atlantean Marksman UTR - TCG/seek      |   56  |
+| Mermail Abyssteus Ultimate 1st - TCG/seek  |   37  |
+| Mermail Abyssmegalo Secret 1st - TCG/seek  |   24  |
+|      Breakthrough Ultimate 1st - TCG       |   20  |
+| Mermail Abysslinde Ultimate 1st - TCG/seek |   20  |
+|          Genex Undive - TCG/seek           |   11  |
+|           Moulinglacia 1st - TCG           |   10  |
+|  Mermail Abyss-sphere Ultimate 1st - TCG   |   9   |
+|   Atlantean Heavy Infrantry Super - TCG    |   6   |
+|        Genex Controller - TCG/seek         |   4   |
+|       Mermail Abyssgunde Super - TCG       |   3   |
+|         Salvage - blue rare - TCG          |   3   |
+|              Tidal Scr - TCG               |   3   |
+|     Mermail Abyssleed Secret 1st - TCG     |   2   |
+|       Mermail Abysspike Super - TCG        |   2   |
+|          soul charge Ultra - TCG           |   0   |
+|                    test                    |   0   |
++--------------------------------------------+-------+

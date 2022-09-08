@@ -49734,3 +49734,40 @@ buylist_lightsworn - 2022-09-06
 |      t roar - champ pack super - TCG / SEEK     |   0   |
 |                       test                      |   0   |
 +-------------------------------------------------+-------+
+buylist_zombies - 2022-09-07
++-------------------------------------------------+-------+
+|                       Card                      | Price |
++-------------------------------------------------+-------+
+| pyramid turtle - super champion pack - TCG/seek |  183  |
+|      Zombie Master UTR Taev 1st - TCG/seek      |   85  |
+|       Goblin Zombie Secret PTDN - TCG/seek      |   59  |
+|          Mezuki Secret pp02 - TCG/seek          |   38  |
+| burial from a diff dimension - dp03 ultra - TCG |   14  |
+|    card of safe return ultra Unlimited - TCG    |   4   |
+|      book of life pgd Super Unlimited - TCG     |   2   |
+|                       test                      |   0   |
++-------------------------------------------------+-------+
+buylist_mermail - 2022-09-07
++--------------------------------------------+-------+
+|                    Card                    | Price |
++--------------------------------------------+-------+
+|       Deep Sea Diva Super - TCG/seek       |  139  |
+|     Atlantean Dragoons UTR - TCG/seek      |  119  |
+|     Atlantean Marksman UTR - TCG/seek      |   57  |
+|      Breakthrough Ultimate 1st - TCG       |   41  |
+| Mermail Abyssteus Ultimate 1st - TCG/seek  |   40  |
+| Mermail Abyssmegalo Secret 1st - TCG/seek  |   30  |
+| Mermail Abysslinde Ultimate 1st - TCG/seek |   24  |
+|           Moulinglacia 1st - TCG           |   14  |
+|  Mermail Abyss-sphere Ultimate 1st - TCG   |   13  |
+|   Atlantean Heavy Infrantry Super - TCG    |   11  |
+|          Genex Undive - TCG/seek           |   10  |
+|        Genex Controller - TCG/seek         |   5   |
+|       Mermail Abyssgunde Super - TCG       |   4   |
+|              Tidal Scr - TCG               |   4   |
+|       Mermail Abysspike Super - TCG        |   3   |
+|         Salvage - blue rare - TCG          |   3   |
+|     Mermail Abyssleed Secret 1st - TCG     |   2   |
+|          soul charge Ultra - TCG           |   1   |
+|                    test                    |   0   |
++--------------------------------------------+-------+
