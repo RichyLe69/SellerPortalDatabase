@@ -17,17 +17,17 @@
 
 ## Split Collections
 
-#collection_deck_builder:
-#  path: 'decks/split_lists/collection_deck_builder.yaml'
-#
-#collection_extra_deck:
-#  path: 'decks/split_lists/collection_extra_deck.yaml'
-#
-##collection_deck_core:
-##  path: 'decks/split_lists/collection_deck_core.yaml'
-#
-#collection_old_school:
-#  path: 'decks/split_lists/collection_old_school.yaml'
+collection_deck_builder:
+  path: 'decks/split_lists/collection_deck_builder.yaml'
+
+collection_extra_deck:
+  path: 'decks/split_lists/collection_extra_deck.yaml'
+
+#collection_deck_core:
+#  path: 'decks/split_lists/collection_deck_core.yaml'
+
+collection_old_school:
+  path: 'decks/split_lists/collection_old_school.yaml'
 
 
 ## Current Buylists
@@ -77,23 +77,23 @@
 
 ################################
 
-buylist_lightswornrulers: ## lightsworn ruler notes: 2014 vs mermails format.
-  path: 'decks/current_buys/tier2/buylist_lightswornrulers.yaml'
-
-buylist_2014_extradeck: ## 2014 format extra deck. mostly XYZs
-  path: 'decks/current_buys/tier2/buylist_2014_extradeck.yaml'
-
-buylist_frog_monarch: ## frog monarch edison - 2013 - pretty cool stuff.
-  path: 'decks/current_buys/tier2/buylist_frog_monarch.yaml'
-
-buylist_goat:
-  path: 'decks/current_buys/tier2/buylist_goat.yaml'
-
-buylist_extras:  # Extra cards & Finish playsets
-  path: 'decks/current_buys/buylist_extras.yaml'
-
-buylist_fairies_edison:
-  path: 'decks/old_lists/buylist_edison_fairies.yaml'
+#buylist_lightswornrulers: ## lightsworn ruler notes: 2014 vs mermails format.
+#  path: 'decks/current_buys/tier2/buylist_lightswornrulers.yaml'
+#
+#buylist_2014_extradeck: ## 2014 format extra deck. mostly XYZs
+#  path: 'decks/current_buys/tier2/buylist_2014_extradeck.yaml'
+#
+#buylist_frog_monarch: ## frog monarch edison - 2013 - pretty cool stuff.
+#  path: 'decks/current_buys/tier2/buylist_frog_monarch.yaml'
+#
+#buylist_goat:
+#  path: 'decks/current_buys/tier2/buylist_goat.yaml'
+#
+#buylist_extras:  # Extra cards & Finish playsets
+#  path: 'decks/current_buys/buylist_extras.yaml'
+#
+#buylist_fairies_edison:
+#  path: 'decks/old_lists/buylist_edison_fairies.yaml'
 
 ###################################
 
