@@ -49886,3 +49886,189 @@ buylist_lightsworn - 2022-09-10
 |          phantom of chaos - super - TCG         |   1   |
 |                       test                      |   0   |
 +-------------------------------------------------+-------+
+buylist_zombies - 2022-09-10
++-------------------------------------------------+-------+
+|                       Card                      | Price |
++-------------------------------------------------+-------+
+| pyramid turtle - super champion pack - TCG/seek |  183  |
+|      Zombie Master UTR Taev 1st - TCG/seek      |   85  |
+|       Goblin Zombie Secret PTDN - TCG/seek      |   59  |
+|          Mezuki Secret pp02 - TCG/seek          |   38  |
+| burial from a diff dimension - dp03 ultra - TCG |   14  |
+|    card of safe return ultra Unlimited - TCG    |   4   |
+|      book of life pgd Super Unlimited - TCG     |   2   |
+|                       test                      |   0   |
++-------------------------------------------------+-------+
+buylist_mermail - 2022-09-10
++--------------------------------------------+-------+
+|                    Card                    | Price |
++--------------------------------------------+-------+
+|       Deep Sea Diva Super - TCG/seek       |  139  |
+|     Atlantean Dragoons UTR - TCG/seek      |  119  |
+|     Atlantean Marksman UTR - TCG/seek      |   56  |
+|      Breakthrough Ultimate 1st - TCG       |   41  |
+| Mermail Abyssteus Ultimate 1st - TCG/seek  |   40  |
+| Mermail Abyssmegalo Secret 1st - TCG/seek  |   29  |
+| Mermail Abysslinde Ultimate 1st - TCG/seek |   23  |
+|           Moulinglacia 1st - TCG           |   14  |
+|  Mermail Abyss-sphere Ultimate 1st - TCG   |   12  |
+|   Atlantean Heavy Infrantry Super - TCG    |   11  |
+|          Genex Undive - TCG/seek           |   10  |
+|        Genex Controller - TCG/seek         |   5   |
+|       Mermail Abyssgunde Super - TCG       |   4   |
+|              Tidal Scr - TCG               |   4   |
+|       Mermail Abysspike Super - TCG        |   3   |
+|         Salvage - blue rare - TCG          |   3   |
+|     Mermail Abyssleed Secret 1st - TCG     |   2   |
+|          soul charge Ultra - TCG           |   1   |
+|                    test                    |   0   |
++--------------------------------------------+-------+
+buylist_cool_singles - 2022-09-10
++------------------------------------------------+-------+
+|                      Card                      | Price |
++------------------------------------------------+-------+
+|                    dds bewd                    |  2607 |
+|                     dds dm                     |  775  |
+|                  b skull 1st                   |  449  |
+|                 Dad secret 1st                 |  400  |
+|               summoned skull 1st               |  400  |
+|    Power Tool Dragon Ghost 1st - TCG / SEEK    |  333  |
+|  Stardust Dragon Ghost unl extra - TCG / SEEK  |  329  |
+|                 JD Secret 1st                  |  327  |
+| Black Rose Dragon Ghost unl extra - TCG / SEEK |  306  |
+|         dark rainbow dragon secret 1st         |  221  |
+|    red dragon archfiend Ultimate 1st - SEEK    |  199  |
+|                    yata 1st                    |  196  |
+|                   dds exodia                   |  171  |
+|                 gemini scr 1st                 |  132  |
+|             rainbow dragon scr 1st             |  127  |
+|                    ter 1st                     |  106  |
+|            Injection Fairy Lily 1st            |  103  |
+|                vampire lord 1st                |   87  |
+|        Tempest Magician Scr 1st - SEEK         |   79  |
+|       Black Rose Dragon Ghost 1st - SEEK       |   0   |
+|             Blue eyes toon scr 1st             |   0   |
+|                red eyes lob 1st                |   0   |
+|                      test                      |   0   |
+|                  time wiz 1st                  |   0   |
++------------------------------------------------+-------+
+buylist_foreign_converts - 2022-09-10
++--------------------------------------+-------+
+|                 Card                 | Price |
++--------------------------------------+-------+
+|          Maxx C Ultimate EN          |  999  |
+|      Trap Dustshoot Super CP EN      |  451  |
+|        Tour Guide Ultimate EN        |  303  |
+|  Plaguespreader Zombie Ultimate 1st  |  264  |
+|    Pot of Avarice Ultimate 1st EN    |  246  |
+|    Emegency Teleport Ultimate 1st    |  230  |
+|    Pot of Greed Ultimate 1st - EN    |  206  |
+|      Goyo Guardian Ultimate 1st      |  164  |
+|          Doomkaiser utr 1st          |   75  |
+|       Glowup Bulb Ultimate EN        |   73  |
+| Thought Ruler Archfiend Ultimate 1st |   70  |
+|     revived king ha des utr 1st      |   60  |
+|      Diamond Dude Ultimate 1st       |   54  |
+|          Krebos Super TU EN          |   46  |
+|     Scrap Dragon Ultimate 1st EN     |   45  |
+|         Armory Arm Ultra 1st         |   12  |
+|       Scapegoat Ultra RP01 EN        |   0   |
+|                 test                 |   0   |
++--------------------------------------+-------+
+buylist_lightswornrulers - 2022-09-10
++-------------------------------+-------+
+|              Card             | Price |
++-------------------------------+-------+
+|     Upstart lcyw 1st - TCG    |   10  |
+|       Blaster Scr - TCG       |   4   |
+|       Tempest Scr - TCG       |   2   |
+|    kuribandit Scr 1st - TCG   |   1   |
+| michael arch lightsworn - TCG |   1   |
+|    minerva baby Super - TCG   |   1   |
+|    soul charge Ultra - TCG    |   1   |
+|   Eclipse Wyvern Super - TCG  |   0   |
+|  Lightray Diabolos Rare - TCG |   0   |
+|       Raiden Super - TCG      |   0   |
+|      needlebug nest - TCG     |   0   |
+|              test             |   0   |
++-------------------------------+-------+
+buylist_2014_extradeck - 2022-09-10
++---------------------------------------+-------+
+|                  Card                 | Price |
++---------------------------------------+-------+
+|        Abyss Dweller UTR - TCG        |   83  |
+|      Big Eye AP06 UTR - TCG/seek      |   72  |
+|      gagaga cowboy Utr - TCG/Seek     |   48  |
+|  101 silent honor ark UTR - TCG/Seek  |   38  |
+|        Bahamut Shark Scr - TCG        |   35  |
+|    ghostrick alucard UTR - TCG/Seek   |   26  |
+| Mermail Abyssgaios UTR 1st - TCG/seek |   18  |
+|      diamond dire wolf - TCG/Seek     |   13  |
+|    Daigusto Emeral Secret 1st - TCG   |   9   |
+|           Minerva XYZ - TCG           |   9   |
+|    Lavalval Chain Secret 1st - TCG    |   5   |
+|       Dewloren Secret 1st - TCG       |   3   |
+|        draccosack Scr 1st - TCG       |   3   |
+|     exciton knight Ultra 1st - TCG    |   3   |
+|      80 rhapsody in berserk - TCG     |   2   |
+|        Gungnir Secret 1st - TCG       |   2   |
+|        Mermail Abysstrite - TCG       |   1   |
+|       mechquipped angineer - TCG      |   0   |
+|       starliege paladynamo - TCG      |   0   |
+|                  test                 |   0   |
++---------------------------------------+-------+
+buylist_frog_monarch - 2022-09-10
++----------------------------------------------------+-------+
+|                        Card                        | Price |
++----------------------------------------------------+-------+
+|   Light Darkness Dragon Secret - RP02 - TCG/seek   |  396  |
+|                Swap Frog UTR - seek                |  314  |
+|            Treeborn Frog UTR 1st - seek            |  248  |
+|                Raiza UTR 1st - seek                |  159  |
+|        Destiny Hero Fear monger - Super Cp         |   64  |
+|          battle fader UTR 1st - TCG/seek           |   56  |
+| Light Darkness Dragon Secret - GX promo - TCG/seek |   46  |
+|             substitoad rare 1st - TCG              |   22  |
+|           Soul exchange Super 1st - TCG            |   19  |
+|             dark dust spirit HL - TCG              |   9   |
+|             dupe frog common 1st - TCG             |   1   |
+|                        test                        |   0   |
++----------------------------------------------------+-------+
+buylist_goat - 2022-09-10
++-------------------+-------+
+|        Card       | Price |
++-------------------+-------+
+| Metamorphosis cp1 |  1349 |
+|   Kycoo lod 1st   |   29  |
+|  Book of moon cp1 |   0   |
+|        test       |   0   |
++-------------------+-------+
+buylist_extras - 2022-09-10
++--------------------------+-------+
+|           Card           | Price |
++--------------------------+-------+
+|       Lonefire cp7       |  571  |
+| Rainbow Dragon Ghost 1st |  554  |
+|    rainbow neos ghost    |  399  |
+| sapphire pegasus utr 1st |  314  |
+|  ehero chaos 1st ghost   |  291  |
+|   topaz tiger utr 1st    |  149  |
+|   ancient city UTR 1st   |  119  |
+|     rare val utr 1st     |   39  |
+|         ruby HL          |   0   |
+|           test           |   0   |
++--------------------------+-------+
+buylist_fairies_edison - 2022-09-10
++-----------------------------------+-------+
+|                Card               | Price |
++-----------------------------------+-------+
+|     Archlord Kristya Unlimited    |   70  |
+|   Herald of orange light - rare   |   10  |
+|      dd warrior lady - super      |   2   |
+|    shining angel - rare / hobby   |   2   |
+| soul of light and purity - common |   1   |
+|     ancient sacred wyvern UTR     |   0   |
+|           freed - super           |   0   |
+|        nova summoner - scr        |   0   |
+|                test               |   0   |
++-----------------------------------+-------+
