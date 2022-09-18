@@ -50403,3 +50403,92 @@ buylist_foreign_converts - 2022-09-13
 |       Scapegoat Ultra RP01 EN        |   0   |
 |                 test                 |   0   |
 +--------------------------------------+-------+
+buylist_zombies - 2022-09-17
++-------------------------------------------------+-------+
+|                       Card                      | Price |
++-------------------------------------------------+-------+
+| pyramid turtle - super champion pack - TCG/seek |  183  |
+|      Zombie Master UTR Taev 1st - TCG/seek      |   85  |
+|       Goblin Zombie Secret PTDN - TCG/seek      |   59  |
+|          Mezuki Secret pp02 - TCG/seek          |   38  |
+| burial from a diff dimension - dp03 ultra - TCG |   14  |
+|    card of safe return ultra Unlimited - TCG    |   4   |
+|      book of life pgd Super Unlimited - TCG     |   2   |
+|                       test                      |   0   |
++-------------------------------------------------+-------+
+buylist_mermail - 2022-09-17
++--------------------------------------------+-------+
+|                    Card                    | Price |
++--------------------------------------------+-------+
+|       Deep Sea Diva Super - TCG/seek       |  142  |
+|     Atlantean Dragoons UTR - TCG/seek      |  118  |
+|     Atlantean Marksman UTR - TCG/seek      |   56  |
+|      Breakthrough Ultimate 1st - TCG       |   39  |
+| Mermail Abyssteus Ultimate 1st - TCG/seek  |   39  |
+| Mermail Abyssmegalo Secret 1st - TCG/seek  |   29  |
+| Mermail Abysslinde Ultimate 1st - TCG/seek |   23  |
+|           Moulinglacia 1st - TCG           |   14  |
+|  Mermail Abyss-sphere Ultimate 1st - TCG   |   12  |
+|   Atlantean Heavy Infrantry Super - TCG    |   10  |
+|          Genex Undive - TCG/seek           |   10  |
+|        Genex Controller - TCG/seek         |   5   |
+|       Mermail Abyssgunde Super - TCG       |   4   |
+|              Tidal Scr - TCG               |   4   |
+|       Mermail Abysspike Super - TCG        |   3   |
+|         Salvage - blue rare - TCG          |   3   |
+|     Mermail Abyssleed Secret 1st - TCG     |   2   |
+|          soul charge Ultra - TCG           |   1   |
+|                    test                    |   0   |
++--------------------------------------------+-------+
+buylist_cool_singles - 2022-09-17
++------------------------------------------------+-------+
+|                      Card                      | Price |
++------------------------------------------------+-------+
+|                    dds bewd                    |  2607 |
+|                     dds dm                     |  775  |
+|                  b skull 1st                   |  449  |
+|                 Dad secret 1st                 |  400  |
+|               summoned skull 1st               |  400  |
+|    Power Tool Dragon Ghost 1st - TCG / SEEK    |  333  |
+|  Stardust Dragon Ghost unl extra - TCG / SEEK  |  329  |
+|                 JD Secret 1st                  |  327  |
+| Black Rose Dragon Ghost unl extra - TCG / SEEK |  306  |
+|         dark rainbow dragon secret 1st         |  221  |
+|    red dragon archfiend Ultimate 1st - SEEK    |  199  |
+|                    yata 1st                    |  196  |
+|                   dds exodia                   |  171  |
+|                 gemini scr 1st                 |  132  |
+|             rainbow dragon scr 1st             |  127  |
+|                    ter 1st                     |  106  |
+|            Injection Fairy Lily 1st            |  101  |
+|                vampire lord 1st                |   86  |
+|        Tempest Magician Scr 1st - SEEK         |   79  |
+|       Black Rose Dragon Ghost 1st - SEEK       |   0   |
+|             Blue eyes toon scr 1st             |   0   |
+|                red eyes lob 1st                |   0   |
+|                      test                      |   0   |
+|                  time wiz 1st                  |   0   |
++------------------------------------------------+-------+
+buylist_foreign_converts - 2022-09-17
++--------------------------------------+-------+
+|                 Card                 | Price |
++--------------------------------------+-------+
+|          Maxx C Ultimate EN          |  999  |
+|      Trap Dustshoot Super CP EN      |  451  |
+|        Tour Guide Ultimate EN        |  301  |
+|  Plaguespreader Zombie Ultimate 1st  |  264  |
+|    Pot of Avarice Ultimate 1st EN    |  246  |
+|    Emegency Teleport Ultimate 1st    |  237  |
+|    Pot of Greed Ultimate 1st - EN    |  206  |
+|      Goyo Guardian Ultimate 1st      |  164  |
+|          Doomkaiser utr 1st          |   74  |
+|       Glowup Bulb Ultimate EN        |   73  |
+| Thought Ruler Archfiend Ultimate 1st |   70  |
+|     revived king ha des utr 1st      |   60  |
+|      Diamond Dude Ultimate 1st       |   54  |
+|          Krebos Super TU EN          |   46  |
+|     Scrap Dragon Ultimate 1st EN     |   45  |
+|         Armory Arm Ultra 1st         |   11  |
+|       Scapegoat Ultra RP01 EN        |   0   |
+|                 test                 |   0   |
++--------------------------------------+-------+
