@@ -11,23 +11,24 @@
 #[x] convert vintage 1sts to unlim
   # 2x gate guardian unlim
   # ced eote scr unlim
+#[] refund 59 t roar, 38 garoth, 76 coth, 66 monster reinc, 302 demise ruin
 
 
 #########################
 
 ## Split Collections
 
-#collection_deck_builder:
-#  path: 'decks/split_lists/collection_deck_builder.yaml'
-#
-#collection_extra_deck:
-#  path: 'decks/split_lists/collection_extra_deck.yaml'
-#
-##collection_deck_core:
-##  path: 'decks/split_lists/collection_deck_core.yaml'
-#
-#collection_old_school:
-#  path: 'decks/split_lists/collection_old_school.yaml'
+collection_deck_builder:
+  path: 'decks/split_lists/collection_deck_builder.yaml'
+
+collection_extra_deck:
+  path: 'decks/split_lists/collection_extra_deck.yaml'
+
+#collection_deck_core:
+#  path: 'decks/split_lists/collection_deck_core.yaml'
+
+collection_old_school:
+  path: 'decks/split_lists/collection_old_school.yaml'
 
 
 ## Current Buylists
@@ -40,7 +41,7 @@
 # 260 - Machines - etc 2007
 # 666 - lightsworns 2008
   # 1k - Zombies 6 Scr, 3 Ulti, 3 Super (CP) - core
-  # 1k - Mermail 19 Ultis, 8 Scr, 5 Dt - deck 2013-14 (no diva) - maybe skip, not very useful. zombies are cooler.
+  # 1k - Mermail - maybe skip, not very useful. zombies are cooler. 19 Ultis, 8 Scr, 5 Dt - deck 2013-14 (no diva)
     # 11.6 cool singles
     # 5.7k - foreign converts
       # 2.3k - frognarch - 10 utr 3 scr
@@ -77,7 +78,9 @@ buylist_foreign_converts:  #  foreign converts, trade bait.
 
 buylist_edison:
   path: 'decks/current_buys/buylist_edison.yaml'
-
+46.6 40.4 43.6
+11.4 6 6.8
+12.2 11.8 10
 ################################
 
 #buylist_lightswornrulers: ## lightsworn ruler notes: 2014 vs mermails format.
