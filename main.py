@@ -1,8 +1,11 @@
-from utils import get_card_lists, scrape_website, sort_market_prices, append_console_to_txt, sum_total_prices, print_sums, sum_total_quantity, calculate_average_per_list
+from utils import get_card_lists, scrape_website, sort_market_prices, append_console_to_txt, sum_total_prices, \
+    print_sums, sum_total_quantity, calculate_average_per_list
 from CardList import CardList
 from selenium import webdriver
 import time
 
+
+# To Run PS C:\Users\Richard Le\PycharmProjects\SellerPortalDatabase> python .\main.py
 
 class Scraper:
 
