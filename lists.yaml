@@ -2,7 +2,7 @@
 # Goat-Edison Playable, Vintage, Photogenic, investment worthy
 
 #########################
-#YGO TODO
+#YGO
 #[x] Take pics of foreign converts
 #[wip] start trading off foreign converts for wants/buylists
 #[] 3 ocg ultis - 2 bewd, 1 red eyes, xyz dragon cannon, exchange
@@ -62,25 +62,23 @@ collection_old_school:
 
 ###################################
 
-buylist_zombies: ## zombie notes: some ultis/secrets, 2009-2010. synergizes with retro light/darks
-  path: 'decks/current_buys/buylist_zombies.yaml'
-
-buylist_mermail: ## mermail notes: cool max rarity, 2013-2014 vs lsruler format.
-  path: 'decks/current_buys/buylist_mermail.yaml'
+#buylist_zombies: ## zombie notes: some ultis/secrets, 2009-2010. synergizes with retro light/darks
+#  path: 'decks/current_buys/buylist_zombies.yaml'
+#
+#buylist_mermail: ## mermail notes: cool max rarity, 2013-2014 vs lsruler format.
+#  path: 'decks/current_buys/buylist_mermail.yaml'
 
 ###################################
 
-buylist_cool_singles:  #  cool singles notes: just cool singles for photos/collections
-  path: 'decks/current_buys/buylist_cool_singles.yaml'
+#buylist_cool_singles:  #  cool singles notes: just cool singles for photos/collections
+#  path: 'decks/current_buys/buylist_cool_singles.yaml'
+#
+#buylist_foreign_converts:  #  foreign converts, trade bait.
+#  path: 'decks/current_buys/buylist_foreign_converts.yaml'
+#
+#buylist_edison:
+#  path: 'decks/current_buys/buylist_edison.yaml'
 
-buylist_foreign_converts:  #  foreign converts, trade bait.
-  path: 'decks/current_buys/buylist_foreign_converts.yaml'
-
-buylist_edison:
-  path: 'decks/current_buys/buylist_edison.yaml'
-46.6 40.4 43.6
-11.4 6 6.8
-12.2 11.8 10
 ################################
 
 #buylist_lightswornrulers: ## lightsworn ruler notes: 2014 vs mermails format.

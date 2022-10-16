@@ -88,7 +88,8 @@ def write_to_excel(column_names, price_dict, csv_name):
 
 def price_yaml_generator(card_name, price, yaml_name):
     with open(yaml_name, 'r') as stream:
-        current_yaml = yaml.load(stream)
+        current_yaml = yaml.safe_load(stream)
+        # current_yaml = yaml.load(stream)
         current_yaml.update({card_name: price})
 
     with open(yaml_name, 'w') as stream:
