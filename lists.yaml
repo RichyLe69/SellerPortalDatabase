@@ -18,17 +18,17 @@
 
 ## Split Collections
 
-collection_deck_builder:
-  path: 'decks/split_lists/collection_deck_builder.yaml'
-
-collection_extra_deck:
-  path: 'decks/split_lists/collection_extra_deck.yaml'
-
-#collection_deck_core:
-#  path: 'decks/split_lists/collection_deck_core.yaml'
-
-collection_old_school:
-  path: 'decks/split_lists/collection_old_school.yaml'
+#collection_deck_builder:
+#  path: 'decks/split_lists/collection_deck_builder.yaml'
+#
+#collection_extra_deck:
+#  path: 'decks/split_lists/collection_extra_deck.yaml'
+#
+##collection_deck_core:
+##  path: 'decks/split_lists/collection_deck_core.yaml'
+#
+#collection_old_school:
+#  path: 'decks/split_lists/collection_old_school.yaml'
 
 
 ## Current Buylists
@@ -62,22 +62,22 @@ collection_old_school:
 
 ###################################
 
-#buylist_zombies: ## zombie notes: some ultis/secrets, 2009-2010. synergizes with retro light/darks
-#  path: 'decks/current_buys/buylist_zombies.yaml'
-#
-#buylist_mermail: ## mermail notes: cool max rarity, 2013-2014 vs lsruler format.
-#  path: 'decks/current_buys/buylist_mermail.yaml'
+buylist_zombies: ## zombie notes: some ultis/secrets, 2009-2010. synergizes with retro light/darks
+  path: 'decks/current_buys/buylist_zombies.yaml'
+
+buylist_mermail: ## mermail notes: cool max rarity, 2013-2014 vs lsruler format.
+  path: 'decks/current_buys/buylist_mermail.yaml'
 
 ###################################
 
-#buylist_cool_singles:  #  cool singles notes: just cool singles for photos/collections
-#  path: 'decks/current_buys/buylist_cool_singles.yaml'
-#
-#buylist_foreign_converts:  #  foreign converts, trade bait.
-#  path: 'decks/current_buys/buylist_foreign_converts.yaml'
-#
-#buylist_edison:
-#  path: 'decks/current_buys/buylist_edison.yaml'
+buylist_cool_singles:  #  cool singles notes: just cool singles for photos/collections
+  path: 'decks/current_buys/buylist_cool_singles.yaml'
+
+buylist_foreign_converts:  #  foreign converts, trade bait.
+  path: 'decks/current_buys/buylist_foreign_converts.yaml'
+
+buylist_edison:
+  path: 'decks/current_buys/buylist_edison.yaml'
 
 ################################
 
