@@ -2,23 +2,26 @@ get visible/text list of:
 
 2004 yata lock
 goat control - kris perovic
-chaos control - https://www.youtube.com/watch?v=0wpdlQre71k
-chaos turbo https://www.youtube.com/watch?v=dP-2fuJ1z50
-demise otk https://www.youtube.com/watch?v=57bCGTafA8A
-machines 2007, troop dupe https://www.youtube.com/watch?v=lH3G1B38DXM
-2008 lightsworn - https://www.youtube.com/watch?v=IcDcMS4lz3Y, nick ma
-2008 return dad https://www.youtube.com/watch?v=6_RT_5OpBUU
-teledad 2008 https://www.youtube.com/watch?v=pX2xDNCB_KE
-teledad 2009 opression https://www.youtube.com/watch?v=a6ZS1QTqVRo
-2009 twilight https://www.youtube.com/watch?v=_ScSXC9JTa8
-salvo dad - https://www.youtube.com/watch?v=jn1mRM84OoI
+[ ] chaos control - https://www.youtube.com/watch?v=0wpdlQre71k
+[ ] chaos turbo https://www.youtube.com/watch?v=dP-2fuJ1z50
+[x] demise otk https://www.youtube.com/watch?v=57bCGTafA8A
+[x] machines 2007, troop dupe https://www.youtube.com/watch?v=lH3G1B38DXM
+[x] 2008 lightsworn - https://www.youtube.com/watch?v=IcDcMS4lz3Y, nick ma
+[x] 2008 return dad https://www.youtube.com/watch?v=6_RT_5OpBUU
+[x] teledad 2008 https://www.youtube.com/watch?v=pX2xDNCB_KE
+[ ] teledad 2009 opression https://www.youtube.com/watch?v=a6ZS1QTqVRo
+[x] 2009 twilight https://www.youtube.com/watch?v=_ScSXC9JTa8
+[ ] salvo dad - https://www.youtube.com/watch?v=jn1mRM84OoI
+
 2010 edison -
 quickdraw - https://www.youtube.com/watch?v=L2z8-lLh09w
-welledad https://imgur.com/IkXbymD
-edison lightsworn https://www.youtube.com/watch?v=vSSwJBpgvYU
+[x] welledad https://imgur.com/IkXbymD
+[x] edison lightsworn https://www.youtube.com/watch?v=vSSwJBpgvYU
 late 2010 plant synchro
-2011 decks - tengu plants,  https://www.youtube.com/watch?v=POUUKVr_gzI
-dino rabbits,  https://www.youtube.com/watch?v=qlClkj6l4fw
+
+2011 decks -
+[x] tengu plants,  https://www.youtube.com/watch?v=POUUKVr_gzI
+[ ] dino rabbits,  https://www.youtube.com/watch?v=qlClkj6l4fw
 agents - https://www.youtube.com/watch?v=OAPwj7n-x1g
 , chaos stun, - courtney wallace
 salvo chaos 2011 https://www.youtube.com/watch?v=zfFHOfc8Y-A
