@@ -2,7 +2,7 @@ get visible/text list of:
 
 [x] 2004 yata lock
 [x] goat control - kris perovic modified
-[ ] chaos control - https://www.youtube.com/watch?v=0wpdlQre71k
+[x] chaos control - https://www.youtube.com/watch?v=0wpdlQre71k
 [x] chaos turbo https://www.youtube.com/watch?v=dP-2fuJ1z50
 [x] demise otk https://www.youtube.com/watch?v=57bCGTafA8A
 [x] machines 2007, troop dupe https://www.youtube.com/watch?v=lH3G1B38DXM
@@ -22,9 +22,9 @@ late 2010 plant synchro
 2011 decks -
 [x] tengu plants,  https://www.youtube.com/watch?v=POUUKVr_gzI
 [x] dino rabbits,  https://www.youtube.com/watch?v=qlClkj6l4fw
-agents - https://www.youtube.com/watch?v=OAPwj7n-x1g
-, chaos stun, - courtney wallace
-salvo chaos 2011 https://www.youtube.com/watch?v=zfFHOfc8Y-A
+[x] agents - https://www.youtube.com/watch?v=OAPwj7n-x1g
+[x] chaos stun, - courtney wallace
+[x] salvo chaos 2011 https://www.youtube.com/watch?v=zfFHOfc8Y-A
  windup, https://www.youtube.com/watch?v=sdFIhszmfWY
-inzektor, https://www.youtube.com/watch?v=SL350oLsCF0
+[x] inzektor, https://www.youtube.com/watch?v=SL350oLsCF0
 2012 decks
