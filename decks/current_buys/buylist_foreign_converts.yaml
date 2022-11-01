@@ -23,10 +23,10 @@ Diamond Dude Ultimate 1st:
   edition: 'Lightly Played 1st'
   qty: 1
 
-Glowup Bulb Ultimate EN:
-  url: 58425
-  edition: 'Near Mint 1st'
-  qty: 1
+#Glowup Bulb Ultimate EN:
+#  url: 58425
+#  edition: 'Near Mint 1st'
+#  qty: 1
 
 Pot of Greed Ultimate 1st - EN:
   url: 35076
@@ -66,25 +66,15 @@ Scrap Dragon Ultimate 1st EN:
   edition: 'Near Mint 1st'
   qty: 1
 
-#Goyo Guardian Ultimate 1st:
-#  url: 58520
-#  edition: 'Near Mint 1st'
-#  qty: 1
-#
-#Thought Ruler Archfiend Ultimate 1st:
-#  url: 58521
-#  edition: 'Near Mint 1st'
-#  qty: 1
+Thought Ruler Archfiend Ultimate 1st:
+  url: 58521
+  edition: 'Near Mint 1st'
+  qty: 1
 
 Doomkaiser utr 1st:
   url: 58509
   edition: 'Near Mint 1st'
   qty: 1
-
-#revived king ha des utr 1st:
-#  url: 58510
-#  edition: 'Near Mint 1st'
-#  qty: 1
 
 Armory Arm Ultra 1st:
   url: 32896
